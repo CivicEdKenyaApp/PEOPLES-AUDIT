@@ -3,8 +3,7 @@ import logging
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 
-# type: ignore
-from fastapi import FastAPI, HTTPException, Path, Query
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse, FileResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -24,7 +23,7 @@ logging.basicConfig(
 logger = logging.getLogger("pipeline_api")
 
 # --- Path Configuration (Based on your Render Environment) ---
-# Uses the PEOPLES_AUDIT_ROOT environment variable you set on Render
+# FIXED: Using pathlib.Path directly, not FastAPI's Path
 ROOT_DIR = Path(os.getenv("PEOPLES_AUDIT_ROOT", "/opt/render/project/src"))
 
 # Paths to your specific output directories (as seen in your file tree)
@@ -38,7 +37,7 @@ FINAL_OUTPUTS_DATA_DIR = ROOT_DIR / "final_outputs" / "data"
 HTML_SOURCE_DIRS = [HTML_VISUALS_DIR, TEST_CHARTS_DIR]
 
 # --- CORS Configuration ---
-# Allows your React sites on Vercel to embed or fetch these resources[citation:5]
+# Allows your React sites on Vercel to embed or fetch these resources
 ALLOWED_ORIGINS = [
     "https://ceka.vercel.app",
     "https://nasaka.vercel.app",
@@ -97,7 +96,7 @@ async def root():
 @app.get("/healthz")
 async def health_check():
     """
-    Health check endpoint for Render monitoring[citation:3].
+    Health check endpoint for Render monitoring.
     Render will periodically ping this endpoint to ensure your service is alive.
     """
     return {"status": "healthy", "service": "peoples-audit-api"}
@@ -120,10 +119,10 @@ async def serve_html(filename: str):
     raise HTTPException(status_code=404, detail=f"HTML file not found: {filename}")
 
 @app.get("/sankey", response_class=HTMLResponse)
-async def get_sankey(filename: str = Query("sankey.html", description="Name of the Sankey HTML file")):
+async def get_sankey(filename: str = "sankey.html"):
     """
     Serves the main Sankey diagram visualization.
-    Defaults to 'sankey.html'. The 'filename' is a query parameter, not part of the path[citation:1].
+    Defaults to 'sankey.html'.
     Example: /sankey?filename=sankey_detailed.html
     """
     file_path = find_html_file(filename)
@@ -141,9 +140,7 @@ async def get_dashboard():
     raise HTTPException(status_code=404, detail="Dashboard file (dashboard.html) not found.")
 
 @app.get("/test-charts/{filename}", response_class=HTMLResponse)
-async def get_test_chart(
-    filename: str = Path(..., description="Name of the test chart HTML file")
-):
+async def get_test_chart(filename: str):
     """
     Serves HTML files from the test_charts directory.
     Example: /test-charts/budget_allocation.html
@@ -155,25 +152,22 @@ async def get_test_chart(
     raise HTTPException(status_code=404, detail=f"Test chart not found: {filename}")
 
 @app.get("/data/{filetype}/{filename}")
-async def get_data_file(
-    filetype: str = Path(..., regex="^(csv|json|xlsx)$", description="Type of data file: csv, json, or xlsx"),
-    filename: str = Path(..., description="Name of the data file")
-):
+async def get_data_file(filetype: str, filename: str):
     """
     Serves static data files (CSV, JSON, XLSX) from the pipeline outputs.
-    **CORRECTED:** Both 'filetype' and 'filename' are now correctly defined as path parameters (Path())[citation:9].
     Example: /data/csv/budget_analysis.csv
     """
+    # Validate filetype
+    if filetype not in ["csv", "json", "xlsx"]:
+        raise HTTPException(status_code=400, detail=f"Unsupported file type: {filetype}")
+    
     # Map file types to their likely directories based on your pipeline
     if filetype in ["csv", "json"]:
         # Check stage_3_llm_text first, then final_outputs/data
         potential_dirs = [STAGE_3_DATA_DIR, FINAL_OUTPUTS_DATA_DIR]
     elif filetype == "xlsx":
         potential_dirs = [FINAL_OUTPUTS_DATA_DIR]
-    else:
-        # This should not happen due to regex validation, but kept for safety
-        raise HTTPException(status_code=400, detail=f"Unsupported file type requested: {filetype}")
-
+    
     for base_dir in potential_dirs:
         file_path = base_dir / filename
         if file_path.exists():
