@@ -34,7 +34,7 @@ transformers==4.30.2
 torch==2.0.1
 
 # FastAPI stack
-fastapi==0.115.0
-uvicorn==0.30.0
+fastapi>=0.100.0
+uvicorn>=0.24.0
 pydantic==2.7.0
 pydantic-core==2.18.1
