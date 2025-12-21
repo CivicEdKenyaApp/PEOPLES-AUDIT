@@ -16,7 +16,7 @@ tabula-py==2.10.0
 camelot-py[cv]==0.11.0
 pytesseract==0.3.13
 Pillow==9.5.0
-tqdm==4.68.0
+tqdm==4.67.1
 openpyxl==3.1.2
 
 # Utilities
