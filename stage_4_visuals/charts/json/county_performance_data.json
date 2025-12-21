@@ -1,0 +1,37 @@
+{
+  "title": "County Audit Performance (2023/24)",
+  "chart_type": "bar",
+  "x_axis": "County",
+  "y_axis": "Audit Score",
+  "categories": [
+    "Makueni",
+    "Kirinyaga",
+    "Nyeri",
+    "Meru",
+    "Kiambu",
+    "Nairobi",
+    "Mombasa",
+    "Kisumu",
+    "Nakuru",
+    "Uasin Gishu"
+  ],
+  "values": [
+    95,
+    92,
+    90,
+    88,
+    85,
+    82,
+    80,
+    78,
+    75,
+    70
+  ],
+  "series": null,
+  "metadata": {
+    "source": "Office of the Auditor-General",
+    "year": "2023/24",
+    "total_counties": 47,
+    "clean_audits": 6
+  }
+}

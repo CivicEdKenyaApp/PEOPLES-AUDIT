@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>People's Audit Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; }
+        .container { max-width: 1400px; margin: 0 auto; background: rgba(255, 255, 255, 0.95); padding: 30px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); }
+        header { text-align: center; margin-bottom: 40px; padding-bottom: 20px; border-bottom: 2px solid #eee; }
+        h1 { color: #2c3e50; font-size: 2.8rem; margin-bottom: 10px; background: linear-gradient(90deg, #667eea, #764ba2); -webkit-background-clip: text; background-clip: text; color: transparent; }
+        .subtitle { color: #7f8c8d; font-size: 1.2rem; margin-bottom: 30px; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0; }
+        .stat-card { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; padding: 20px; border-radius: 10px; text-align: center; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); }
+        .stat-value { font-size: 2.5rem; font-weight: bold; margin-bottom: 5px; }
+        .stat-label { font-size: 0.9rem; opacity: 0.9; }
+        .section { margin: 40px 0; }
+        .section-title { color: #2c3e50; font-size: 1.8rem; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #f0f0f0; }
+        .file-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+        .file-card { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); border-left: 4px solid #3498db; transition: transform 0.3s ease; }
+        .file-card:hover { transform: translateY(-5px); box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15); }
+        .file-title { color: #2c3e50; font-size: 1.2rem; margin-bottom: 10px; }
+        .file-desc { color: #7f8c8d; font-size: 0.9rem; margin-bottom: 15px; }
+        .btn { display: inline-block; padding: 10px 20px; background: #3498db; color: white; text-decoration: none; border-radius: 5px; font-weight: 500; transition: background 0.3s ease; }
+        .btn:hover { background: #2980b9; }
+        .chart-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 20px; margin: 20px 0; }
+        .chart-container { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); }
+        .chart-title { color: #2c3e50; font-size: 1.2rem; margin-bottom: 15px; }
+        footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #eee; text-align: center; color: #7f8c8d; font-size: 0.9rem; }
+        @media (max-width: 768px) { .container { padding: 15px; } h1 { font-size: 2rem; } .chart-grid { grid-template-columns: 1fr; } }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-chart-line"></i> People's Audit Dashboard</h1>
+            <p class="subtitle">Comprehensive Analysis of Kenya's Economic Governance Crisis</p>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value" id="total-debt">KSh 12.05T</div>
+                    <div class="stat-label">Total Public Debt (2025)</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="debt-ratio">56%</div>
+                    <div class="stat-label">Debt Service to Revenue</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="corruption-loss">KSh 800B</div>
+                    <div class="stat-label">Annual Corruption Loss</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="food-insecure">15.5M</div>
+                    <div class="stat-label">Food Insecure Kenyans</div>
+                </div>
+            </div>
+        </header>
+        
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-file-alt"></i> Key Documents</h2>
+            <div class="file-grid">
+                <div class="file-card">
+                    <h3 class="file-title"><i class="fas fa-users"></i> Citizen's Summary</h3>
+                    <p class="file-desc">Simple English guide for ordinary Kenyans explaining the economic crisis</p>
+                    <a href="summaries/citizen_summary.md" class="btn" download><i class="fas fa-download"></i> Download</a>
+                </div>
+                <div class="file-card">
+                    <h3 class="file-title"><i class="fas fa-chart-bar"></i> Data Compendium</h3>
+                    <p class="file-desc">Complete statistics and analysis in Excel format with all data points</p>
+                    <a href="data/Kenya_Governance_By_The_Numbers.xlsx" class="btn" download><i class="fas fa-download"></i> Download</a>
+                </div>
+                <div class="file-card">
+                    <h3 class="file-title"><i class="fas fa-gavel"></i> Constitutional Guide</h3>
+                    <p class="file-desc">Your rights under the Constitution and how they're being violated</p>
+                    <a href="reports/citizen_constitutional_guide.txt" class="btn" download><i class="fas fa-download"></i> Download</a>
+                </div>
+                <div class="file-card">
+                    <h3 class="file-title"><i class="fas fa-hands-helping"></i> Action Handbook</h3>
+                    <p class="file-desc">What you can do to demand accountability and fight corruption</p>
+                    <a href="summaries/action_handbook.md" class="btn" download><i class="fas fa-download"></i> Download</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-chart-pie"></i> Visualizations</h2>
+            <div class="chart-grid">
+                <div class="chart-container">
+                    <h3 class="chart-title">Debt Growth Timeline (2014-2025)</h3>
+                    <img src="visuals/charts/png/debt_timeline.png" alt="Debt Timeline" style="width: 100%; border-radius: 5px;">
+                    <p style="color: #7f8c8d; font-size: 0.9rem; margin-top: 10px;">Kenya's public debt grew from KSh 2.4T to KSh 12.05T in 11 years</p>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title">Corruption Losses by Sector</h3>
+                    <img src="visuals/charts/png/corruption_by_sector.png" alt="Corruption by Sector" style="width: 100%; border-radius: 5px;">
+                    <p style="color: #7f8c8d; font-size: 0.9rem; margin-top: 10px;">Estimated annual losses across different government sectors</p>
+                </div>
+            </div>
+            <div style="text-align: center; margin-top: 20px;">
+                <a href="visuals/charts/dashboard.html" class="btn" target="_blank"><i class="fas fa-expand"></i> View Interactive Dashboard</a>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-database"></i> Data Files</h2>
+            <div class="file-grid">
+                <div class="file-card">
+                    <h3 class="file-title"><i class="fas fa-code"></i> JSON Data</h3>
+                    <p class="file-desc">Complete extracted data in JSON format for developers and researchers</p>
+                    <a href="data/all_consolidated_data.json" class="btn"><i class="fas fa-eye"></i> View Data</a>
+                </div>
+                <div class="file-card">
+                    <h3 class="file-title"><i class="fas fa-project-diagram"></i> Sankey Diagram</h3>
+                    <p class="file-desc">Interactive visualization of public fund flows and corruption</p>
+                    <a href="visuals/sankey.html" class="btn" target="_blank"><i class="fas fa-external-link-alt"></i> Open Interactive</a>
+                </div>
+                <div class="file-card">
+                    <h3 class="file-title"><i class="fas fa-clipboard-list"></i> Validation Reports</h3>
+                    <p class="file-desc">Constitutional violation analysis and legal compliance reports</p>
+                    <a href="reports/constitutional_validation.json" class="btn"><i class="fas fa-eye"></i> View Report</a>
+                </div>
+                <div class="file-card">
+                    <h3 class="file-title"><i class="fas fa-cogs"></i> Reform Agenda</h3>
+                    <p class="file-desc">Priority actions and governance reforms needed</p>
+                    <a href="data/reform_agenda.json" class="btn"><i class="fas fa-eye"></i> View Agenda</a>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p>People's Audit Pipeline | Data Source: Okoa Uchumi Campaign / TISA</p>
+            <p>Generated: December 21, 2025 21:37 | Pipeline Version: 1.0</p>
+            <p style="margin-top: 10px; font-size: 0.8rem; opacity: 0.7;">
+                <i class="fas fa-info-circle"></i> This dashboard provides access to all analysis outputs. Use the links above to download or view specific files.
+            </p>
+        </footer>
+    </div>
+    
+    <script>
+        // Load dynamic data if available
+        fetch('data/statistics_summary.json')
+            .then(response => response.json())
+            .then(data => {
+                if (data.total_debt) {
+                    document.getElementById('total-debt').textContent = data.total_debt;
+                }
+                if (data.debt_service_ratio) {
+                    document.getElementById('debt-ratio').textContent = data.debt_service_ratio;
+                }
+                if (data.corruption_loss_annual) {
+                    document.getElementById('corruption-loss').textContent = data.corruption_loss_annual;
+                }
+                if (data.food_insecure) {
+                    document.getElementById('food-insecure').textContent = data.food_insecure;
+                }
+            })
+            .catch(error => console.log('Error loading statistics:', error));
+    </script>
+</body>
+</html>

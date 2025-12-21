@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "name": "Government Revenue",
+      "category": "source",
+      "color": "#1f77b4"
+    },
+    {
+      "name": "Public Debt",
+      "category": "source",
+      "color": "#ff7f0e"
+    },
+    {
+      "name": "Tax Revenue",
+      "category": "source",
+      "color": "#2ca02c"
+    },
+    {
+      "name": "Corruption Losses",
+      "category": "flow",
+      "color": "#d62728"
+    },
+    {
+      "name": "Debt Service",
+      "category": "flow",
+      "color": "#9467bd"
+    },
+    {
+      "name": "Wasteful Expenditure",
+      "category": "flow",
+      "color": "#8c564b"
+    },
+    {
+      "name": "Recurrent Costs",
+      "category": "flow",
+      "color": "#e377c2"
+    },
+    {
+      "name": "Healthcare",
+      "category": "destination",
+      "color": "#17becf"
+    },
+    {
+      "name": "Education",
+      "category": "destination",
+      "color": "#bcbd22"
+    },
+    {
+      "name": "Infrastructure",
+      "category": "destination",
+      "color": "#7f7f7f"
+    },
+    {
+      "name": "Social Protection",
+      "category": "destination",
+      "color": "#aec7e8"
+    },
+    {
+      "name": "Security",
+      "category": "destination",
+      "color": "#ffbb78"
+    },
+    {
+      "name": "Agriculture",
+      "category": "destination",
+      "color": "#98df8a"
+    },
+    {
+      "name": "Offshore Accounts",
+      "category": "sink",
+      "color": "#d62728"
+    },
+    {
+      "name": "Private Assets",
+      "category": "sink",
+      "color": "#ff9896"
+    },
+    {
+      "name": "Tax Havens",
+      "category": "final",
+      "color": "#c5b0d5"
+    },
+    {
+      "name": "Luxury Goods",
+      "category": "final",
+      "color": "#c49c94"
+    }
+  ],
+  "links": [
+    {
+      "source": "Government Revenue",
+      "target": "Corruption Losses",
+      "value": 800,
+      "color": "rgba(214, 39, 40, 0.6)"
+    },
+    {
+      "source": "Government Revenue",
+      "target": "Debt Service",
+      "value": 750,
+      "color": "rgba(148, 103, 189, 0.6)"
+    },
+    {
+      "source": "Government Revenue",
+      "target": "Recurrent Costs",
+      "value": 1000,
+      "color": "rgba(227, 119, 194, 0.6)"
+    },
+    {
+      "source": "Government Revenue",
+      "target": "Wasteful Expenditure",
+      "value": 300,
+      "color": "rgba(140, 86, 75, 0.6)"
+    },
+    {
+      "source": "Public Debt",
+      "target": "Debt Service",
+      "value": 750,
+      "color": "rgba(148, 103, 189, 0.6)"
+    },
+    {
+      "source": "Public Debt",
+      "target": "Infrastructure",
+      "value": 200,
+      "color": "rgba(127, 127, 127, 0.6)"
+    },
+    {
+      "source": "Tax Revenue",
+      "target": "Recurrent Costs",
+      "value": 500,
+      "color": "rgba(227, 119, 194, 0.6)"
+    },
+    {
+      "source": "Recurrent Costs",
+      "target": "Healthcare",
+      "value": 150,
+      "color": "rgba(23, 190, 207, 0.6)"
+    },
+    {
+      "source": "Recurrent Costs",
+      "target": "Education",
+      "value": 120,
+      "color": "rgba(188, 189, 34, 0.6)"
+    },
+    {
+      "source": "Recurrent Costs",
+      "target": "Security",
+      "value": 200,
+      "color": "rgba(255, 187, 120, 0.6)"
+    },
+    {
+      "source": "Recurrent Costs",
+      "target": "Agriculture",
+      "value": 80,
+      "color": "rgba(152, 223, 138, 0.6)"
+    },
+    {
+      "source": "Wasteful Expenditure",
+      "target": "Corruption Losses",
+      "value": 200,
+      "color": "rgba(214, 39, 40, 0.6)"
+    },
+    {
+      "source": "Corruption Losses",
+      "target": "Offshore Accounts",
+      "value": 600,
+      "color": "rgba(214, 39, 40, 0.3)"
+    },
+    {
+      "source": "Corruption Losses",
+      "target": "Private Assets",
+      "value": 200,
+      "color": "rgba(214, 39, 40, 0.3)"
+    },
+    {
+      "source": "Offshore Accounts",
+      "target": "Tax Havens",
+      "value": 600,
+      "color": "rgba(214, 39, 40, 0.2)"
+    },
+    {
+      "source": "Private Assets",
+      "target": "Luxury Goods",
+      "value": 200,
+      "color": "rgba(214, 39, 40, 0.2)"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "generated_date": "2025-12-21T21:37:59.534930",
+  "pipeline_version": "1.0",
+  "files": [
+    {
+      "path": "dashboard.html",
+      "type": ".html",
+      "size_bytes": 10692,
+      "size_human": "10.4 KB"
+    },
+    {
+      "path": "manifest.json",
+      "type": ".json",
+      "size_bytes": 6533,
+      "size_human": "6.4 KB"
+    },
+    {
+      "path": "README.md",
+      "type": ".md",
+      "size_bytes": 3926,
+      "size_human": "3.8 KB"
+    },
+    {
+      "path": "data\\all_consolidated_data.json",
+      "type": ".json",
+      "size_bytes": 1467847,
+      "size_human": "1.4 MB"
+    },
+    {
+      "path": "data\\budget_analysis.csv",
+      "type": ".csv",
+      "size_bytes": 649,
+      "size_human": "649.0 B"
+    },
+    {
+      "path": "data\\charts_data.json",
+      "type": ".json",
+      "size_bytes": 4664,
+      "size_human": "4.6 KB"
+    },
+    {
+      "path": "data\\constitutional_matrix.json",
+      "type": ".json",
+      "size_bytes": 7120,
+      "size_human": "7.0 KB"
+    },
+    {
+      "path": "data\\corruption_cases.csv",
+      "type": ".csv",
+      "size_bytes": 1042,
+      "size_human": "1.0 KB"
+    },
+    {
+      "path": "data\\debt_analysis.csv",
+      "type": ".csv",
+      "size_bytes": 1001,
+      "size_human": "1001.0 B"
+    },
+    {
+      "path": "data\\Kenya_Governance_By_The_Numbers.xlsx",
+      "type": ".xlsx",
+      "size_bytes": 10027,
+      "size_human": "9.8 KB"
+    },
+    {
+      "path": "data\\reform_agenda.json",
+      "type": ".json",
+      "size_bytes": 7250,
+      "size_human": "7.1 KB"
+    },
+    {
+      "path": "data\\sankey.html",
+      "type": ".html",
+      "size_bytes": 13262,
+      "size_human": "13.0 KB"
+    },
+    {
+      "path": "data\\sankey_data.json",
+      "type": ".json",
+      "size_bytes": 4179,
+      "size_human": "4.1 KB"
+    },
+    {
+      "path": "data\\statistics_summary.json",
+      "type": ".json",
+      "size_bytes": 2456,
+      "size_human": "2.4 KB"
+    },
+    {
+      "path": "data\\timeline_data.json",
+      "type": ".json",
+      "size_bytes": 3588,
+      "size_human": "3.5 KB"
+    },
+    {
+      "path": "reports\\citizen_constitutional_guide.pdf",
+      "type": ".pdf",
+      "size_bytes": 2443,
+      "size_human": "2.4 KB"
+    },
+    {
+      "path": "reports\\citizen_constitutional_guide.txt",
+      "type": ".txt",
+      "size_bytes": 1149,
+      "size_human": "1.1 KB"
+    },
+    {
+      "path": "reports\\constitutional_validation.json",
+      "type": ".json",
+      "size_bytes": 2,
+      "size_human": "2.0 B"
+    },
+    {
+      "path": "reports\\validation_summary.json",
+      "type": ".json",
+      "size_bytes": 198,
+      "size_human": "198.0 B"
+    },
+    {
+      "path": "summaries\\action_handbook.md",
+      "type": ".md",
+      "size_bytes": 7533,
+      "size_human": "7.4 KB"
+    },
+    {
+      "path": "summaries\\budget_analysis.csv",
+      "type": ".csv",
+      "size_bytes": 649,
+      "size_human": "649.0 B"
+    },
+    {
+      "path": "summaries\\charts_data.json",
+      "type": ".json",
+      "size_bytes": 4664,
+      "size_human": "4.6 KB"
+    },
+    {
+      "path": "summaries\\citizen_summary.md",
+      "type": ".md",
+      "size_bytes": 3590,
+      "size_human": "3.5 KB"
+    },
+    {
+      "path": "summaries\\constitutional_guide.md",
+      "type": ".md",
+      "size_bytes": 4393,
+      "size_human": "4.3 KB"
+    },
+    {
+      "path": "summaries\\constitutional_matrix.json",
+      "type": ".json",
+      "size_bytes": 7120,
+      "size_human": "7.0 KB"
+    },
+    {
+      "path": "summaries\\corruption_cases.csv",
+      "type": ".csv",
+      "size_bytes": 1042,
+      "size_human": "1.0 KB"
+    },
+    {
+      "path": "summaries\\debt_analysis.csv",
+      "type": ".csv",
+      "size_bytes": 1001,
+      "size_human": "1001.0 B"
+    },
+    {
+      "path": "summaries\\executive_summary.md",
+      "type": ".md",
+      "size_bytes": 3567,
+      "size_human": "3.5 KB"
+    },
+    {
+      "path": "summaries\\reform_agenda.json",
+      "type": ".json",
+      "size_bytes": 7250,
+      "size_human": "7.1 KB"
+    },
+    {
+      "path": "summaries\\sankey_data.json",
+      "type": ".json",
+      "size_bytes": 4179,
+      "size_human": "4.1 KB"
+    },
+    {
+      "path": "summaries\\statistics_summary.json",
+      "type": ".json",
+      "size_bytes": 2456,
+      "size_human": "2.4 KB"
+    },
+    {
+      "path": "summaries\\timeline_data.json",
+      "type": ".json",
+      "size_bytes": 3588,
+      "size_human": "3.5 KB"
+    },
+    {
+      "path": "visuals\\budget_analysis.csv",
+      "type": ".csv",
+      "size_bytes": 649,
+      "size_human": "649.0 B"
+    },
+    {
+      "path": "visuals\\charts_data.json",
+      "type": ".json",
+      "size_bytes": 4664,
+      "size_human": "4.6 KB"
+    },
+    {
+      "path": "visuals\\constitutional_matrix.json",
+      "type": ".json",
+      "size_bytes": 7120,
+      "size_human": "7.0 KB"
+    },
+    {
+      "path": "visuals\\corruption_cases.csv",
+      "type": ".csv",
+      "size_bytes": 1042,
+      "size_human": "1.0 KB"
+    },
+    {
+      "path": "visuals\\debt_analysis.csv",
+      "type": ".csv",
+      "size_bytes": 1001,
+      "size_human": "1001.0 B"
+    },
+    {
+      "path": "visuals\\reform_agenda.json",
+      "type": ".json",
+      "size_bytes": 7250,
+      "size_human": "7.1 KB"
+    },
+    {
+      "path": "visuals\\sankey.html",
+      "type": ".html",
+      "size_bytes": 13262,
+      "size_human": "13.0 KB"
+    },
+    {
+      "path": "visuals\\sankey_data.json",
+      "type": ".json",
+      "size_bytes": 4179,
+      "size_human": "4.1 KB"
+    },
+    {
+      "path": "visuals\\statistics_summary.json",
+      "type": ".json",
+      "size_bytes": 2456,
+      "size_human": "2.4 KB"
+    },
+    {
+      "path": "visuals\\timeline_data.json",
+      "type": ".json",
+      "size_bytes": 3588,
+      "size_human": "3.5 KB"
+    }
+  ],
+  "statistics": {
+    "total_files": 42,
+    "file_types": {
+      ".html": 3,
+      ".json": 22,
+      ".md": 5,
+      ".csv": 9,
+      ".xlsx": 1,
+      ".pdf": 1,
+      ".txt": 1
+    },
+    "total_size_bytes": 1644271,
+    "total_size_human": "1.6 MB"
+  }
+}

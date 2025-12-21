@@ -1,0 +1,28 @@
+{
+  "title": "Governance Reform Priorities",
+  "chart_type": "horizontal_bar",
+  "x_axis": "Priority Score",
+  "y_axis": "Reform Area",
+  "categories": [
+    "fiscal_governance",
+    "anti_corruption",
+    "political_financing",
+    "devolution",
+    "judicial_reform",
+    "social_protection"
+  ],
+  "values": [
+    90,
+    88,
+    86,
+    84,
+    82,
+    80
+  ],
+  "series": null,
+  "metadata": {
+    "source": "People's Audit Analysis",
+    "reform_areas": 6,
+    "timeframe": "Immediate to 3 years"
+  }
+}

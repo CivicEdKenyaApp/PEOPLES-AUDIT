@@ -1,0 +1,35 @@
+2025-12-21 04:36:57,805 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input
+2025-12-21 04:36:57,805 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\legal_frameworks
+2025-12-21 04:36:57,805 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\oversight_reports
+2025-12-21 04:36:57,805 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\statistical_baselines
+2025-12-21 04:36:57,805 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\comparative_studies
+2025-12-21 04:36:57,805 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\institutional_contacts
+2025-12-21 04:36:57,817 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_1_extract
+2025-12-21 04:36:57,817 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_2_semantic
+2025-12-21 04:36:57,818 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_3_llm_text
+2025-12-21 04:36:57,818 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals
+2025-12-21 04:36:57,818 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation
+2025-12-21 04:36:57,819 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\summaries
+2025-12-21 04:36:57,819 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\visuals
+2025-12-21 04:36:57,820 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\reports
+2025-12-21 04:36:57,820 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\data
+2025-12-21 04:36:57,820 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\logs
+2025-12-21 04:36:57,821 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\temp
+2025-12-21 04:36:57,821 - __main__ - INFO - ================================================================================
+2025-12-21 04:36:57,821 - __main__ - INFO - STARTING PEOPLE'S AUDIT PIPELINE
+2025-12-21 04:36:57,821 - __main__ - INFO - ================================================================================
+2025-12-21 04:36:57,821 - __main__ - INFO - Starting Stage 1: PDF Extraction
+2025-12-21 04:36:58,057 - extractors.pdf_extractor - INFO - Starting extraction of D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\THE-PEOPLES-AUDIT_compressed.pdf
+2025-12-21 04:36:58,081 - extractors.pdf_extractor - INFO - Processing page 1/32
+2025-12-21 04:36:58,148 - extractors.pdf_extractor - ERROR - Error extracting PDF: 'PDFExtractor' object has no attribute '_extract_legal_references'
+2025-12-21 04:36:58,148 - __main__ - ERROR - Pipeline failed: 'PDFExtractor' object has no attribute '_extract_legal_references'
+Traceback (most recent call last):
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\main.py", line 87, in execute_pipeline
+    self.stage_1_extraction()
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\main.py", line 124, in stage_1_extraction
+    extraction_results = pdf_extractor.extract_all(self.config['source_pdf'])
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\extractors\pdf_extractor.py", line 79, in extract_all
+    page_data = self._process_page(page_num + 1, page_text, pdfplumber_page)
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\extractors\pdf_extractor.py", line 135, in _process_page
+    legal_references = self._extract_legal_references(text)
+AttributeError: 'PDFExtractor' object has no attribute '_extract_legal_references'

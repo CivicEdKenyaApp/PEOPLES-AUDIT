@@ -1,0 +1,42 @@
+{
+  "title": "Anti-Corruption Institutional Performance",
+  "chart_type": "radar",
+  "x_axis": null,
+  "y_axis": null,
+  "categories": [
+    "EACC",
+    "ODPP",
+    "Judiciary",
+    "OAG",
+    "CoB"
+  ],
+  "values": null,
+  "series": {
+    "Budget Allocation": [
+      60,
+      65,
+      40,
+      70,
+      75
+    ],
+    "Case Completion": [
+      30,
+      20,
+      50,
+      80,
+      85
+    ],
+    "Public Trust": [
+      40,
+      35,
+      45,
+      70,
+      65
+    ]
+  },
+  "metadata": {
+    "source": "Various oversight reports",
+    "year": "2024",
+    "institutions": 5
+  }
+}

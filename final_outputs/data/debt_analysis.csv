@@ -1,0 +1,17 @@
+year,debt_amount_trillions,debt_gdp_percentage,per_capita_debt_thousands,debt_service_ratio,debt_type,risk_level,amount,percentage,interest_rate
+2014,2.4,45.0,48.0,36.0,Total Public Debt,Medium,,,
+2015,3.1,48.0,62.0,38.400000000000006,Total Public Debt,Medium,,,
+2016,3.7,51.0,74.0,40.800000000000004,Total Public Debt,Medium,,,
+2017,4.4,55.0,88.0,44.0,Total Public Debt,Medium,,,
+2018,5.2,58.0,104.0,46.400000000000006,Total Public Debt,Medium,,,
+2019,6.0,61.0,120.0,48.800000000000004,Total Public Debt,Medium,,,
+2020,7.0,65.0,140.0,52.0,Total Public Debt,High,,,
+2021,8.1,67.0,162.0,53.6,Total Public Debt,High,,,
+2022,9.3,68.0,186.0,54.400000000000006,Total Public Debt,High,,,
+2023,10.5,69.0,210.0,55.2,Total Public Debt,High,,,
+2024,11.6,69.0,232.0,55.2,Total Public Debt,High,,,
+2025,12.05,70.0,241.0,56.0,Total Public Debt,High,,,
+2025,,,,,External Commercial,,6.5,54.0,8.5
+2025,,,,,Bilateral,,3.0,25.0,3.5
+2025,,,,,Multilateral,,2.0,17.0,2.0
+2025,,,,,Domestic,,0.55,4.0,12.5

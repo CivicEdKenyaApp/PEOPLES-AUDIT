@@ -1,0 +1,9 @@
+case_id,case_name,year,amount_stolen,sector,status,recovery_rate,key_perpetrators,impact
+C001,NYS Scandal 1,2016,791,Youth Programs,Some convictions,5%,Multiple senior officials,KSh 791 million lost
+C002,NYS Scandal 2,2018,9000,Youth Programs,Ongoing trials,2%,Business people and officials,Largest single corruption case
+C003,KEMSA COVID Scandal,2020,7800,Health,Investigations ongoing,1%,Health ministry officials,Medical supplies shortage during pandemic
+C004,Eurobond Scandal,2015,275000,Sovereign Debt,No prosecutions,0%,Treasury officials,Funds allegedly diverted offshore
+C005,Maize Scandal,2009,2000,Agriculture,Some convictions,10%,Agriculture ministry officials,Food insecurity during drought
+C006,Ghost Schools,2023,16600,Education,Investigations ongoing,0%,Education officials,14 non-existent schools funded
+C007,Afya House Scandal,2016,5000,Health,Some convictions,15%,Health ministry officials,HIV drugs diverted
+C008,NYANDARUA Scandal,2022,3000,Counties,Ongoing trials,3%,County officials,County funds misappropriated

@@ -1,0 +1,24 @@
+{
+  "title": "Government Budget Allocation (2025)",
+  "chart_type": "pie",
+  "x_axis": null,
+  "y_axis": null,
+  "categories": [
+    "Debt Service",
+    "Recurrent Expenditure",
+    "Development",
+    "Other"
+  ],
+  "values": [
+    56,
+    29,
+    15,
+    0
+  ],
+  "series": null,
+  "metadata": {
+    "source": "People's Audit Analysis",
+    "units": "Percentage",
+    "total_budget": "KSh 3.6 Trillion"
+  }
+}

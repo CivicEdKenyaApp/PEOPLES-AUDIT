@@ -1,0 +1,127 @@
+{
+  "generated_date": "2025-12-21T19:10:56.140768",
+  "total_charts": 11,
+  "charts": {
+    "debt_timeline": {
+      "title": "Debt Growth Timeline (2014-2025)",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\debt_timeline.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\debt_timeline.png"
+      }
+    },
+    "corruption_by_sector": {
+      "title": "Corruption Losses by Sector",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\corruption_by_sector.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\corruption_by_sector.png"
+      }
+    },
+    "budget_allocation": {
+      "title": "Government Budget Allocation",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\budget_allocation.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\budget_allocation.png"
+      }
+    },
+    "social_indicators": {
+      "title": "Social Indicators Dashboard",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\social_indicators.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\social_indicators.png"
+      }
+    },
+    "constitutional_violations": {
+      "title": "Constitutional Rights Violations",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\constitutional_violations.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\constitutional_violations.png"
+      }
+    },
+    "county_performance": {
+      "title": "County Audit Performance",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\county_performance.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\county_performance.png"
+      }
+    },
+    "reform_priority": {
+      "title": "Governance Reform Priorities",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\reform_priority.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\reform_priority.png"
+      }
+    },
+    "debt_service_ratio": {
+      "title": "Debt Service to Revenue Ratio",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\debt_service_ratio.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\debt_service_ratio.png"
+      }
+    },
+    "poverty_trends": {
+      "title": "Poverty and Food Insecurity Trends",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\poverty_trends.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\poverty_trends.png"
+      }
+    },
+    "institutional_performance": {
+      "title": "Anti-Corruption Institutional Performance",
+      "formats": [
+        "html",
+        "png"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\html\\institutional_performance.html",
+        "png": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\png\\institutional_performance.png"
+      }
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "formats": [
+        "html",
+        "dashboard"
+      ],
+      "paths": {
+        "html": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\test_charts\\dashboard.html",
+        "dashboard": "true"
+      }
+    }
+  }
+}

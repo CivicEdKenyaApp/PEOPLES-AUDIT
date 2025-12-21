@@ -1,0 +1,236 @@
+{
+  "debt_timeline": {
+    "title": "Kenya Public Debt Growth (2014-2025)",
+    "type": "line",
+    "description": "Shows the exponential growth of Kenya's public debt over 11 years",
+    "data": {
+      "years": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "debt_amounts": [
+        2.4,
+        3.1,
+        3.7,
+        4.4,
+        5.2,
+        6.0,
+        7.0,
+        8.1,
+        9.3,
+        10.5,
+        11.6,
+        12.05
+      ],
+      "debt_gdp": [
+        45,
+        48,
+        51,
+        55,
+        58,
+        61,
+        65,
+        67,
+        68,
+        69,
+        69,
+        70
+      ],
+      "per_capita_debt": [
+        48.0,
+        62.0,
+        74.0,
+        88.0,
+        104.0,
+        120.0,
+        140.0,
+        162.0,
+        186.0,
+        210.0,
+        232.0,
+        241.0
+      ]
+    },
+    "metadata": {
+      "source": "National Treasury, IMF, World Bank",
+      "units": "KSh Trillions",
+      "updated": "2025-12-21"
+    }
+  },
+  "corruption_by_sector": {
+    "title": "Annual Corruption Losses by Sector (KSh Billions)",
+    "type": "bar",
+    "description": "Estimated annual losses due to corruption across different sectors",
+    "data": {
+      "sectors": [
+        "Health",
+        "Education",
+        "Agriculture",
+        "Infrastructure",
+        "Counties",
+        "Youth Programs",
+        "Security",
+        "Other"
+      ],
+      "amounts": [
+        780,
+        1660,
+        200,
+        3800,
+        12000,
+        430,
+        350,
+        1000
+      ],
+      "percentages": [
+        3.9,
+        8.2,
+        1.0,
+        18.8,
+        59.3,
+        2.1,
+        1.7,
+        4.9
+      ]
+    },
+    "metadata": {
+      "source": "EACC Reports, Auditor-General Reports",
+      "units": "KSh Billions per year",
+      "total_annual_loss": 20220
+    }
+  },
+  "budget_allocation": {
+    "title": "Government Budget Allocation 2025 (Every KSh 100)",
+    "type": "pie",
+    "description": "How every 100 shillings of government revenue is allocated",
+    "data": {
+      "categories": [
+        "Debt Service",
+        "Recurrent Expenditure",
+        "Development",
+        "Other"
+      ],
+      "percentages": [
+        56,
+        29,
+        15,
+        0
+      ],
+      "actual_amounts": [
+        2020,
+        1044,
+        540,
+        0
+      ]
+    },
+    "metadata": {
+      "source": "2025 Budget Policy Statement",
+      "total_budget": "KSh 3.6 Trillion",
+      "year": "2025"
+    }
+  },
+  "debt_service_ratio": {
+    "title": "Debt Service as Percentage of Revenue",
+    "type": "line",
+    "description": "Percentage of government revenue consumed by debt repayment",
+    "data": {
+      "years": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "percentages": [
+        36,
+        38,
+        40,
+        43,
+        46,
+        49,
+        51,
+        52,
+        54,
+        55,
+        56,
+        56
+      ],
+      "revenue_amounts": [
+        1.2,
+        1.3,
+        1.5,
+        1.7,
+        1.9,
+        2.1,
+        2.2,
+        2.4,
+        2.6,
+        2.8,
+        3.0,
+        3.2
+      ]
+    },
+    "metadata": {
+      "source": "National Treasury Debt Bulletin",
+      "warning_threshold": "55% (IMF recommended max)",
+      "current_status": "Above sustainable limit"
+    }
+  },
+  "social_indicators": {
+    "title": "Social Indicators Comparison (2014 vs 2025)",
+    "type": "bar",
+    "description": "Key social indicators showing impact of governance failures",
+    "data": {
+      "indicators": [
+        "Food Insecure",
+        "Below Poverty Line",
+        "Youth Unemployed",
+        "No Clean Water",
+        "No Electricity"
+      ],
+      "values_2014": [
+        10.0,
+        15.0,
+        1.0,
+        8.0,
+        3.0
+      ],
+      "values_2025": [
+        15.5,
+        20.0,
+        1.7,
+        10.0,
+        5.0
+      ],
+      "change_percentage": [
+        55.0,
+        33.3,
+        70.0,
+        25.0,
+        66.7
+      ]
+    },
+    "metadata": {
+      "source": "KNBS, World Bank, UNICEF",
+      "units": "Millions of People",
+      "population_2025": "55 million"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Corruption Losses by Sector (KSh Billions)",
+  "chart_type": "bar",
+  "x_axis": "Sector",
+  "y_axis": "Amount Lost (KSh Billions)",
+  "categories": [
+    "Health",
+    "Education",
+    "Agriculture",
+    "Infrastructure",
+    "Counties",
+    "Youth Programs",
+    "Security",
+    "Other"
+  ],
+  "values": [
+    780,
+    1660,
+    200,
+    3800,
+    12000,
+    430,
+    350,
+    1000
+  ],
+  "series": null,
+  "metadata": {
+    "source": "People's Audit Analysis",
+    "units": "KSh Billions",
+    "total_loss": 20220
+  }
+}

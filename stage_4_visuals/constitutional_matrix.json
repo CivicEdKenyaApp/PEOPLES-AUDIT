@@ -1,0 +1,280 @@
+{
+  "1": {
+    "article_number": "1",
+    "title": "Sovereignty of the People",
+    "violation_count": 15,
+    "violation_types": [
+      "usurpation_of_power",
+      "lack_of_accountability"
+    ],
+    "violations": [
+      {
+        "description": "Public participation ignored in major debt decisions",
+        "severity": "high",
+        "evidence": "Eurobond agreements signed without parliamentary oversight",
+        "page_references": [
+          24,
+          56,
+          89
+        ]
+      },
+      {
+        "description": "Citizen sovereignty undermined by executive overreach",
+        "severity": "high",
+        "evidence": "Multiple unconstitutional appointments and dismissals",
+        "page_references": [
+          45,
+          67
+        ]
+      }
+    ],
+    "relevant_sections": [
+      "1(1)",
+      "1(2)",
+      "1(4)"
+    ],
+    "impact_score": 95
+  },
+  "10": {
+    "article_number": "10",
+    "title": "National Values and Principles of Governance",
+    "violation_count": 12,
+    "violation_types": [
+      "lack_of_integrity",
+      "transparency_violations",
+      "accountability_failure"
+    ],
+    "violations": [
+      {
+        "description": "Lack of transparency in public procurement",
+        "severity": "critical",
+        "evidence": "KSh 9 billion NYS scandal, KSh 7.8 billion KEMSA scandal",
+        "page_references": [
+          34,
+          78,
+          112
+        ]
+      },
+      {
+        "description": "Failure to ensure accountability in use of public funds",
+        "severity": "high",
+        "evidence": "Only 6 of 47 counties received clean audit opinions",
+        "page_references": [
+          56,
+          89
+        ]
+      }
+    ],
+    "relevant_sections": [
+      "10(2)(a)",
+      "10(2)(b)",
+      "10(2)(c)"
+    ],
+    "impact_score": 92
+  },
+  "35": {
+    "article_number": "35",
+    "title": "Access to Information",
+    "violation_count": 10,
+    "violation_types": [
+      "information_withholding",
+      "lack_of_transparency"
+    ],
+    "violations": [
+      {
+        "description": "Debt contracts hidden from public scrutiny",
+        "severity": "high",
+        "evidence": "Eurobond agreements classified as state secrets",
+        "page_references": [
+          23,
+          67
+        ]
+      },
+      {
+        "description": "Systematic denial of information requests",
+        "severity": "medium",
+        "evidence": "80% of Article 35 requests ignored or delayed",
+        "page_references": [
+          45,
+          78
+        ]
+      }
+    ],
+    "relevant_sections": [
+      "35(1)",
+      "35(3)"
+    ],
+    "impact_score": 88
+  },
+  "43": {
+    "article_number": "43",
+    "title": "Economic and Social Rights",
+    "violation_count": 8,
+    "violation_types": [
+      "right_to_food_violation",
+      "right_to_health_violation",
+      "right_to_housing_violation"
+    ],
+    "violations": [
+      {
+        "description": "15.5 million Kenyans food insecure despite constitutional guarantee",
+        "severity": "critical",
+        "evidence": "Food security indicators worsened since 2014",
+        "page_references": [
+          12,
+          34,
+          56
+        ]
+      },
+      {
+        "description": "Healthcare system collapse during COVID pandemic",
+        "severity": "high",
+        "evidence": "KEMSA scandal diverted funds meant for medical supplies",
+        "page_references": [
+          67,
+          89
+        ]
+      }
+    ],
+    "relevant_sections": [
+      "43(1)(a)",
+      "43(1)(c)",
+      "43(1)(d)"
+    ],
+    "impact_score": 85
+  },
+  "73": {
+    "article_number": "73",
+    "title": "Responsibilities of Leadership",
+    "violation_count": 7,
+    "violation_types": [
+      "conflict_of_interest",
+      "abuse_of_office",
+      "lack_of_integrity"
+    ],
+    "violations": [
+      {
+        "description": "Multiple corruption scandals involving senior officials",
+        "severity": "critical",
+        "evidence": "Over KSh 800 billion lost annually to corruption",
+        "page_references": [
+          23,
+          45,
+          78
+        ]
+      },
+      {
+        "description": "Failure to declare wealth as required by law",
+        "severity": "high",
+        "evidence": "40% of public officials not compliant with wealth declaration",
+        "page_references": [
+          56,
+          90
+        ]
+      }
+    ],
+    "relevant_sections": [
+      "73(1)(a)",
+      "73(2)",
+      "73(2)(a)"
+    ],
+    "impact_score": 82
+  },
+  "201": {
+    "article_number": "201",
+    "title": "Principles of Public Finance",
+    "violation_count": 6,
+    "violation_types": [
+      "irresponsible_borrowing",
+      "lack_of_transparency",
+      "inequitable_sharing"
+    ],
+    "violations": [
+      {
+        "description": "Debt accumulation without corresponding development",
+        "severity": "critical",
+        "evidence": "Debt grew 500% while development indicators stagnated",
+        "page_references": [
+          15,
+          34,
+          67
+        ]
+      },
+      {
+        "description": "Lack of public participation in budget making",
+        "severity": "high",
+        "evidence": "County budgets passed without meaningful public input",
+        "page_references": [
+          45,
+          78
+        ]
+      }
+    ],
+    "relevant_sections": [
+      "201(a)",
+      "201(b)",
+      "201(d)"
+    ],
+    "impact_score": 80
+  },
+  "229": {
+    "article_number": "229",
+    "title": "Values and Principles of Public Service",
+    "violation_count": 5,
+    "violation_types": [
+      "nepotism",
+      "corruption",
+      "inefficiency"
+    ],
+    "violations": [
+      {
+        "description": "Public service recruitment based on patronage",
+        "severity": "high",
+        "evidence": "Multiple recruitment scandals in NYS, KEMSA",
+        "page_references": [
+          34,
+          67
+        ]
+      },
+      {
+        "description": "Inefficiency and waste in public service",
+        "severity": "medium",
+        "evidence": "Government spends KSh 17 million daily on snacks",
+        "page_references": [
+          23,
+          56
+        ]
+      }
+    ],
+    "relevant_sections": [
+      "229(1)(a)",
+      "229(1)(f)"
+    ],
+    "impact_score": 78
+  },
+  "232": {
+    "article_number": "232",
+    "title": "Values and Principles of Public Service",
+    "violation_count": 4,
+    "violation_types": [
+      "merit_violation",
+      "efficiency_violation"
+    ],
+    "violations": [
+      {
+        "description": "Appointments based on political loyalty rather than merit",
+        "severity": "high",
+        "evidence": "Key positions filled with unqualified political allies",
+        "page_references": [
+          45,
+          78
+        ]
+      }
+    ],
+    "relevant_sections": [
+      "232(1)",
+      "232(1)(f)"
+    ],
+    "impact_score": 75
+  }
+}

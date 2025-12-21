@@ -1,0 +1,65 @@
+{
+  "fiscal_indicators": {
+    "total_debt": "KSh 12.05 trillion",
+    "debt_gdp_ratio": "70%",
+    "debt_service_ratio": "56%",
+    "per_capita_debt": "KSh 240,000",
+    "annual_budget": "KSh 3.6 trillion",
+    "debt_growth_2014_2025": "500%",
+    "debt_service_amount": "KSh 2.02 trillion (2025)",
+    "revenue_collection": "KSh 2.5 trillion (est. 2025)"
+  },
+  "corruption_indicators": {
+    "annual_corruption_loss": "KSh 800 billion",
+    "conviction_rate": "<10%",
+    "counties_clean_audit": "6/47 (2023/24)",
+    "audit_implementation": "18%",
+    "corruption_perception_index": "28/100 (2024)",
+    "asset_recovery_rate": "3-5%",
+    "corruption_trials_pending": "2,500+",
+    "average_trial_duration": "6+ years"
+  },
+  "social_indicators": {
+    "food_insecure": "15.5 million",
+    "below_poverty_line": "20 million (36% of population)",
+    "youth_unemployed": "1.7 million graduates",
+    "no_clean_water": "10 million",
+    "no_electricity": "5 million",
+    "population_2025": "55 million",
+    "life_expectancy": "67 years",
+    "gini_coefficient": "0.41 (high inequality)"
+  },
+  "governance_indicators": {
+    "county_governments": "47",
+    "clean_audit_counties": "6",
+    "qualified_audit_counties": "25",
+    "adverse_audit_counties": "16",
+    "public_trust_in_institutions": "35%",
+    "voter_turnout_2022": "65%",
+    "women_representation": "23%",
+    "youth_representation": "12%"
+  },
+  "human_rights_indicators": {
+    "protest_deaths_2024": "200+",
+    "missing_persons_2024": "50+",
+    "police_brutality_cases": "300+ reported",
+    "access_to_information_compliance": "20%",
+    "land_rights_violations": "2,000+ cases pending",
+    "child_labour": "1.2 million"
+  },
+  "comparative_analysis": {
+    "debt_growth_rate": "Fastest in East Africa",
+    "corruption_ranking": "3rd in Africa (Transparency Intl.)",
+    "debt_service_ratio": "Highest in Africa",
+    "youth_unemployment": "2nd highest in East Africa",
+    "food_insecurity": "Worsening trend (2014-2025)",
+    "audit_compliance": "Below regional average"
+  },
+  "metadata": {
+    "data_sources": "National Treasury, KNBS, World Bank, IMF, EACC, OAG, CoB, UNICEF",
+    "period_covered": "2014-2025",
+    "last_updated": "2025-12-21T21:37:52.190541",
+    "methodology": "Official statistics, audit reports, research data",
+    "confidence_level": "High for official data, Medium for estimates"
+  }
+}

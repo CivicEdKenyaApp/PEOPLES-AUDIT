@@ -1,0 +1,12 @@
+sector,amount_2024,amount_2025,percentage_change,priority,efficiency_score,corruption_risk,notes
+Debt Service,2020.0,2020.0,0.0,Mandatory,30,High,
+Recurrent Expenditure,1040.0,1044.0,0.4,Mandatory,40,Medium,
+Development,520.0,540.0,3.8,Discretionary,50,High,
+County Allocation,385.0,400.0,3.9,Mandatory,35,Very High,
+Education,550.0,570.0,3.6,High,60,Medium,
+Health,140.0,150.0,7.1,High,45,High,
+Security,180.0,190.0,5.6,High,65,Low,
+Agriculture,60.0,65.0,8.3,Medium,55,Medium,
+Government Snacks & Tea,6.2,6.2,0.0,Low,10,Medium,KSh 17 million daily
+Foreign Travel,8.5,9.0,5.9,Low,20,High,
+Advisory Services,12.0,13.0,8.3,Medium,35,High,

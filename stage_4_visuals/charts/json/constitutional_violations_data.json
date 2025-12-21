@@ -1,0 +1,32 @@
+{
+  "title": "Constitutional Rights Violations",
+  "chart_type": "horizontal_bar",
+  "x_axis": "Number of Violations",
+  "y_axis": "Constitutional Article",
+  "categories": [
+    "1",
+    "10",
+    "35",
+    "43",
+    "73",
+    "201",
+    "229",
+    "232"
+  ],
+  "values": [
+    15,
+    12,
+    10,
+    8,
+    7,
+    6,
+    5,
+    4
+  ],
+  "series": null,
+  "metadata": {
+    "source": "People's Audit Analysis",
+    "total_violations": 67,
+    "articles_violated": 8
+  }
+}

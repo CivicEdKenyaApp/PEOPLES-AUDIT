@@ -1,0 +1,88 @@
+2025-12-21 20:09:13,811 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input
+2025-12-21 20:09:13,811 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\legal_frameworks
+2025-12-21 20:09:13,811 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\oversight_reports
+2025-12-21 20:09:13,812 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\statistical_baselines
+2025-12-21 20:09:13,812 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\comparative_studies
+2025-12-21 20:09:13,812 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\institutional_contacts
+2025-12-21 20:09:13,812 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_1_extract
+2025-12-21 20:09:13,814 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_2_semantic
+2025-12-21 20:09:13,814 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_3_llm_text
+2025-12-21 20:09:13,814 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals
+2025-12-21 20:09:13,814 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation
+2025-12-21 20:09:13,814 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\summaries
+2025-12-21 20:09:13,815 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\visuals
+2025-12-21 20:09:13,815 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\reports
+2025-12-21 20:09:13,816 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\data
+2025-12-21 20:09:13,816 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\logs
+2025-12-21 20:09:13,816 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\temp
+2025-12-21 20:09:13,816 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_output
+2025-12-21 20:09:13,817 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_charts
+2025-12-21 20:09:13,817 - __main__ - INFO - Pipeline initialized at D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT
+2025-12-21 20:09:13,817 - __main__ - INFO - Source PDF: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\THE-PEOPLES-AUDIT_compressed.pdf
+2025-12-21 20:09:13,818 - __main__ - INFO - ================================================================================
+2025-12-21 20:09:13,818 - __main__ - INFO - STARTING PEOPLE'S AUDIT PIPELINE
+2025-12-21 20:09:13,818 - __main__ - INFO - ================================================================================
+2025-12-21 20:09:13,818 - __main__ - INFO - Starting Stage 1: PDF Extraction
+2025-12-21 20:09:14,057 - extractors.pdf_extractor - INFO - Starting extraction of D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\THE-PEOPLES-AUDIT_compressed.pdf
+2025-12-21 20:09:14,082 - extractors.pdf_extractor - INFO - Processing page 1/32
+2025-12-21 20:09:14,137 - extractors.pdf_extractor - INFO - Processing page 2/32
+2025-12-21 20:09:14,449 - extractors.pdf_extractor - INFO - Processing page 3/32
+2025-12-21 20:09:15,061 - extractors.pdf_extractor - INFO - Processing page 4/32
+2025-12-21 20:09:15,819 - extractors.pdf_extractor - INFO - Processing page 5/32
+2025-12-21 20:09:16,522 - extractors.pdf_extractor - INFO - Processing page 6/32
+2025-12-21 20:09:17,060 - extractors.pdf_extractor - INFO - Processing page 7/32
+2025-12-21 20:09:17,558 - extractors.pdf_extractor - INFO - Processing page 8/32
+2025-12-21 20:09:18,324 - extractors.pdf_extractor - INFO - Processing page 9/32
+2025-12-21 20:09:19,227 - extractors.pdf_extractor - INFO - Processing page 10/32
+2025-12-21 20:09:19,720 - extractors.pdf_extractor - INFO - Processing page 11/32
+2025-12-21 20:09:20,101 - extractors.pdf_extractor - INFO - Processing page 12/32
+2025-12-21 20:09:20,968 - extractors.pdf_extractor - INFO - Processing page 13/32
+2025-12-21 20:09:21,672 - extractors.pdf_extractor - INFO - Processing page 14/32
+2025-12-21 20:09:22,496 - extractors.pdf_extractor - INFO - Processing page 15/32
+2025-12-21 20:09:23,325 - extractors.pdf_extractor - INFO - Processing page 16/32
+2025-12-21 20:09:24,344 - extractors.pdf_extractor - INFO - Processing page 17/32
+2025-12-21 20:09:25,161 - extractors.pdf_extractor - INFO - Processing page 18/32
+2025-12-21 20:09:26,021 - extractors.pdf_extractor - INFO - Processing page 19/32
+2025-12-21 20:09:27,140 - extractors.pdf_extractor - INFO - Processing page 20/32
+2025-12-21 20:09:27,972 - extractors.pdf_extractor - INFO - Processing page 21/32
+2025-12-21 20:09:28,904 - extractors.pdf_extractor - INFO - Processing page 22/32
+2025-12-21 20:09:29,651 - extractors.pdf_extractor - INFO - Processing page 23/32
+2025-12-21 20:09:30,773 - extractors.pdf_extractor - INFO - Processing page 24/32
+2025-12-21 20:09:31,563 - extractors.pdf_extractor - INFO - Processing page 25/32
+2025-12-21 20:09:32,465 - extractors.pdf_extractor - INFO - Processing page 26/32
+2025-12-21 20:09:33,548 - extractors.pdf_extractor - INFO - Processing page 27/32
+2025-12-21 20:09:34,600 - extractors.pdf_extractor - INFO - Processing page 28/32
+2025-12-21 20:09:35,252 - extractors.pdf_extractor - INFO - Processing page 29/32
+2025-12-21 20:09:35,864 - extractors.pdf_extractor - INFO - Processing page 30/32
+2025-12-21 20:09:36,451 - extractors.pdf_extractor - INFO - Processing page 31/32
+2025-12-21 20:09:36,630 - extractors.pdf_extractor - INFO - Processing page 32/32
+2025-12-21 20:09:36,652 - extractors.pdf_extractor - INFO - PDF extraction completed: 32 pages processed
+2025-12-21 20:09:36,671 - __main__ - INFO - Stage 1 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_1_extract
+2025-12-21 20:09:36,671 - __main__ - INFO - Extracted 32 pages
+2025-12-21 20:09:36,671 - __main__ - INFO - Found 35 constitutional articles
+2025-12-21 20:09:36,671 - extractors.constitution_extractor - INFO - Starting extraction of Constitution from: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\constitution_of_kenya_2010.pdf
+2025-12-21 20:09:52,926 - extractors.constitution_extractor - INFO - Extracted text from 193 pages
+2025-12-21 20:09:52,974 - extractors.constitution_extractor - INFO - Constitution extraction completed. Found 191 articles.
+2025-12-21 20:09:52,985 - __main__ - INFO - Constitution extraction complete
+2025-12-21 20:09:52,985 - __main__ - INFO - Found 191 constitutional articles
+2025-12-21 20:09:52,985 - __main__ - INFO - Starting Stage 2: Semantic Tagging
+2025-12-21 20:09:53,022 - processors.semantic_tagger - INFO - Starting semantic tagging process
+2025-12-21 20:09:53,087 - processors.semantic_tagger - INFO - Processed 32 paragraphs
+2025-12-21 20:09:53,096 - __main__ - INFO - Stage 2 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_2_semantic
+2025-12-21 20:09:53,096 - __main__ - INFO - Processed 32 paragraphs
+2025-12-21 20:09:53,096 - __main__ - INFO - Found 25 recommendations
+2025-12-21 20:09:53,097 - __main__ - INFO - Starting Stage 3: Data Consolidation
+2025-12-21 20:09:53,653 - __main__ - ERROR - Error in Stage 3: DataConsolidator.__init__() missing 1 required positional argument: 'output_dir'
+2025-12-21 20:09:53,653 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\main.py", line 293, in stage_3_consolidation
+    consolidator = DataConsolidator(stage1_dir, stage2_dir)
+TypeError: DataConsolidator.__init__() missing 1 required positional argument: 'output_dir'
+
+2025-12-21 20:09:53,653 - __main__ - ERROR - Pipeline failed: DataConsolidator.__init__() missing 1 required positional argument: 'output_dir'
+2025-12-21 20:09:53,653 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\main.py", line 121, in execute_pipeline
+    self.stage_3_consolidation()
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\main.py", line 293, in stage_3_consolidation
+    consolidator = DataConsolidator(stage1_dir, stage2_dir)
+TypeError: DataConsolidator.__init__() missing 1 required positional argument: 'output_dir'
+

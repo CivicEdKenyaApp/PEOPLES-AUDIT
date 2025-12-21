@@ -1,0 +1,122 @@
+{
+  "events": [
+    {
+      "year": "2014",
+      "month": "June",
+      "event": "Public Debt: KSh 2.4 trillion (45% of GDP)",
+      "category": "debt",
+      "significance": "high",
+      "description": "Beginning of rapid debt accumulation under new administration"
+    },
+    {
+      "year": "2015",
+      "month": "March",
+      "event": "Eurobond 1: KSh 275 billion raised",
+      "category": "debt",
+      "significance": "high",
+      "description": "First Eurobond issuance, funds allegedly misappropriated"
+    },
+    {
+      "year": "2016",
+      "month": "September",
+      "event": "NYS Scandal 1: KSh 791 million stolen",
+      "category": "corruption",
+      "significance": "critical",
+      "description": "First National Youth Service scandal exposed"
+    },
+    {
+      "year": "2017",
+      "month": "August",
+      "event": "Election violence: 100+ killed",
+      "category": "governance",
+      "significance": "high",
+      "description": "Post-election violence and human rights violations"
+    },
+    {
+      "year": "2018",
+      "month": "May",
+      "event": "NYS Scandal 2: KSh 9 billion stolen",
+      "category": "corruption",
+      "significance": "critical",
+      "description": "Second NYS scandal, largest single corruption case"
+    },
+    {
+      "year": "2019",
+      "month": "November",
+      "event": "Eurobond 2: KSh 210 billion raised",
+      "category": "debt",
+      "significance": "high",
+      "description": "Second Eurobond with questionable utilization"
+    },
+    {
+      "year": "2020",
+      "month": "April",
+      "event": "COVID-19 Pandemic begins",
+      "category": "health",
+      "significance": "critical",
+      "description": "KEMSA COVID scandal: KSh 7.8 billion misappropriated"
+    },
+    {
+      "year": "2021",
+      "month": "March",
+      "event": "Debt hits KSh 8.1 trillion (67% of GDP)",
+      "category": "debt",
+      "significance": "high",
+      "description": "Debt crosses dangerous threshold"
+    },
+    {
+      "year": "2022",
+      "month": "August",
+      "event": "General Elections",
+      "category": "governance",
+      "significance": "medium",
+      "description": "Most expensive election in Kenyan history"
+    },
+    {
+      "year": "2023",
+      "month": "June",
+      "event": "Finance Act protests begin",
+      "category": "social",
+      "significance": "high",
+      "description": "Mass protests against new taxes"
+    },
+    {
+      "year": "2024",
+      "month": "June",
+      "event": "Gen-Z Protests: 200+ killed",
+      "category": "human_rights",
+      "significance": "critical",
+      "description": "Largest youth-led protests demanding accountability"
+    },
+    {
+      "year": "2025",
+      "month": "January",
+      "event": "Debt hits KSh 12.05 trillion (70% of GDP)",
+      "category": "debt",
+      "significance": "critical",
+      "description": "Debt reaches unsustainable levels, 56% revenue service ratio"
+    },
+    {
+      "year": "2025",
+      "month": "December",
+      "event": "People's Audit published",
+      "category": "accountability",
+      "significance": "high",
+      "description": "Comprehensive audit of governance failures published"
+    }
+  ],
+  "metadata": {
+    "total_events": 13,
+    "time_period": "2014-2025",
+    "categories": [
+      "debt",
+      "corruption",
+      "governance",
+      "human_rights",
+      "social",
+      "health",
+      "accountability"
+    ],
+    "generated": "2025-12-21T21:37:52.185876"
+  }
+}

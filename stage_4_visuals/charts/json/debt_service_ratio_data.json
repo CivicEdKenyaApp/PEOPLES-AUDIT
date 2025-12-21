@@ -1,0 +1,41 @@
+{
+  "title": "Debt Service as Percentage of Revenue",
+  "chart_type": "line",
+  "x_axis": "Year",
+  "y_axis": "Percentage of Revenue",
+  "categories": [
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "values": [
+    36,
+    38,
+    40,
+    43,
+    46,
+    49,
+    51,
+    52,
+    54,
+    55,
+    56,
+    56
+  ],
+  "series": null,
+  "metadata": {
+    "source": "National Treasury",
+    "units": "Percentage",
+    "current_year": "2025",
+    "current_value": "56%"
+  }
+}

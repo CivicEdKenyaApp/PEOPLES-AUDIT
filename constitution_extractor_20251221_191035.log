@@ -1,0 +1,58 @@
+2025-12-21 19:10:35,484 - extractors.constitution_extractor - INFO - Starting extraction of Constitution from: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\constitution_of_kenya_2010.pdf
+2025-12-21 19:10:51,516 - extractors.constitution_extractor - INFO - Extracted text from 193 pages
+2025-12-21 19:10:51,548 - extractors.constitution_extractor - INFO - Constitution extraction completed. Found 191 articles.
+2025-12-21 19:10:51,574 - extractors.constitution_extractor - INFO - Constitution data exported to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_output\constitution_test.json
+2025-12-21 19:10:52,683 - visualizers.chart_generator - INFO - ChartGenerator logging initialized
+2025-12-21 19:10:52,688 - visualizers.chart_generator - WARNING - File not found: timeline_data.json
+2025-12-21 19:10:52,689 - visualizers.chart_generator - WARNING - File not found: constitutional_matrix.json
+2025-12-21 19:10:52,691 - visualizers.chart_generator - WARNING - File not found: reform_agenda.json
+2025-12-21 19:10:52,691 - visualizers.chart_generator - INFO - Loaded 3 data files
+2025-12-21 19:10:52,691 - visualizers.chart_generator - INFO - Generating debt timeline chart
+2025-12-21 19:10:52,814 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:52,814 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:53,093 - visualizers.chart_generator - INFO - Generating corruption by sector chart
+2025-12-21 19:10:53,411 - visualizers.chart_generator - INFO - Starting generation of all charts
+2025-12-21 19:10:53,411 - visualizers.chart_generator - INFO - Generating debt timeline chart
+2025-12-21 19:10:53,461 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:53,462 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:53,714 - visualizers.chart_generator - INFO - Generating corruption by sector chart
+2025-12-21 19:10:53,974 - visualizers.chart_generator - INFO - Generating budget allocation chart
+2025-12-21 19:10:54,189 - visualizers.chart_generator - INFO - Generating social indicators chart
+2025-12-21 19:10:54,458 - visualizers.chart_generator - INFO - Generating constitutional violations chart
+2025-12-21 19:10:54,509 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:54,511 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:54,741 - visualizers.chart_generator - INFO - Generating county performance chart
+2025-12-21 19:10:55,018 - visualizers.chart_generator - INFO - Generating reform priority chart
+2025-12-21 19:10:55,271 - visualizers.chart_generator - INFO - Generating debt service ratio chart
+2025-12-21 19:10:55,313 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,313 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,586 - visualizers.chart_generator - INFO - Generating poverty trends chart
+2025-12-21 19:10:55,634 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,634 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,634 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,634 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,634 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,640 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,640 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 19:10:55,920 - visualizers.chart_generator - INFO - Generating institutional performance chart
+2025-12-21 19:10:56,138 - visualizers.chart_generator - INFO - Generating charts dashboard
+2025-12-21 19:10:56,138 - visualizers.chart_generator - INFO - Dashboard saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_charts\dashboard.html
+2025-12-21 19:10:56,138 - visualizers.chart_generator - INFO - Generated 11 charts
+2025-12-21 19:10:56,141 - visualizers.chart_generator - INFO - Chart manifest saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_charts\charts_manifest.json
+2025-12-21 19:10:56,168 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input
+2025-12-21 19:10:56,169 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\legal_frameworks
+2025-12-21 19:10:56,169 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\oversight_reports
+2025-12-21 19:10:56,170 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\statistical_baselines
+2025-12-21 19:10:56,170 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\comparative_studies
+2025-12-21 19:10:56,170 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\institutional_contacts
+2025-12-21 19:10:56,171 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_1_extract
+2025-12-21 19:10:56,171 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_2_semantic
+2025-12-21 19:10:56,171 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_3_llm_text
+2025-12-21 19:10:56,171 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals
+2025-12-21 19:10:56,171 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation
+2025-12-21 19:10:56,172 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\summaries
+2025-12-21 19:10:56,172 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\visuals
+2025-12-21 19:10:56,172 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\reports
+2025-12-21 19:10:56,172 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\data
+2025-12-21 19:10:56,174 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\logs
+2025-12-21 19:10:56,174 - main - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\temp

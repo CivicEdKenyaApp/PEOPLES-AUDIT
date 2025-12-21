@@ -1,0 +1,137 @@
+2025-12-21 20:24:26,110 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input
+2025-12-21 20:24:26,110 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\legal_frameworks
+2025-12-21 20:24:26,111 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\oversight_reports
+2025-12-21 20:24:26,111 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\statistical_baselines
+2025-12-21 20:24:26,111 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\comparative_studies
+2025-12-21 20:24:26,111 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\institutional_contacts
+2025-12-21 20:24:26,112 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_1_extract
+2025-12-21 20:24:26,112 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_2_semantic
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_3_llm_text
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\summaries
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\visuals
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\reports
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\data
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\logs
+2025-12-21 20:24:26,113 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\temp
+2025-12-21 20:24:26,116 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_output
+2025-12-21 20:24:26,116 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_charts
+2025-12-21 20:24:26,116 - __main__ - INFO - Pipeline initialized at D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT
+2025-12-21 20:24:26,116 - __main__ - INFO - Source PDF: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\THE-PEOPLES-AUDIT_compressed.pdf
+2025-12-21 20:24:26,116 - __main__ - INFO - ================================================================================
+2025-12-21 20:24:26,117 - __main__ - INFO - STARTING PEOPLE'S AUDIT PIPELINE
+2025-12-21 20:24:26,117 - __main__ - INFO - ================================================================================
+2025-12-21 20:24:26,117 - __main__ - INFO - Starting Stage 1: PDF Extraction
+2025-12-21 20:24:26,338 - extractors.pdf_extractor - INFO - Starting extraction of D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\THE-PEOPLES-AUDIT_compressed.pdf
+2025-12-21 20:24:26,359 - extractors.pdf_extractor - INFO - Processing page 1/32
+2025-12-21 20:24:26,421 - extractors.pdf_extractor - INFO - Processing page 2/32
+2025-12-21 20:24:26,608 - extractors.pdf_extractor - INFO - Processing page 3/32
+2025-12-21 20:24:27,211 - extractors.pdf_extractor - INFO - Processing page 4/32
+2025-12-21 20:24:28,314 - extractors.pdf_extractor - INFO - Processing page 5/32
+2025-12-21 20:24:29,007 - extractors.pdf_extractor - INFO - Processing page 6/32
+2025-12-21 20:24:29,744 - extractors.pdf_extractor - INFO - Processing page 7/32
+2025-12-21 20:24:30,275 - extractors.pdf_extractor - INFO - Processing page 8/32
+2025-12-21 20:24:31,042 - extractors.pdf_extractor - INFO - Processing page 9/32
+2025-12-21 20:24:32,008 - extractors.pdf_extractor - INFO - Processing page 10/32
+2025-12-21 20:24:32,545 - extractors.pdf_extractor - INFO - Processing page 11/32
+2025-12-21 20:24:32,936 - extractors.pdf_extractor - INFO - Processing page 12/32
+2025-12-21 20:24:33,822 - extractors.pdf_extractor - INFO - Processing page 13/32
+2025-12-21 20:24:34,843 - extractors.pdf_extractor - INFO - Processing page 14/32
+2025-12-21 20:24:36,142 - extractors.pdf_extractor - INFO - Processing page 15/32
+2025-12-21 20:24:37,409 - extractors.pdf_extractor - INFO - Processing page 16/32
+2025-12-21 20:24:39,137 - extractors.pdf_extractor - INFO - Processing page 17/32
+2025-12-21 20:24:40,348 - extractors.pdf_extractor - INFO - Processing page 18/32
+2025-12-21 20:24:41,606 - extractors.pdf_extractor - INFO - Processing page 19/32
+2025-12-21 20:24:42,849 - extractors.pdf_extractor - INFO - Processing page 20/32
+2025-12-21 20:24:43,562 - extractors.pdf_extractor - INFO - Processing page 21/32
+2025-12-21 20:24:44,395 - extractors.pdf_extractor - INFO - Processing page 22/32
+2025-12-21 20:24:45,215 - extractors.pdf_extractor - INFO - Processing page 23/32
+2025-12-21 20:24:46,331 - extractors.pdf_extractor - INFO - Processing page 24/32
+2025-12-21 20:24:47,637 - extractors.pdf_extractor - INFO - Processing page 25/32
+2025-12-21 20:24:48,760 - extractors.pdf_extractor - INFO - Processing page 26/32
+2025-12-21 20:24:50,022 - extractors.pdf_extractor - INFO - Processing page 27/32
+2025-12-21 20:24:51,184 - extractors.pdf_extractor - INFO - Processing page 28/32
+2025-12-21 20:24:52,230 - extractors.pdf_extractor - INFO - Processing page 29/32
+2025-12-21 20:24:52,997 - extractors.pdf_extractor - INFO - Processing page 30/32
+2025-12-21 20:24:54,060 - extractors.pdf_extractor - INFO - Processing page 31/32
+2025-12-21 20:24:54,352 - extractors.pdf_extractor - INFO - Processing page 32/32
+2025-12-21 20:24:54,391 - extractors.pdf_extractor - INFO - PDF extraction completed: 32 pages processed
+2025-12-21 20:24:54,423 - __main__ - INFO - Stage 1 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_1_extract
+2025-12-21 20:24:54,423 - __main__ - INFO - Extracted 32 pages
+2025-12-21 20:24:54,424 - __main__ - INFO - Found 35 constitutional articles
+2025-12-21 20:24:54,425 - extractors.constitution_extractor - INFO - Starting extraction of Constitution from: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\constitution_of_kenya_2010.pdf
+2025-12-21 20:25:20,736 - extractors.constitution_extractor - INFO - Extracted text from 193 pages
+2025-12-21 20:25:20,793 - extractors.constitution_extractor - INFO - Constitution extraction completed. Found 191 articles.
+2025-12-21 20:25:20,807 - __main__ - INFO - Constitution extraction complete
+2025-12-21 20:25:20,807 - __main__ - INFO - Found 191 constitutional articles
+2025-12-21 20:25:20,809 - __main__ - INFO - Starting Stage 2: Semantic Tagging
+2025-12-21 20:25:20,844 - processors.semantic_tagger - INFO - Starting semantic tagging process
+2025-12-21 20:25:20,961 - processors.semantic_tagger - INFO - Processed 32 paragraphs
+2025-12-21 20:25:20,980 - __main__ - INFO - Stage 2 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_2_semantic
+2025-12-21 20:25:20,980 - __main__ - INFO - Processed 32 paragraphs
+2025-12-21 20:25:20,981 - __main__ - INFO - Found 25 recommendations
+2025-12-21 20:25:20,981 - __main__ - INFO - Starting Stage 3: Data Consolidation
+2025-12-21 20:25:21,723 - processors.data_consolidator - INFO - Starting data consolidation
+2025-12-21 20:25:21,855 - processors.data_consolidator - INFO - Generating sankey data...
+2025-12-21 20:25:21,855 - processors.data_consolidator - INFO - Generating charts data...
+2025-12-21 20:25:21,855 - processors.data_consolidator - INFO - Generating timeline data...
+2025-12-21 20:25:21,856 - processors.data_consolidator - INFO - Generating constitutional matrix...
+2025-12-21 20:25:21,856 - processors.data_consolidator - INFO - Generating corruption cases...
+2025-12-21 20:25:21,869 - processors.data_consolidator - INFO - Generating debt analysis...
+2025-12-21 20:25:21,871 - processors.data_consolidator - INFO - Generating budget analysis...
+2025-12-21 20:25:21,872 - processors.data_consolidator - INFO - Generating reform agenda...
+2025-12-21 20:25:21,872 - processors.data_consolidator - INFO - Generating statistics summary...
+2025-12-21 20:25:21,873 - processors.data_consolidator - INFO - Saving consolidated data files...
+2025-12-21 20:25:22,009 - processors.data_consolidator - INFO - Data consolidation completed: 9 files generated
+2025-12-21 20:25:22,011 - __main__ - INFO - Saved sankey_data.json (2959 bytes)
+2025-12-21 20:25:22,011 - __main__ - INFO - Saved charts_data.json (2789 bytes)
+2025-12-21 20:25:22,013 - __main__ - INFO - Saved timeline_data.json (2791 bytes)
+2025-12-21 20:25:22,015 - __main__ - INFO - Saved constitutional_matrix.json (4981 bytes)
+2025-12-21 20:25:22,017 - __main__ - INFO - Saved corruption_cases.csv (8 rows)
+2025-12-21 20:25:22,019 - __main__ - INFO - Saved debt_analysis.csv (16 rows)
+2025-12-21 20:25:22,021 - __main__ - INFO - Saved budget_analysis.csv (11 rows)
+2025-12-21 20:25:22,023 - __main__ - INFO - Saved reform_agenda.json (5409 bytes)
+2025-12-21 20:25:22,024 - __main__ - INFO - Saved statistics_summary.json (2152 bytes)
+2025-12-21 20:25:22,024 - __main__ - INFO - Stage 3 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals
+2025-12-21 20:25:22,024 - __main__ - INFO - ✓ Created missing file: timeline_data.json
+2025-12-21 20:25:22,025 - __main__ - INFO - ✓ Created missing file: constitutional_matrix.json
+2025-12-21 20:25:22,025 - __main__ - INFO - ✓ Created missing file: reform_agenda.json
+2025-12-21 20:25:22,025 - __main__ - INFO - Starting Stage 4: Constitutional Validation
+2025-12-21 20:25:22,076 - validators.constitutional_validator - INFO - Starting constitutional validation
+2025-12-21 20:25:22,077 - validators.constitutional_validator - INFO - Constitutional validation completed
+2025-12-21 20:25:22,522 - __main__ - INFO - Created PDF guide: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation\citizen_constitutional_guide.pdf
+2025-12-21 20:25:22,522 - __main__ - INFO - Stage 4 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation
+2025-12-21 20:25:22,522 - __main__ - INFO - Validated 0 constitutional articles
+2025-12-21 20:25:22,522 - __main__ - INFO - Starting Stage 5: LLM Text Generation
+2025-12-21 20:25:22,620 - generators.text_generator - INFO - Data loaded successfully
+2025-12-21 20:25:22,620 - generators.text_generator - INFO - All documents generated successfully
+2025-12-21 20:25:22,621 - __main__ - INFO - Generated document: citizen_summary.md
+2025-12-21 20:25:22,622 - __main__ - INFO - Generated document: executive_summary.md
+2025-12-21 20:25:22,623 - __main__ - INFO - Generated document: action_handbook.md
+2025-12-21 20:25:22,623 - __main__ - INFO - Generated document: constitutional_guide.md
+2025-12-21 20:25:22,623 - __main__ - INFO - Stage 5 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_3_llm_text
+2025-12-21 20:25:22,623 - __main__ - INFO - Starting Stage 6: Visualization Generation
+2025-12-21 20:25:23,529 - visualizers.sankey_generator - ERROR - Error generating Sankey: '\n                    font-family'
+2025-12-21 20:25:23,530 - __main__ - ERROR - Error in Stage 6: '\n                    font-family'
+2025-12-21 20:25:23,565 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\main.py", line 470, in stage_6_visualization
+    sankey_html = sankey_gen.generate_sankey(sankey_data)
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\visualizers\sankey_generator.py", line 86, in generate_sankey
+    full_html = self.create_html_wrapper(html_content)
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\visualizers\sankey_generator.py", line 221, in create_html_wrapper
+    return html_template.format(plotly_html=plotly_html, date=date_str)
+KeyError: '\n                    font-family'
+
+2025-12-21 20:25:23,565 - __main__ - ERROR - Pipeline failed: '\n                    font-family'
+2025-12-21 20:25:23,566 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\main.py", line 130, in execute_pipeline
+    self.stage_6_visualization()
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\main.py", line 470, in stage_6_visualization
+    sankey_html = sankey_gen.generate_sankey(sankey_data)
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\visualizers\sankey_generator.py", line 86, in generate_sankey
+    full_html = self.create_html_wrapper(html_content)
+  File "D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\visualizers\sankey_generator.py", line 221, in create_html_wrapper
+    return html_template.format(plotly_html=plotly_html, date=date_str)
+KeyError: '\n                    font-family'
+

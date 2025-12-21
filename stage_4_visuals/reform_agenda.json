@@ -1,0 +1,218 @@
+{
+  "fiscal_governance": {
+    "title": "Fiscal Governance and Debt Management Reforms",
+    "priority": "Critical",
+    "timeframe": "Immediate (0-6 months)",
+    "reforms": [
+      {
+        "id": "FG-001",
+        "title": "Debt Transparency Portal",
+        "description": "Publish all debt contracts, terms, and utilization reports online",
+        "impact": "High",
+        "cost": "Low",
+        "legal_basis": "Article 35, PFM Act",
+        "responsible_institution": "National Treasury",
+        "key_metrics": [
+          "Contracts published",
+          "Public access rate",
+          "Timeliness"
+        ]
+      },
+      {
+        "id": "FG-002",
+        "title": "Supplementary Budget Control",
+        "description": "Enforce 10% constitutional limit on supplementary budgets",
+        "impact": "High",
+        "cost": "Low",
+        "legal_basis": "Article 223, PFM Act",
+        "responsible_institution": "Parliament, Controller of Budget",
+        "key_metrics": [
+          "Supplementary budget size",
+          "Compliance rate"
+        ]
+      },
+      {
+        "id": "FG-003",
+        "title": "Fiscal Responsibility Framework",
+        "description": "Implement binding debt ceilings and deficit targets",
+        "impact": "Medium",
+        "cost": "Medium",
+        "legal_basis": "Article 201, PFM Act",
+        "responsible_institution": "National Treasury, Parliament",
+        "key_metrics": [
+          "Debt-to-GDP ratio",
+          "Deficit targets met"
+        ]
+      }
+    ]
+  },
+  "anti_corruption": {
+    "title": "Anti-Corruption and Accountability Reforms",
+    "priority": "Critical",
+    "timeframe": "Immediate to Short-term (0-24 months)",
+    "reforms": [
+      {
+        "id": "AC-001",
+        "title": "Corruption Fast-Track Courts",
+        "description": "Establish specialized courts to resolve corruption cases within 24 months",
+        "impact": "High",
+        "cost": "Medium",
+        "legal_basis": "Article 159, ACECA",
+        "responsible_institution": "Judiciary, ODPP",
+        "key_metrics": [
+          "Case completion time",
+          "Conviction rate",
+          "Asset recovery"
+        ]
+      },
+      {
+        "id": "AC-002",
+        "title": "Beneficial Ownership Registry",
+        "description": "Implement Companies Act Section 93A for all government contractors",
+        "impact": "High",
+        "cost": "Medium",
+        "legal_basis": "Companies Act, Anti-Money Laundering Act",
+        "responsible_institution": "Business Registry, EACC",
+        "key_metrics": [
+          "Registry completeness",
+          "Contractor compliance"
+        ]
+      },
+      {
+        "id": "AC-003",
+        "title": "Audit Implementation Committee",
+        "description": "Cross-agency committee to enforce Auditor-General recommendations",
+        "impact": "Medium",
+        "cost": "Low",
+        "legal_basis": "Public Audit Act",
+        "responsible_institution": "OAG, Parliament, EACC",
+        "key_metrics": [
+          "Recommendations implemented",
+          "Recovery amounts"
+        ]
+      }
+    ]
+  },
+  "political_financing": {
+    "title": "Political Finance and Election Integrity Reforms",
+    "priority": "High",
+    "timeframe": "Short-term (6-24 months)",
+    "reforms": [
+      {
+        "id": "PF-001",
+        "title": "Election Campaign Financing Enforcement",
+        "description": "Enforce existing Election Campaign Financing Act (never used)",
+        "impact": "High",
+        "cost": "Low",
+        "legal_basis": "Election Campaign Financing Act",
+        "responsible_institution": "IEBC, EACC",
+        "key_metrics": [
+          "Compliance rate",
+          "Prosecutions",
+          "Fines collected"
+        ]
+      },
+      {
+        "id": "PF-002",
+        "title": "Political Party Funding Transparency",
+        "description": "Real-time disclosure of all political party funding",
+        "impact": "Medium",
+        "cost": "Low",
+        "legal_basis": "Political Parties Act",
+        "responsible_institution": "Registrar of Political Parties",
+        "key_metrics": [
+          "Disclosure timeliness",
+          "Donor transparency"
+        ]
+      }
+    ]
+  },
+  "devolution": {
+    "title": "Devolution and County Accountability Reforms",
+    "priority": "High",
+    "timeframe": "Short to Medium-term (12-36 months)",
+    "reforms": [
+      {
+        "id": "DV-001",
+        "title": "County Performance-Based Funding",
+        "description": "Link county allocations to audit performance and service delivery",
+        "impact": "High",
+        "cost": "Medium",
+        "legal_basis": "Article 203, County Governments Act",
+        "responsible_institution": "Commission on Revenue Allocation",
+        "key_metrics": [
+          "Clean audit counties",
+          "Service delivery scores"
+        ]
+      },
+      {
+        "id": "DV-002",
+        "title": "Citizen County Oversight Committees",
+        "description": "Statutory citizen committees to monitor county expenditure",
+        "impact": "Medium",
+        "cost": "Low",
+        "legal_basis": "Article 196, Public Participation Act",
+        "responsible_institution": "County Assemblies",
+        "key_metrics": [
+          "Committee functionality",
+          "Issues raised",
+          "Actions taken"
+        ]
+      }
+    ]
+  },
+  "judicial_reform": {
+    "title": "Judicial Independence and Efficiency Reforms",
+    "priority": "Medium",
+    "timeframe": "Medium-term (24-48 months)",
+    "reforms": [
+      {
+        "id": "JR-001",
+        "title": "Judicial Financial Autonomy",
+        "description": "Constitutional amendment for automatic judiciary funding",
+        "impact": "High",
+        "cost": "Medium",
+        "legal_basis": "Article 160(4) amendment",
+        "responsible_institution": "Judiciary, Parliament",
+        "key_metrics": [
+          "Budget adequacy",
+          "Case backlog reduction"
+        ]
+      }
+    ]
+  },
+  "social_protection": {
+    "title": "Social Protection and Economic Rights Reforms",
+    "priority": "High",
+    "timeframe": "Immediate to Medium-term (0-36 months)",
+    "reforms": [
+      {
+        "id": "SP-001",
+        "title": "Universal Healthcare Implementation",
+        "description": "Accelerate implementation of Article 43 right to health",
+        "impact": "High",
+        "cost": "High",
+        "legal_basis": "Article 43, Health Act",
+        "responsible_institution": "Ministry of Health",
+        "key_metrics": [
+          "Health coverage",
+          "Out-of-pocket expenses",
+          "Maternal mortality"
+        ]
+      },
+      {
+        "id": "SP-002",
+        "title": "Food Security Guarantee",
+        "description": "Legal framework for right to food as per Article 43",
+        "impact": "High",
+        "cost": "High",
+        "legal_basis": "Article 43",
+        "responsible_institution": "Ministry of Agriculture",
+        "key_metrics": [
+          "Food insecure population",
+          "Agricultural productivity"
+        ]
+      }
+    ]
+  }
+}

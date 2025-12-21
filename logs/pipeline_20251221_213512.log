@@ -1,0 +1,208 @@
+2025-12-21 21:35:12,944 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input
+2025-12-21 21:35:12,945 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\legal_frameworks
+2025-12-21 21:35:12,945 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\oversight_reports
+2025-12-21 21:35:12,945 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\statistical_baselines
+2025-12-21 21:35:12,946 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\comparative_studies
+2025-12-21 21:35:12,946 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\reference_materials\institutional_contacts
+2025-12-21 21:35:12,947 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_1_extract
+2025-12-21 21:35:12,947 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_2_semantic
+2025-12-21 21:35:12,947 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_3_llm_text
+2025-12-21 21:35:12,947 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals
+2025-12-21 21:35:12,948 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation
+2025-12-21 21:35:12,948 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\summaries
+2025-12-21 21:35:12,948 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\visuals
+2025-12-21 21:35:12,948 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\reports
+2025-12-21 21:35:12,948 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\data
+2025-12-21 21:35:12,948 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\logs
+2025-12-21 21:35:12,948 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\temp
+2025-12-21 21:35:12,951 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_output
+2025-12-21 21:35:12,951 - __main__ - INFO - Created directory: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\test_charts
+2025-12-21 21:35:12,951 - __main__ - INFO - Pipeline initialized at D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT
+2025-12-21 21:35:12,952 - __main__ - INFO - Source PDF: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\THE-PEOPLES-AUDIT_compressed.pdf
+2025-12-21 21:35:12,952 - __main__ - INFO - ================================================================================
+2025-12-21 21:35:12,952 - __main__ - INFO - STARTING PEOPLE'S AUDIT PIPELINE
+2025-12-21 21:35:12,952 - __main__ - INFO - ================================================================================
+2025-12-21 21:35:12,952 - __main__ - INFO - Starting Stage 1: PDF Extraction
+2025-12-21 21:35:13,176 - extractors.pdf_extractor - INFO - Starting extraction of D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\THE-PEOPLES-AUDIT_compressed.pdf
+2025-12-21 21:35:13,196 - extractors.pdf_extractor - INFO - Processing page 1/32
+2025-12-21 21:35:13,256 - extractors.pdf_extractor - INFO - Processing page 2/32
+2025-12-21 21:35:13,449 - extractors.pdf_extractor - INFO - Processing page 3/32
+2025-12-21 21:35:14,063 - extractors.pdf_extractor - INFO - Processing page 4/32
+2025-12-21 21:35:14,820 - extractors.pdf_extractor - INFO - Processing page 5/32
+2025-12-21 21:35:15,574 - extractors.pdf_extractor - INFO - Processing page 6/32
+2025-12-21 21:35:16,116 - extractors.pdf_extractor - INFO - Processing page 7/32
+2025-12-21 21:35:16,624 - extractors.pdf_extractor - INFO - Processing page 8/32
+2025-12-21 21:35:17,382 - extractors.pdf_extractor - INFO - Processing page 9/32
+2025-12-21 21:35:18,277 - extractors.pdf_extractor - INFO - Processing page 10/32
+2025-12-21 21:35:18,804 - extractors.pdf_extractor - INFO - Processing page 11/32
+2025-12-21 21:35:19,179 - extractors.pdf_extractor - INFO - Processing page 12/32
+2025-12-21 21:35:20,022 - extractors.pdf_extractor - INFO - Processing page 13/32
+2025-12-21 21:35:20,750 - extractors.pdf_extractor - INFO - Processing page 14/32
+2025-12-21 21:35:21,591 - extractors.pdf_extractor - INFO - Processing page 15/32
+2025-12-21 21:35:22,419 - extractors.pdf_extractor - INFO - Processing page 16/32
+2025-12-21 21:35:23,450 - extractors.pdf_extractor - INFO - Processing page 17/32
+2025-12-21 21:35:24,273 - extractors.pdf_extractor - INFO - Processing page 18/32
+2025-12-21 21:35:25,102 - extractors.pdf_extractor - INFO - Processing page 19/32
+2025-12-21 21:35:26,135 - extractors.pdf_extractor - INFO - Processing page 20/32
+2025-12-21 21:35:26,785 - extractors.pdf_extractor - INFO - Processing page 21/32
+2025-12-21 21:35:27,828 - extractors.pdf_extractor - INFO - Processing page 22/32
+2025-12-21 21:35:28,578 - extractors.pdf_extractor - INFO - Processing page 23/32
+2025-12-21 21:35:29,516 - extractors.pdf_extractor - INFO - Processing page 24/32
+2025-12-21 21:35:30,310 - extractors.pdf_extractor - INFO - Processing page 25/32
+2025-12-21 21:35:31,192 - extractors.pdf_extractor - INFO - Processing page 26/32
+2025-12-21 21:35:31,969 - extractors.pdf_extractor - INFO - Processing page 27/32
+2025-12-21 21:35:32,658 - extractors.pdf_extractor - INFO - Processing page 28/32
+2025-12-21 21:35:33,303 - extractors.pdf_extractor - INFO - Processing page 29/32
+2025-12-21 21:35:34,204 - extractors.pdf_extractor - INFO - Processing page 30/32
+2025-12-21 21:35:34,784 - extractors.pdf_extractor - INFO - Processing page 31/32
+2025-12-21 21:35:34,959 - extractors.pdf_extractor - INFO - Processing page 32/32
+2025-12-21 21:35:34,986 - extractors.pdf_extractor - INFO - PDF extraction completed: 32 pages processed
+2025-12-21 21:35:34,995 - __main__ - INFO - Stage 1 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_1_extract
+2025-12-21 21:35:34,995 - __main__ - INFO - Extracted 32 pages
+2025-12-21 21:35:34,995 - __main__ - INFO - Found 35 constitutional articles
+2025-12-21 21:35:35,003 - extractors.constitution_extractor - INFO - Starting extraction of Constitution from: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\input\constitution_of_kenya_2010.pdf
+2025-12-21 21:35:52,388 - extractors.constitution_extractor - INFO - Extracted text from 193 pages
+2025-12-21 21:35:52,435 - extractors.constitution_extractor - INFO - Constitution extraction completed. Found 191 articles.
+2025-12-21 21:35:52,444 - __main__ - INFO - Constitution extraction complete
+2025-12-21 21:35:52,444 - __main__ - INFO - Found 191 constitutional articles
+2025-12-21 21:35:52,445 - __main__ - INFO - Starting Stage 2: Semantic Tagging
+2025-12-21 21:35:52,470 - processors.semantic_tagger - INFO - Starting semantic tagging process
+2025-12-21 21:35:52,535 - processors.semantic_tagger - INFO - Processed 32 paragraphs
+2025-12-21 21:35:52,541 - __main__ - INFO - Stage 2 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_2_semantic
+2025-12-21 21:35:52,542 - __main__ - INFO - Processed 32 paragraphs
+2025-12-21 21:35:52,542 - __main__ - INFO - Found 25 recommendations
+2025-12-21 21:35:52,543 - __main__ - INFO - Starting Stage 3: Data Consolidation
+2025-12-21 21:35:53,088 - processors.data_consolidator - INFO - Starting data consolidation
+2025-12-21 21:35:53,221 - processors.data_consolidator - INFO - Generating sankey data...
+2025-12-21 21:35:53,221 - processors.data_consolidator - INFO - Generating charts data...
+2025-12-21 21:35:53,221 - processors.data_consolidator - INFO - Generating timeline data...
+2025-12-21 21:35:53,221 - processors.data_consolidator - INFO - Generating constitutional matrix...
+2025-12-21 21:35:53,221 - processors.data_consolidator - INFO - Generating corruption cases...
+2025-12-21 21:35:53,227 - processors.data_consolidator - INFO - Generating debt analysis...
+2025-12-21 21:35:53,227 - processors.data_consolidator - INFO - Generating budget analysis...
+2025-12-21 21:35:53,227 - processors.data_consolidator - INFO - Generating reform agenda...
+2025-12-21 21:35:53,227 - processors.data_consolidator - INFO - Generating statistics summary...
+2025-12-21 21:35:53,227 - processors.data_consolidator - INFO - Saving consolidated data files...
+2025-12-21 21:35:53,246 - processors.data_consolidator - INFO - Data consolidation completed: 9 files generated
+2025-12-21 21:35:53,248 - __main__ - INFO - Saved sankey_data.json (2959 bytes)
+2025-12-21 21:35:53,249 - __main__ - INFO - Saved charts_data.json (2789 bytes)
+2025-12-21 21:35:53,250 - __main__ - INFO - Saved timeline_data.json (2791 bytes)
+2025-12-21 21:35:53,253 - __main__ - INFO - Saved constitutional_matrix.json (4981 bytes)
+2025-12-21 21:35:53,253 - __main__ - INFO - Saved corruption_cases.csv (8 rows)
+2025-12-21 21:35:53,253 - __main__ - INFO - Saved debt_analysis.csv (16 rows)
+2025-12-21 21:35:53,253 - __main__ - INFO - Saved budget_analysis.csv (11 rows)
+2025-12-21 21:35:53,260 - __main__ - INFO - Saved reform_agenda.json (5409 bytes)
+2025-12-21 21:35:53,260 - __main__ - INFO - Saved statistics_summary.json (2152 bytes)
+2025-12-21 21:35:53,260 - __main__ - INFO - Stage 3 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals
+2025-12-21 21:35:53,263 - __main__ - INFO - ✓ Created missing file: timeline_data.json
+2025-12-21 21:35:53,263 - __main__ - INFO - ✓ Created missing file: constitutional_matrix.json
+2025-12-21 21:35:53,264 - __main__ - INFO - ✓ Created missing file: reform_agenda.json
+2025-12-21 21:35:53,264 - __main__ - INFO - Starting Stage 4: Constitutional Validation
+2025-12-21 21:35:53,282 - validators.constitutional_validator - INFO - Starting constitutional validation
+2025-12-21 21:35:53,282 - validators.constitutional_validator - INFO - Constitutional validation completed
+2025-12-21 21:35:53,493 - __main__ - INFO - Created PDF guide: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation\citizen_constitutional_guide.pdf
+2025-12-21 21:35:53,493 - __main__ - INFO - Stage 4 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_5_validation
+2025-12-21 21:35:53,493 - __main__ - INFO - Validated 0 constitutional articles
+2025-12-21 21:35:53,493 - __main__ - INFO - Starting Stage 5: LLM Text Generation
+2025-12-21 21:35:53,531 - generators.text_generator - INFO - Data loaded successfully
+2025-12-21 21:35:53,531 - generators.text_generator - INFO - All documents generated successfully
+2025-12-21 21:35:53,531 - __main__ - INFO - Generated document: citizen_summary.md
+2025-12-21 21:35:53,535 - __main__ - INFO - Generated document: executive_summary.md
+2025-12-21 21:35:53,535 - __main__ - INFO - Generated document: action_handbook.md
+2025-12-21 21:35:53,535 - __main__ - INFO - Generated document: constitutional_guide.md
+2025-12-21 21:35:53,535 - __main__ - INFO - Stage 5 complete. Files saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_3_llm_text
+2025-12-21 21:35:53,535 - __main__ - INFO - Starting Stage 6: Visualization Generation
+2025-12-21 21:35:54,257 - visualizers.sankey_generator - INFO - Sankey diagram generated successfully
+2025-12-21 21:35:54,268 - visualizers.sankey_generator - INFO - Sankey HTML saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals\sankey.html
+2025-12-21 21:35:54,268 - __main__ - INFO - Sankey diagram generated successfully
+2025-12-21 21:35:54,268 - visualizers.chart_generator - INFO - ChartGenerator logging initialized
+2025-12-21 21:35:54,270 - visualizers.chart_generator - INFO - Loaded 6 data files
+2025-12-21 21:35:54,270 - visualizers.chart_generator - INFO - Starting generation of all charts
+2025-12-21 21:35:54,270 - visualizers.chart_generator - INFO - Generating debt timeline chart
+2025-12-21 21:35:54,328 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:54,335 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:54,758 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:54,758 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:54,908 - visualizers.chart_generator - INFO - Generating corruption by sector chart
+2025-12-21 21:35:55,423 - visualizers.chart_generator - INFO - Generating budget allocation chart
+2025-12-21 21:35:55,804 - visualizers.chart_generator - INFO - Generating social indicators chart
+2025-12-21 21:35:56,305 - visualizers.chart_generator - INFO - Generating constitutional violations chart
+2025-12-21 21:35:56,356 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:56,357 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:56,647 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:56,647 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:56,799 - visualizers.chart_generator - INFO - Generating county performance chart
+2025-12-21 21:35:57,343 - visualizers.chart_generator - INFO - Generating reform priority chart
+2025-12-21 21:35:57,799 - visualizers.chart_generator - INFO - Generating debt service ratio chart
+2025-12-21 21:35:57,849 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:57,849 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,273 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,273 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,469 - visualizers.chart_generator - INFO - Generating poverty trends chart
+2025-12-21 21:35:58,512 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,512 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,522 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,524 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,524 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,529 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:58,529 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:59,048 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:59,048 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:59,048 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:59,054 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:59,054 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:59,056 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:59,056 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-12-21 21:35:59,248 - visualizers.chart_generator - INFO - Generating institutional performance chart
+2025-12-21 21:35:59,674 - visualizers.chart_generator - INFO - Generating charts dashboard
+2025-12-21 21:35:59,674 - visualizers.chart_generator - INFO - Dashboard saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals\charts\dashboard.html
+2025-12-21 21:35:59,674 - visualizers.chart_generator - INFO - Generated 11 charts
+2025-12-21 21:35:59,674 - visualizers.chart_generator - INFO - Chart manifest saved to D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals\charts\charts_manifest.json
+2025-12-21 21:35:59,674 - __main__ - INFO - Generated 11 charts
+2025-12-21 21:35:59,681 - __main__ - INFO - Created 10 HTML charts
+2025-12-21 21:35:59,681 - __main__ - INFO - Created 10 PNG charts
+2025-12-21 21:35:59,681 - __main__ - INFO - Dashboard available at: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\stage_4_visuals\charts\dashboard.html
+2025-12-21 21:35:59,681 - __main__ - INFO - Stage 6 complete. Visualizations generated
+2025-12-21 21:35:59,681 - __main__ - INFO - Starting Stage 7: Final Assembly
+2025-12-21 21:36:00,709 - __main__ - ERROR - Error creating consolidated files: [Errno 13] Permission denied: 'D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\final_outputs\\data\\Kenya_Governance_By_The_Numbers.xlsx'
+2025-12-21 21:36:00,711 - __main__ - INFO - Dashboard created: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\dashboard.html
+2025-12-21 21:36:00,715 - __main__ - INFO - Stage 7 complete. Final outputs in D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs
+2025-12-21 21:36:00,715 - __main__ - INFO - ================================================================================
+2025-12-21 21:36:00,715 - __main__ - INFO - FINAL OUTPUT SUMMARY
+2025-12-21 21:36:00,716 - __main__ - INFO - ================================================================================
+2025-12-21 21:36:00,716 - __main__ - INFO - summaries/: 13 files
+2025-12-21 21:36:00,718 - __main__ - INFO -   - action_handbook.md (7.4 KB)
+2025-12-21 21:36:00,718 - __main__ - INFO -   - budget_analysis.csv (649.0 B)
+2025-12-21 21:36:00,718 - __main__ - INFO -   - charts_data.json (4.6 KB)
+2025-12-21 21:36:00,718 - __main__ - INFO -   - citizen_summary.md (3.5 KB)
+2025-12-21 21:36:00,719 - __main__ - INFO -   - constitutional_guide.md (4.3 KB)
+2025-12-21 21:36:00,719 - __main__ - INFO -   ... and 8 more files
+2025-12-21 21:36:00,720 - __main__ - INFO - data/: 13 files
+2025-12-21 21:36:00,720 - __main__ - INFO -   - all_consolidated_data.json (1.4 MB)
+2025-12-21 21:36:00,720 - __main__ - INFO -   - budget_analysis.csv (649.0 B)
+2025-12-21 21:36:00,720 - __main__ - INFO -   - charts_data.json (4.6 KB)
+2025-12-21 21:36:00,720 - __main__ - INFO -   - constitutional_matrix.json (7.0 KB)
+2025-12-21 21:36:00,721 - __main__ - INFO -   - corruption_cases.csv (1.0 KB)
+2025-12-21 21:36:00,721 - __main__ - INFO -   ... and 8 more files
+2025-12-21 21:36:00,723 - __main__ - INFO - visuals/: 10 files
+2025-12-21 21:36:00,723 - __main__ - INFO -   - budget_analysis.csv (649.0 B)
+2025-12-21 21:36:00,723 - __main__ - INFO -   - charts_data.json (4.6 KB)
+2025-12-21 21:36:00,723 - __main__ - INFO -   - constitutional_matrix.json (7.0 KB)
+2025-12-21 21:36:00,723 - __main__ - INFO -   - corruption_cases.csv (1.0 KB)
+2025-12-21 21:36:00,724 - __main__ - INFO -   - debt_analysis.csv (1001.0 B)
+2025-12-21 21:36:00,724 - __main__ - INFO -   ... and 5 more files
+2025-12-21 21:36:00,724 - __main__ - INFO - reports/: 4 files
+2025-12-21 21:36:00,724 - __main__ - INFO -   - citizen_constitutional_guide.pdf (2.4 KB)
+2025-12-21 21:36:00,724 - __main__ - INFO -   - citizen_constitutional_guide.txt (1.1 KB)
+2025-12-21 21:36:00,726 - __main__ - INFO -   - constitutional_validation.json (2.0 B)
+2025-12-21 21:36:00,726 - __main__ - INFO -   - validation_summary.json (198.0 B)
+2025-12-21 21:36:00,727 - __main__ - INFO - dashboard.html: Interactive dashboard (10.4 KB)
+2025-12-21 21:36:00,727 - __main__ - INFO - README.md: Documentation (3.8 KB)
+2025-12-21 21:36:00,727 - __main__ - INFO - manifest.json: File manifest (6.4 KB)
+2025-12-21 21:36:00,727 - __main__ - INFO - ================================================================================
+2025-12-21 21:36:00,728 - __main__ - INFO - All outputs available in: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs
+2025-12-21 21:36:00,728 - __main__ - INFO - Open D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs\dashboard.html in your browser to explore
+2025-12-21 21:36:00,728 - __main__ - INFO - ================================================================================
+2025-12-21 21:36:00,728 - __main__ - INFO - PIPELINE COMPLETED SUCCESSFULLY
+2025-12-21 21:36:00,729 - __main__ - INFO - ================================================================================
+2025-12-21 21:36:00,729 - __main__ - INFO - Check final outputs in: D:\CEKA\Scripts PROJECTS\PEOPLES_AUDIT\final_outputs
