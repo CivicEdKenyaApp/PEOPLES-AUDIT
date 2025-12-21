@@ -1,7 +1,7 @@
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Path
 from fastapi.responses import HTMLResponse, FileResponse
 from fastapi.middleware.cors import CORSMiddleware
-from pathlib import Path
+from pathlib import Path as PathlibPath
 import os
 import logging
 
@@ -14,16 +14,14 @@ logging.basicConfig(level=LOG_LEVEL)
 logger = logging.getLogger("pipeline_api")
 
 # Environment paths
-ROOT_DIR = Path(os.getenv("PEOPLES_AUDIT_ROOT", "/app"))
+ROOT_DIR = PathlibPath(os.getenv("PEOPLES_AUDIT_ROOT", "/app"))
 HTML_DIR = ROOT_DIR / "stage_4_visuals" / "html"
 TEST_HTML_DIR = ROOT_DIR / "stage_5_validation" / "test_charts" / "html"
 DASHBOARD_HTML = ROOT_DIR / "stage_4_visuals" / "dashboard.html"
 OUTPUT_DIRS = [HTML_DIR, TEST_HTML_DIR]
 
 # CORS middleware to allow embedding on external sites (CEKA/Nasaka)
-origins = [
-    "*"
-]
+origins = ["*"]
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -76,7 +74,10 @@ async def get_test_chart(filename: str):
 
 # Serve static CSV/JSON outputs dynamically if needed
 @app.get("/outputs/{filetype}/{filename}")
-async def get_output_file(filetype: str = Query(..., regex="^(csv|json)$"), filename: str = Query(...)):
+async def get_output_file(
+    filetype: str = Path(..., regex="^(csv|json)$"),
+    filename: str = Query(...)
+):
     dir_map = {
         "csv": ROOT_DIR / "stage_3_llm_text",
         "json": ROOT_DIR / "stage_3_llm_text"
