@@ -56,3 +56,8 @@ structlog>=23.0.0
 openai>=1.0.0
 transformers>=4.30.0
 torch>=2.0.0
+
+fastapi==0.115.0
+uvicorn==0.30.0
+pydantic==2.7.0
+plotly==5.16.0
