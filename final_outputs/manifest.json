@@ -1,5 +1,5 @@
 {
-  "generated_date": "2025-12-21T21:37:59.534930",
+  "generated_date": "2025-12-22T00:08:36.855818",
   "pipeline_version": "1.0",
   "files": [
     {
@@ -11,8 +11,8 @@
     {
       "path": "manifest.json",
       "type": ".json",
-      "size_bytes": 6533,
-      "size_human": "6.4 KB"
+      "size_bytes": 6374,
+      "size_human": "6.2 KB"
     },
     {
       "path": "README.md",
@@ -59,7 +59,7 @@
     {
       "path": "data\\Kenya_Governance_By_The_Numbers.xlsx",
       "type": ".xlsx",
-      "size_bytes": 10027,
+      "size_bytes": 10026,
       "size_human": "9.8 KB"
     },
     {
@@ -95,7 +95,7 @@
     {
       "path": "reports\\citizen_constitutional_guide.pdf",
       "type": ".pdf",
-      "size_bytes": 2443,
+      "size_bytes": 2444,
       "size_human": "2.4 KB"
     },
     {
@@ -266,7 +266,7 @@
       ".pdf": 1,
       ".txt": 1
     },
-    "total_size_bytes": 1644271,
+    "total_size_bytes": 1644112,
     "total_size_human": "1.6 MB"
   }
 }

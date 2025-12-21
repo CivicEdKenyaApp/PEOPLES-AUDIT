@@ -802,7 +802,7 @@ class PeopleAuditPipeline:
                 </div>
             </div>
             <div style="text-align: center; margin-top: 20px;">
-                <a href="visuals/charts/dashboard.html" class="btn" target="_blank"><i class="fas fa-expand"></i> View Interactive Dashboard</a>
+                <a href="stage_4_visuals/charts/dashboard.html" class="btn" target="_blank"><i class="fas fa-expand"></i> View Interactive Dashboard</a>
             </div>
         </div>
         
