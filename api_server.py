@@ -39,8 +39,9 @@ HTML_SOURCE_DIRS = [HTML_VISUALS_DIR, TEST_CHARTS_DIR]
 # --- CORS Configuration ---
 # Allows your React sites on Vercel to embed or fetch these resources
 ALLOWED_ORIGINS = [
-    "https://ceka.vercel.app",
-    "https://nasaka.vercel.app",
+    "https://civicedkenya.vercel.app",
+    "https://ceka254.vercel.app",
+    "https://recall254.vercel.app",
     "http://localhost:3000",  # For local development of your sites
 ]
 
