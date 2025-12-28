@@ -40,6 +40,8 @@ HTML_SOURCE_DIRS = [HTML_VISUALS_DIR, TEST_CHARTS_DIR]
 # Allows your React sites on Vercel to embed or fetch these resources
 ALLOWED_ORIGINS = [
     "https://civicedkenya.vercel.app",
+    "https://civiceducationkenya.com",
+    "https://www.civiceducationkenya.com",
     "https://ceka254.vercel.app",
     "https://recall254.vercel.app",
     "http://localhost:3000",  # For local development of your sites
