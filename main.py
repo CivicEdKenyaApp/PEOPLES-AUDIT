@@ -82,7 +82,26 @@ class PeopleAuditPipeline:
             self.logger.info(f"Created directory: {dir_path}")
     
     def load_configuration(self):
-        """Load system configuration"""
+        """Load system configuration with extraction optimizations"""
+        # Try to load from pipeline_config, fallback to defaults
+        try:
+            from pipeline_config import config as pipeline_config
+            extraction_opts = pipeline_config.extraction_optimization
+            self.logger.info("Loaded extraction optimization settings from pipeline_config")
+        except Exception as e:
+            self.logger.warning(f"Could not load pipeline_config, using defaults: {e}")
+            extraction_opts = {
+                'use_ocr': True,
+                'ocr_threshold': 100,
+                'use_concurrent_extraction': True,
+                'use_pymupdf': True,
+                'use_camelot': True,
+                'use_tabula': True,
+                'merge_extraction_results': True,
+                'quality_scoring': True,
+                'save_quality_metrics': True,
+            }
+        
         self.config = {
             'source_pdf': self.root / 'input' / 'THE-PEOPLES-AUDIT_compressed.pdf',
             'constitution_pdf': self.root / 'input' / 'constitution_of_kenya_2010.pdf',
@@ -94,7 +113,8 @@ class PeopleAuditPipeline:
                 '3': self.root / 'stage_3_llm_text',
                 '4': self.root / 'stage_4_visuals',
                 '5': self.root / 'stage_5_validation'
-            }
+            },
+            'extraction_optimization': extraction_opts
         }
         
         # Verify critical files exist
@@ -109,6 +129,14 @@ class PeopleAuditPipeline:
         self.config['reference_input_dir'] = self.root / 'input' / 'reference_materials'
         self.config['reference_extract_dir'] = self.root / 'reference_materials' / 'extracted'
         self.config['reference_extract_dir'].mkdir(parents=True, exist_ok=True)
+        
+        # Log extraction optimization settings
+        self.logger.info("=" * 80)
+        self.logger.info("EXTRACTION OPTIMIZATION SETTINGS")
+        self.logger.info("=" * 80)
+        for key, value in extraction_opts.items():
+            self.logger.info(f"  {key}: {value}")
+        self.logger.info("=" * 80)
     
     def execute_pipeline(self):
         """Execute the complete pipeline"""
@@ -159,22 +187,35 @@ class PeopleAuditPipeline:
             
             # Extract main PDF if exists
             if self.config['source_pdf'].exists():
-                # Check if OCR is available for enhanced extraction
-                use_ocr = False
-                try:
-                    import pytesseract
-                    from PIL import Image
-                    use_ocr = True
-                    self.logger.info("OCR available - will be used for low-quality pages")
-                except ImportError:
-                    self.logger.info("OCR not available - install pytesseract and Pillow for scanned PDF support")
+                # Get extraction optimization settings
+                opts = self.config.get('extraction_optimization', {})
                 
-                # Create extractor with optimizations
+                # Check available extraction methods
+                available_methods = self._check_extraction_methods(opts)
+                
+                # Determine OCR availability
+                use_ocr = opts.get('use_ocr', True) and available_methods.get('ocr', False)
+                ocr_threshold = opts.get('ocr_threshold', 100)
+                
+                if use_ocr:
+                    self.logger.info("✓ OCR enabled - will be used for low-quality pages")
+                else:
+                    self.logger.info("⚠ OCR not available - install pytesseract and Pillow for scanned PDF support")
+                
+                # Log available methods
+                self.logger.info("Available extraction methods:")
+                for method, available in available_methods.items():
+                    status = "✓" if available else "✗"
+                    self.logger.info(f"  {status} {method}")
+                
+                # Create extractor with all optimizations
                 pdf_extractor = PDFExtractor(
                     log_level=logging.INFO,
                     use_ocr=use_ocr,
-                    ocr_threshold=100  # Use OCR if page has < 100 words
+                    ocr_threshold=ocr_threshold
                 )
+                
+                self.logger.info("Starting enhanced PDF extraction with all available methods...")
                 extraction_results = pdf_extractor.extract_all(str(self.config['source_pdf']))
                 
                 # Save extraction results
@@ -204,9 +245,39 @@ class PeopleAuditPipeline:
                 with open(extraction_dir / 'extraction_statistics.json', 'w', encoding='utf-8') as f:
                     json.dump(extraction_results['statistics'], f, indent=2, ensure_ascii=False)
                 
-                self.logger.info(f"Stage 1 complete. Files saved to {extraction_dir}")
-                self.logger.info(f"Extracted {extraction_results['statistics'].get('total_pages', 0)} pages")
-                self.logger.info(f"Found {extraction_results['statistics'].get('total_constitutional_articles', 0)} constitutional articles")
+                # Save quality metrics if available
+                if 'quality_metrics' in extraction_results and opts.get('save_quality_metrics', True):
+                    with open(extraction_dir / 'quality_metrics.json', 'w', encoding='utf-8') as f:
+                        json.dump(extraction_results['quality_metrics'], f, indent=2, ensure_ascii=False)
+                    self.logger.info("✓ Quality metrics saved")
+                
+                # Log extraction summary
+                stats = extraction_results['statistics']
+                self.logger.info("=" * 80)
+                self.logger.info("STAGE 1 EXTRACTION COMPLETE")
+                self.logger.info("=" * 80)
+                self.logger.info(f"Pages extracted: {stats.get('total_pages', 0)}")
+                self.logger.info(f"Total words: {stats.get('total_words', 0):,}")
+                self.logger.info(f"Total paragraphs: {stats.get('total_paragraphs', 0):,}")
+                self.logger.info(f"Tables found: {stats.get('tables_count', 0)}")
+                self.logger.info(f"Figures found: {stats.get('figures_count', 0)}")
+                self.logger.info(f"Constitutional articles: {stats.get('total_constitutional_articles', 0)}")
+                self.logger.info(f"Monetary values: {len(extraction_results['numerics'].get('monetary_values', []))}")
+                self.logger.info(f"Scandals referenced: {stats.get('total_scandals', 0)}")
+                
+                # Log quality metrics if available
+                if 'quality_metrics' in extraction_results:
+                    quality = extraction_results['quality_metrics']
+                    self.logger.info("=" * 80)
+                    self.logger.info("EXTRACTION QUALITY METRICS")
+                    self.logger.info("=" * 80)
+                    self.logger.info(f"Overall Quality Score: {quality.get('overall_score', 0):.2%}")
+                    self.logger.info(f"Average Words/Page: {quality.get('average_words_per_page', 0):.0f}")
+                    self.logger.info(f"Table Coverage: {quality.get('table_coverage', 0):.2%}")
+                    self.logger.info(f"Figure Coverage: {quality.get('figure_coverage', 0):.2%}")
+                
+                self.logger.info(f"Files saved to: {extraction_dir}")
+                self.logger.info("=" * 80)
             else:
                 self.logger.warning("Source PDF not found. Creating sample data for testing.")
                 self.create_sample_stage1_data()
@@ -586,8 +657,54 @@ class PeopleAuditPipeline:
             self.logger.error(traceback.format_exc())
             raise
 
+    def _check_extraction_methods(self, opts: dict) -> dict:
+        """Check which extraction methods are available"""
+        methods = {
+            'pypdf2': True,  # Always available (required)
+            'pdfplumber': True,  # Always available (required)
+            'pymupdf': False,
+            'ocr': False,
+            'camelot': False,
+            'tabula': False,
+        }
+        
+        # Check PyMuPDF
+        if opts.get('use_pymupdf', True):
+            try:
+                import fitz
+                methods['pymupdf'] = True
+            except ImportError:
+                pass
+        
+        # Check OCR
+        if opts.get('use_ocr', True):
+            try:
+                import pytesseract
+                from PIL import Image
+                methods['ocr'] = True
+            except ImportError:
+                pass
+        
+        # Check Camelot
+        if opts.get('use_camelot', True):
+            try:
+                import camelot
+                methods['camelot'] = True
+            except ImportError:
+                pass
+        
+        # Check Tabula
+        if opts.get('use_tabula', True):
+            try:
+                import tabula
+                methods['tabula'] = True
+            except ImportError:
+                pass
+        
+        return methods
+    
     def extract_reference_materials(self):
-        """Extract all reference PDFs from input/reference_materials recursively"""
+        """Extract all reference PDFs from input/reference_materials recursively with optimizations"""
         from extractors.pdf_extractor import PDFExtractor
 
         ref_root = self.config['reference_input_dir']
@@ -597,18 +714,31 @@ class PeopleAuditPipeline:
             self.logger.info("No input/reference_materials directory found. Skipping reference extraction.")
             return
 
-        extractor = PDFExtractor()
+        # Use same optimization settings as main extraction
+        opts = self.config.get('extraction_optimization', {})
+        available_methods = self._check_extraction_methods(opts)
+        use_ocr = opts.get('use_ocr', True) and available_methods.get('ocr', False)
+        
+        extractor = PDFExtractor(
+            log_level=logging.INFO,
+            use_ocr=use_ocr,
+            ocr_threshold=opts.get('ocr_threshold', 100)
+        )
         index = {}
 
-        for file_path in ref_root.rglob('*'):
+        pdf_files = list(ref_root.rglob('*.pdf'))
+        if not pdf_files:
+            self.logger.info("No PDF files found in reference_materials. Skipping.")
+            return
+        
+        self.logger.info(f"Found {len(pdf_files)} reference PDF(s) to extract")
+
+        for file_path in pdf_files:
             if not file_path.is_file():
                 continue
 
-            if file_path.suffix.lower() != '.pdf':
-                continue
-
             try:
-                self.logger.info(f"Extracting reference document: {file_path}")
+                self.logger.info(f"Extracting reference document: {file_path.name}")
 
                 result = extractor.extract_all(str(file_path))
 
@@ -621,10 +751,17 @@ class PeopleAuditPipeline:
 
                 with open(target_dir / 'metadata.json', 'w', encoding='utf-8') as f:
                     json.dump(result['metadata'], f, indent=2, ensure_ascii=False)
+                
+                # Save quality metrics if available
+                if 'quality_metrics' in result and opts.get('save_quality_metrics', True):
+                    with open(target_dir / 'quality_metrics.json', 'w', encoding='utf-8') as f:
+                        json.dump(result['quality_metrics'], f, indent=2, ensure_ascii=False)
 
                 index[str(relative)] = {
                     'source_file': str(file_path),
-                    'pages': result['statistics'].get('total_pages', 0)
+                    'pages': result['statistics'].get('total_pages', 0),
+                    'words': result['statistics'].get('total_words', 0),
+                    'quality_score': result.get('quality_metrics', {}).get('overall_score', 0.0)
                 }
 
             except Exception as e:
