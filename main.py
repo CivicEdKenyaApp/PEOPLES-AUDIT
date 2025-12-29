@@ -159,7 +159,22 @@ class PeopleAuditPipeline:
             
             # Extract main PDF if exists
             if self.config['source_pdf'].exists():
-                pdf_extractor = PDFExtractor()
+                # Check if OCR is available for enhanced extraction
+                use_ocr = False
+                try:
+                    import pytesseract
+                    from PIL import Image
+                    use_ocr = True
+                    self.logger.info("OCR available - will be used for low-quality pages")
+                except ImportError:
+                    self.logger.info("OCR not available - install pytesseract and Pillow for scanned PDF support")
+                
+                # Create extractor with optimizations
+                pdf_extractor = PDFExtractor(
+                    log_level=logging.INFO,
+                    use_ocr=use_ocr,
+                    ocr_threshold=100  # Use OCR if page has < 100 words
+                )
                 extraction_results = pdf_extractor.extract_all(str(self.config['source_pdf']))
                 
                 # Save extraction results
