@@ -1,11 +1,11 @@
 {
-  "generated_date": "2025-12-22T00:08:36.855818",
+  "generated_date": "2025-12-29T16:25:54.601988",
   "pipeline_version": "1.0",
   "files": [
     {
       "path": "dashboard.html",
       "type": ".html",
-      "size_bytes": 10692,
+      "size_bytes": 10691,
       "size_human": "10.4 KB"
     },
     {
@@ -266,7 +266,7 @@
       ".pdf": 1,
       ".txt": 1
     },
-    "total_size_bytes": 1644112,
+    "total_size_bytes": 1644111,
     "total_size_human": "1.6 MB"
   }
 }

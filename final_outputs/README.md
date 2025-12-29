@@ -5,7 +5,7 @@ This directory contains the complete outputs from the People's Audit pipeline an
 The audit examines Kenya's economic governance, corruption, and constitutional violations.
 
 ## Generation Details
-- **Generated**: 2025-12-22 00:08:36
+- **Generated**: 2025-12-29 16:25:54
 - **Pipeline Version**: 1.0
 - **Source Document**: THE-PEOPLES-AUDIT_compressed.pdf
 - **Constitution**: Constitution of Kenya 2010
