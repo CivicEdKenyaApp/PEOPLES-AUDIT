@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2019.pdf",
   "total_pages": 355,
-  "extraction_date": "2025-12-29T15:55:39.630211",
+  "extraction_date": "2025-12-30T04:56:43.063369",
   "file_hash": "70e38894a8231018b0f97bd2bab607891e8ff9eb4e09edbd8766c31c236aa86f",
-  "file_size": 3084391
+  "file_size": 3392236,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

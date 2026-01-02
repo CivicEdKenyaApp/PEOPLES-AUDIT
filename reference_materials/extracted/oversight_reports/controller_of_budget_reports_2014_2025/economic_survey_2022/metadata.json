@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2022.pdf",
   "total_pages": 36,
-  "extraction_date": "2025-12-29T16:06:40.518276",
+  "extraction_date": "2025-12-30T06:42:52.076541",
   "file_hash": "aa04b1c36d996c915ce963e86f3292b0e2580c471c2e0eb9cec85aad4db07e55",
-  "file_size": 7337768
+  "file_size": 8031241,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

@@ -1,12 +1,12 @@
 {
   "total_pages": 32,
-  "total_words": 42053,
+  "total_words": 40838,
   "total_paragraphs": 32,
-  "total_monetary_values": 149840649700263.38,
-  "total_scandals": 3,
+  "total_monetary_values": 149914499710263.38,
+  "total_scandals": 9,
   "total_constitutional_articles": 35,
-  "chapters_count": 7,
+  "chapters_count": 24,
   "figures_count": 6,
-  "tables_count": 31,
-  "extraction_timestamp": "2025-12-29T15:32:43.434876"
+  "tables_count": 38,
+  "extraction_timestamp": "2025-12-30T02:11:59.636467"
 }

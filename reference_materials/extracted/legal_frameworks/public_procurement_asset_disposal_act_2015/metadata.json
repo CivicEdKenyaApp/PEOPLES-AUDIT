@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\public_procurement_asset_disposal_act_2015.pdf",
   "total_pages": 145,
-  "extraction_date": "2025-12-29T15:40:06.145065",
+  "extraction_date": "2025-12-30T03:03:39.946542",
   "file_hash": "72a6d0f8884a92beda584a073f6c8a3263f910b1de509d9b96243f182ecb36d6",
-  "file_size": 773417
+  "file_size": 1710443,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

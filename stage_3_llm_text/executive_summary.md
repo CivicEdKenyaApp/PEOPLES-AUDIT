@@ -92,4 +92,4 @@ and citizen mobilization for implementation.
 ---
 *Analysis Period: 2014-2025*
 *Data Sources: OAG, CoB, KNBS, Treasury, People's Audit*
-*Generated: December 29, 2025*
+*Generated: December 30, 2025*

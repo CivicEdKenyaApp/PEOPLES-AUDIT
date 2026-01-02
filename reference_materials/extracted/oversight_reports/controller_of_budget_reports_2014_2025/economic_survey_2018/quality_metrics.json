@@ -1,0 +1,8 @@
+{
+  "overall_score": 0.5476470588235288,
+  "average_words_per_page": 498.1058823529412,
+  "pages_with_tables": 255,
+  "pages_with_figures": 43,
+  "table_coverage": 0.75,
+  "figure_coverage": 0.1264705882352941
+}

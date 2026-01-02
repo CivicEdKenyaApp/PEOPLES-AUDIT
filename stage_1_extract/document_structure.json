@@ -5,299 +5,465 @@
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": false,
+      "has_images": true,
       "monetary_count": 0,
-      "article_count": 0
+      "article_count": 0,
+      "quality_score": 0.1
     },
     "2": {
       "word_count": 298,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": false,
+      "has_images": true,
       "monetary_count": 0,
-      "article_count": 0
+      "article_count": 0,
+      "quality_score": 0.4
     },
     "3": {
-      "word_count": 1742,
+      "word_count": 1726,
       "paragraph_count": 1,
       "has_figures": true,
       "has_tables": false,
+      "has_images": true,
       "monetary_count": 0,
-      "article_count": 0
+      "article_count": 0,
+      "quality_score": 0.7
     },
     "4": {
+      "word_count": 1599,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 2,
+      "article_count": 2,
+      "quality_score": 0.6
+    },
+    "5": {
+      "word_count": 1564,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 5,
+      "article_count": 1,
+      "quality_score": 0.6
+    },
+    "6": {
+      "word_count": 1110,
+      "paragraph_count": 1,
+      "has_figures": true,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 3,
+      "article_count": 0,
+      "quality_score": 0.7
+    },
+    "7": {
+      "word_count": 1048,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 8,
+      "article_count": 0,
+      "quality_score": 0.6
+    },
+    "8": {
+      "word_count": 1433,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": true,
+      "has_images": true,
+      "monetary_count": 4,
+      "article_count": 0,
+      "quality_score": 0.7
+    },
+    "9": {
+      "word_count": 1792,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 7,
+      "article_count": 0,
+      "quality_score": 0.6
+    },
+    "10": {
+      "word_count": 903,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 0,
+      "article_count": 2,
+      "quality_score": 0.6
+    },
+    "11": {
+      "word_count": 800,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 3,
+      "article_count": 1,
+      "quality_score": 0.6
+    },
+    "12": {
+      "word_count": 1647,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 6,
+      "article_count": 1,
+      "quality_score": 0.6
+    },
+    "13": {
+      "word_count": 1389,
+      "paragraph_count": 1,
+      "has_figures": true,
+      "has_tables": true,
+      "has_images": true,
+      "monetary_count": 7,
+      "article_count": 2,
+      "quality_score": 0.7999999999999999
+    },
+    "14": {
+      "word_count": 1555,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": true,
+      "has_images": true,
+      "monetary_count": 2,
+      "article_count": 3,
+      "quality_score": 0.7
+    },
+    "15": {
+      "word_count": 1604,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 6,
+      "article_count": 0,
+      "quality_score": 0.6
+    },
+    "16": {
+      "word_count": 1947,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": false,
+      "monetary_count": 21,
+      "article_count": 2,
+      "quality_score": 0.6
+    },
+    "17": {
+      "word_count": 1569,
+      "paragraph_count": 1,
+      "has_figures": false,
+      "has_tables": false,
+      "has_images": true,
+      "monetary_count": 8,
+      "article_count": 0,
+      "quality_score": 0.6
+    },
+    "18": {
       "word_count": 1641,
       "paragraph_count": 1,
       "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 2,
-      "article_count": 2
-    },
-    "5": {
-      "word_count": 1594,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 5,
-      "article_count": 1
-    },
-    "6": {
-      "word_count": 1141,
-      "paragraph_count": 1,
-      "has_figures": true,
-      "has_tables": false,
-      "monetary_count": 3,
-      "article_count": 0
-    },
-    "7": {
-      "word_count": 1069,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 8,
-      "article_count": 0
-    },
-    "8": {
-      "word_count": 1472,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
+      "has_tables": true,
+      "has_images": true,
       "monetary_count": 4,
-      "article_count": 0
-    },
-    "9": {
-      "word_count": 1848,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 7,
-      "article_count": 0
-    },
-    "10": {
-      "word_count": 939,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 0,
-      "article_count": 2
-    },
-    "11": {
-      "word_count": 825,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 3,
-      "article_count": 1
-    },
-    "12": {
-      "word_count": 1701,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 6,
-      "article_count": 1
-    },
-    "13": {
-      "word_count": 1428,
-      "paragraph_count": 1,
-      "has_figures": true,
-      "has_tables": false,
-      "monetary_count": 7,
-      "article_count": 2
-    },
-    "14": {
-      "word_count": 1597,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": true,
-      "monetary_count": 2,
-      "article_count": 3
-    },
-    "15": {
-      "word_count": 1651,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 6,
-      "article_count": 0
-    },
-    "16": {
-      "word_count": 2019,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 21,
-      "article_count": 2
-    },
-    "17": {
-      "word_count": 1613,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": false,
-      "monetary_count": 5,
-      "article_count": 0
-    },
-    "18": {
-      "word_count": 1691,
-      "paragraph_count": 1,
-      "has_figures": false,
-      "has_tables": true,
-      "monetary_count": 2,
-      "article_count": 1
+      "article_count": 1,
+      "quality_score": 0.7
     },
     "19": {
-      "word_count": 1808,
+      "word_count": 1745,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": true,
       "monetary_count": 0,
-      "article_count": 3
+      "article_count": 3,
+      "quality_score": 0.7
     },
     "20": {
-      "word_count": 1542,
+      "word_count": 1495,
       "paragraph_count": 1,
       "has_figures": false,
-      "has_tables": false,
+      "has_tables": true,
+      "has_images": true,
       "monetary_count": 3,
-      "article_count": 1
+      "article_count": 1,
+      "quality_score": 0.7
     },
     "21": {
-      "word_count": 1319,
+      "word_count": 1278,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": true,
       "monetary_count": 3,
-      "article_count": 3
+      "article_count": 3,
+      "quality_score": 0.7
     },
     "22": {
-      "word_count": 1420,
+      "word_count": 1372,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": false,
       "monetary_count": 8,
-      "article_count": 1
+      "article_count": 1,
+      "quality_score": 0.7
     },
     "23": {
-      "word_count": 1805,
+      "word_count": 1757,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": false,
       "monetary_count": 0,
-      "article_count": 1
+      "article_count": 1,
+      "quality_score": 0.7
     },
     "24": {
-      "word_count": 1612,
+      "word_count": 1555,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": false,
       "monetary_count": 1,
-      "article_count": 2
+      "article_count": 2,
+      "quality_score": 0.7
     },
     "25": {
-      "word_count": 1528,
+      "word_count": 1468,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": false,
       "monetary_count": 2,
-      "article_count": 1
+      "article_count": 1,
+      "quality_score": 0.7
     },
     "26": {
-      "word_count": 1621,
+      "word_count": 1566,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": false,
       "monetary_count": 0,
-      "article_count": 2
+      "article_count": 2,
+      "quality_score": 0.7
     },
     "27": {
-      "word_count": 1601,
+      "word_count": 1550,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": true,
       "monetary_count": 0,
-      "article_count": 0
+      "article_count": 0,
+      "quality_score": 0.7
     },
     "28": {
-      "word_count": 970,
+      "word_count": 950,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": true,
       "monetary_count": 2,
-      "article_count": 2
+      "article_count": 2,
+      "quality_score": 0.7
     },
     "29": {
-      "word_count": 1166,
+      "word_count": 1128,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
+      "has_images": false,
       "monetary_count": 1,
-      "article_count": 3
+      "article_count": 3,
+      "quality_score": 0.7
     },
     "30": {
-      "word_count": 985,
+      "word_count": 942,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": true,
-      "monetary_count": 0,
-      "article_count": 1
+      "has_images": false,
+      "monetary_count": 1,
+      "article_count": 1,
+      "quality_score": 0.7
     },
     "31": {
       "word_count": 371,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": false,
+      "has_images": false,
       "monetary_count": 0,
-      "article_count": 0
+      "article_count": 0,
+      "quality_score": 0.4
     },
     "32": {
       "word_count": 10,
       "paragraph_count": 1,
       "has_figures": false,
       "has_tables": false,
+      "has_images": true,
       "monetary_count": 0,
-      "article_count": 0
+      "article_count": 0,
+      "quality_score": 0.1
     }
   },
   "chapters": [
     {
       "number": "6",
-      "title": "and Chapter 12 is vit al finance, debt and governance ~Kawive Wambua, Executive other special interest groups, have systems. With an eroding Director, INUKA NI SISI for safeguarding taxpayers. long felt: that the public debt crisis culture of transparency and is not a distant macro-economic accountability in Kenya, the issue but a lived reality shaping needs and lived experiences of The publication of the People’s Further, the GCD reveals how daily struggles for dignity and the mwananchi -- the real Audit on Economic Mis- these distortions undermine civil opportunity. As more resources are people of Kenya -- are often left governance comes at a crucial and political rights from access to channeled to debt servicing, key out. “True governance means that time following the awakening information and public participation, sectors that sustain vulnerable every shilling borrowed or spent brought about by the people’s uprising to electoral integrity and institutional must be accounted for, because when in June 2024 led by the youth of Kenya. It is communities, such as edu cation, healthcare, Figure 7in: dFeopreenwdoerndc es.e Acsti oconr frourp: tSiohne silhar Minkass icnidviec, Executive Director Transparency International-in photo. social protection, water and sanitation, and space and weakens oversight, the foundations transparency fails, it is the mwananchi incumbent on all civic aFcigtuorer s9 : tFoo rreewmorda bilnur b: Albert Maloba of USLA economic empowerment, are hit even who pays twice — first through taxes, and vigilant and support all efforts to of democratic self-government erode. harder, shrinking opportunities and again through lost services and high cost of living.” hold those in power to account, deepening inequality. However, the ~Davis Malombe, Kenya Human Rights more so in safeguarding the same groups that bear these Commission. economic integrity of this impacts remain largely excluded The diagnostic review provides civil country. This report from decisions on how debt is society and citizens with evidence- documents how the political secured, managed, and This report is developed in the voice based data to engage government class has abandoned the communicated. This is despite of citizens who experience the and other stakeholders in constitutional aspirations of carrying the greatest burden of effects of weak fiscal governance in demanding justice, equality, Kenyans for personal reduced services and rising living their daily lives. It underscores a accountability and dignity for short-term political self- costs. Strengthening accountability consistent finding from our work taxpayers and communities interests, leading to costly across the entire debt cycle is at Bajeti Hub: sound management across the country. It also negative outcomes for the Kenyan therefore urgent. of public finances has significant highlights the high cost of economy now and for future potential to improve inclusive non-compliance with public generations. The call to action is, service delivery and strengthen finance management norms, therefore, quite clear: for positive change to The report also highlights the need for greater trust in public institutions. where weak oversight and be realised in Kenya, citizens will have to demand responsibility from lending institutions, whose Prudence in managing public mismanagement not only waste accountability from the leadership and critical loan terms and financing practices must become finances holds a great promise for resources but also increase the oversight institutions to safeguard the integrity of more transparent, equitable, and citizen-centric. Kenyans. The path forward is clear; the burden on citizens who ultimately bear all democratic, governance, and economic How borrowing decisions are made, disclosed, significant opportunity now lies in the rigorous the consequences. As Christian Aid has processes in Kenya. and overseen will determine whether debt implementation of the findings presented in consistently affirmed in its work on debt ~ Sheila Masinde Executive undermines or supports Kenya’s this report. We have a clearer and deeper justice, “The debt crisis is not only an Director Transparency development aspirations. We believe understanding of the necessary economic issue but a justice issue, reforms to improve fiscal because unsustainable debt robs International Kenya this report is a clarion call to reclaim Parliament’s central oversight role governance. What we need is an current and future generations The Shadow GCD’s findings even stronger commitment of thFei greusoreur c7e:s tFhoeyr eneweod rtod sectivoanlFid ig fao utrer e :h 1 So2wh : Fceoo irl r areuw pM otriaodn s B ai l n unr ddb : e K , a E w x iv e e c W u a t m iv b e u a D , E ir x e e c cu to tiv r e D T i r r a ec n to s r p , a In r u e ka ne an n c nd sy i u tS r o Ie i n sc K ih t ee a n m ryn p aa i ’s o t p n iou r bn ef lai o c r l -fi m inn s a t np h c a he t o to. towards implementation. live with dignity and hope.” fiscal misgovernance, from system works for its people not Effective implementation can \"gh ost schools\" to the ~Janet Ngombalu, Executive against them. We reiterate our reduce inefficiencies, enhance catastrophic rollout of the Director, Christian Aid- Kenya. commitment to continue accountability, and ensure that New Higher Education advocating fiscal transparency. public resources deliver their Funding Model, are eroding intended results. This GCD is a first for Kenyan e ducation as a public good. Caroline GaitaExecutive Director, Rejecting any cost-shifting Mzalendo Trust ~Dr Abraham Rugo Muriu, Executive citizens. For too long, our state of Figure 8D: iFreocrteowr, oBradj eBtilu Hrub:b Janet Ngombalu Country Director Christian Aid Kgeonveyran ance and corruption has been measures that burden students while Acknowledgment We also acknowledge the contribution of We acknowledge the rich discussions and partners: Ford Foundation, Oxfam Kenya, the AFRICOG team, whose early initiation insightful reflections shared by represen- the National Democratic Institute (NDI), of the writing and foundational input en- tatives during our validation engagements Bajeti Hub, Transparency International The realization of this People’s Audit is a Figure 10: Foreword blurb for Abraham Rugo Muriu, Executiver Diirecctohr , eBajdeti H tubh e direction and depth of this work. that have been crucial in shaping the Kenya, Open Society Foundation, Hewlett profound testament to the collective belief framework and content of this important Foundation and the Embass y of Norway in and unwavering dedication of our partners. Our sincere thanks go to the dedicated document – Thank you fFoigru rteh 1e3 :t Cimaroel inaen Gda ita, ExecutiKvee Dniryeact.o Tr, hMeziarle cndoom Trmusit tment to transparency, members of the Okoa Uchumi Campaign, effort invested. accountability, and economic justice con- We begin by expressing our deepest grat- for serving as the sounding board where tinues to fuel citizen power and democratic itude to The Institute for Social Account- this document was tested and refined. We further appreciate the invaluable edito- oversight. ability (TISA), which conceptualized this Their institutional support, involving rial expertise of Eric Kinaga and Kwamchet- People’s Audit and thoughtfully planned rigorous review and editing, was invaluable, si Makokha, whose sharp edits and timely To every institution and individual who lent and guided the process throughout every strengthening the document’s coherence turnaround enhanced the clarity, precision their time, their wisdom, and their spirit to stage. From design, coordination, and val- and ensuring it is authentically grounded and impact of this audit. this collective achievement — Thank you. idation to convening partners and leading in the lived realities of the economic justice Together, we move closer to a Kenya where the compilation, TISA’s leadership has been movement. This People’s Audit has been made possi- public resources are governed with integri- the engine that made this audit possible. ble through the generous support of our ty and in the service of all. Diana Gichengo, Executive Director The Institute for Social Accountability and The Convenor of Okoa Uchumi Coalition. Figure 8: Foreword Blurb: Janet Ngombalu Country Director Christian Aid Kenya",
+      "title": "and Chapter 12 is vit al",
       "start_page": 3,
       "end_page": 3
     },
     {
       "number": "3",
-      "title": "of the Constitution, morality. management, but a deliberate system of plunder. which are now being violated by the state due to the constricted fiscal space. Additionally, we address the neglect and erosion of Kenya requested the IMF to conduct a Governance and Corruption Okoa Uchumi has long engaged with Kenya’s public finance insti- Chapter 6 on leadership and integrity, which have contributed to Diagnostic, with a view to identifying institutional vulnerabilities tutions, including the Treasury, Parliament, the Office of the Con- the painful malaise affecting citizens. and proposing reforms. While the IMF’s framework is technically troller of Budget, and the Office of the Auditor General, as well rigorous, it is blind to the human cost of fiscal capture. It is unable as with international lenders such as the IMF and World Bank. Ultimately, we seek to defend Chapter 12 on public finance, which to register the anger of citizens filling the streets in the 2024–2025 Kenya’s IMF engagement since 2021 reflects the deep tension be- if it were adhered to in both letter and spirit; we would not need protests against punitive taxation, or the defiance expressed in tween fiscal stabilisation and social justice. The programme was austerity or fiscal consolidation, as resources would have been public participation forums since 2023.7 intended to restore debt sustainability through fiscal consolida- invested in growth. tion; however, reforms such as tax increases, subsidy cuts, and The Okoa Uchumi Campaign, a coalition of over 90 civil society rigid deficit targets have disproportionately harmed ordinary We seek to enforce the devolved system of governance and the organisations, sought to fill this gap. 8Through independent re- citizens.1 The absence of a serious distributional impact analy- democratic principles, including the separation of powers, so search, participatory validation and analysis, it produced this sis has meant that the poorest women, the youth, and future gen- that the constitution becomes our shining armour and fiscal pru- Shadow GCD: a people’s audit aligning global governance frame- erations shoulder the heaviest costs, while politically connected dence the blood that powers all functions, goods and services in works with Kenya’s lived realities. It demonstrates how system- elites continue to thrive. This gap highlights a deeper issue: debt Kenya. ic theft, elite impunity, and political capture have sabotaged the sustainability is not only about balancing numbers, but also economy and trapped millions in a cycle of poverty. It further sets about governance, transparency, and accountability. Without ad- out the policy reforms needed to restore constitutionalism and dressing opaque borrowing practices, politicised fiscal choices, economic dignity. and elite capture -- as the Shadow Governance Diagnostic review Introduction: highlights -- IMF-backed reforms could entrench fragility and The audit concludes that Kenya’s fiscal crisis is not technical but erode public trust rather than foster resilience.2 Kenya suffocating political. Debt, taxation, and expenditure choices are determined less by economic logic than by power calculations. Public insti- During the fourth review of the IMF programme, we campaigned in the armpits of debt tutions, from Parliament to the Office of the Auditor General, re- for its termination, and the programme ultimately collapsed un- main hamstrung by budget cuts and executive interference. Over- der the weight of unfulfilled targets and failed structural bench- sight mechanisms exist but are undermined through reduced Kenya’s economy is dangling on a cliff. Corruption, lack of trans- marks. This was not just a technical failure; it was a moral and funding, being ignored, or even being subverted.9 parency and reckless borrowing has created a debt crisis that governance catastrophe, showing the rot at the heart of Kenya’s political economy. is choking livelihoods. Over several decades, government offi- Kenya’s economic future cannot be rebuilt without confronting cials and their allies have plundered public resources, weakened this moral deficit. Governance, not growth rates, must be the This People’s Audit is therefore more than an alternative report. watchdopg institutions, and saddled citizens with an unmanage- foundation of reform. It is a declaration that Kenyans will no longer outsource account- able debt. Repaying debt and interest on debt in the 2024/25 fi- ability. It is both a mirror that exposes the truth of our captured nancial year alone consumed more than half of all the money the state and a map that points to the actions needed for citizens government collected as tax.3 The result of this is that money that to reclaim their economy and reset their democracy. We write would have been spent on improving lives and development was 5 National Treasury, Public Debt Statistical Bulletin 2024 through the lens of current experience, while also highlighting instead spent on repaying debt.4. 6 IMF, Kenya Debt Sustainability Analysis 2024 7 Kenya National Commission on Human Rights (2024). Preliminary Kenya’s public debt has increased five-fold in the past decade -- Report on the Finance Bill Protests. 1 Njoki Njehu , the IMF policies are destroying Kenya again , https:// 8 The Institute for Social Accountability (TISA) (2024). Okoa Uchumi jacobin.com/2024/03/imf-kenya-austerity-debt-william- 3 Institute of Public Finance (2024), Kenya’s Public Debt Service for FY Partner Statement: Fiscal Justice and Debt Accountability. 2 See https://www.theelephant.info/analysis/2025/01/16/debt-and- 2024/25 9 Office of the Auditor-General (2024). Annual Report and Financial austerity-the-imfs-legacy-of-structural-violence-in-the-global-south/ 4 National Treasury (2025). Budget Policy Statement, FY 2024/25 Statements 2023/24. .",
+      "title": "of the Constitution, morality.",
       "start_page": 4,
       "end_page": 4
     },
     {
       "number": "1",
-      "title": "How the forgotten half lives Each morning, Kenyans wake up to the same bleak arithmetic: hunger in their homes, joblessness among their youth, hospitals without medicine, schools without teachers, and a government that treats dissent as treason. The pattern has now extended into the digital sphere. Kenya’s corruption story is not just about missing billions, complex budgets, or failed institutions. It is about citizens struggling to live with dignity in a country where the state has chosen waste and violence over rights and service. The politi- cal class thrives in opulence financed by the same public that endures hunger, over-taxation, and collapsing public systems. On October 15, 2025, President William Ruto signed the Comput- er Misuse and Cybercrimes (Amendment) Act, 2024, a law that expands state powers to monitor, block, and take down online content deemed a threat to “national security” or “public order.”10 Civil society groups and digital rights advocates argue that the changes to the law are a blatant attack on freedom of expression, and seek to give the government unchecked discretion to restrict digital platforms without judicial oversight. The result is a chill- ing effect on dissent, where criticism of governance is increasing- ly treated as subversion rather than civic engagement.11 The promise of the 2010 Constitution and the guarantee of rights and social justice have become a dream deferred. 1.1 Hunger in the midst of plenty Despite Kenya having extraordinary untapped agricultural wealth, particularly in the fertile highlands and medium-to-high der the weight of allegations of embezzlement and mismanage- theft of their future. Tired of the diet of declarations that can nev- rainfall zones where the soils and climate are ideal for farming, ment, with senior government officials hoarding maize to create er feed them and no longer believe the promises made to them; an estimated 15.5 million Kenyans go a full day without a meal or artificial shortages in order to sell food at inflated prices while the youthful population saw the repeated betrayals mean one skip meals for lack of money and hence considered severely F Ke ig ny u a r n e f a 2 m : i T lie h s is st a g rv o e e d. s T in h e C s h uc a c p es t s e o r r D o a n n e ie : l H ar o ap w M t o h i e ’s r f e o - rgo t t h t i e ng n : t h h a e l g f o l v iv er e n s m ent does not see them as citizens to be em- food insecure. Over 20 million -- or four in every 10 citizens -- can- gime grabbed over 800,000 acres from indigenous communities powered but only as tools for taxation and votes. not afford basic necessities and are considered to be living below like the Ogiek,15 and the 1970s brought more economic scandal the poverty line. More than 1.8 million people in arid and semi-arid where the Kisumu Molasses Plant swallowed over KSh 14 mil- Youth defined in Kenya as those between the ages of 18 and 35 areas are at risk of being deprived of food and are regarded as suf- lion, and over KSh5 billion was siphoned off through under-re- years make up almost 30 per cent of the population.20 Youth fering from acute food insecurity.12 According to Oxfam Inequality ported exports of coffee. In 2009, Agriculture minister William unemployment is approximately 13 per cent, with more than report 2025, the cost of food items has increased by 50% since 2020. Ruto -- now Kenya’s president narrowly evaded parliamenta- one of every 10 in employment working in informal, low-pay- ry censure over KSh 2 billion maize scandal that played out ing, or part-time jobs. Within the ranks of the jobless are some Roughly 18 per cent of the country’s land falls within the during a drought, where maize from the National Cereals and 1.7 million university graduates, and 39 per cent of unemployed category of high-to-medium potential, while over 80 per Produce Board (NCPB) was diverted to private millers to cre- youth have post-secondary education.21 The desperation of the cent is arid and semi-arid (ASAL).13 With the right invest- ate shortages and inflate prices.16 Looting irrigation schemes youth significantly affects their well-being and exposes them to ment in irrigation, drought-tolerant crops, and resilient and relief continues to deny vulnerable communities vital sus- exploitation and harm. Youth have been particularly vulnerable technologies, arid and semi-arid regions could be trans- tenance.17 A recent scandal exposed ghost companies involved in overseas job opportunities programmes pushed by the Kenya formed into engines of food security and rural prosperity. in supplying fake fertilisers, with the Auditor General revealing Kwanza government through the President and Cabinet Secre- in 2024 that much of the fertilisers supplied in Kenya was sub- tary (CS) for Labour. These opaque deals to export Kenyan labour But instead of unlocking potential, Kenya has been trapped in standard, had not been delivered, or was recalled from farmers.18 under the banner of job creation typically invite exploitation, cor- a cycle of corruption and mismanagement. While billions of ruption and modern-day slavery. shillings have been borrowed to fund irrigation projects, much The sheer number of economic scandals over the decades may of the money has been looted, leaving a trail of empty canals, no longer be in the headlines but their aftershocks continue in Few youth employment programmes have proved to be genuine failed schemes and a mountain of public debt. The failure of the lives of those who live with their consequences. Saddled with empowerment opportunities from the early days of indepen- Kenya’s leadership is evident when the country is compared billions of debt, denied critical inputs and services, food insecu- dence. Training schemes in the 1980-90s collapsed under massive with Egypt, whose land is 96 per cent desert and only 3 per cent rity and poverty has been forced on Kenyans as if it is a natural corruption,22 depriving a generation of skills and opportunities. arable: Egypt has invested heavily in irrigation technologies inevitability. In 2009, the Grand Coalition Government fla gged “Kazi kwa Vijana” as the turning point for the youth, promising to absorb and today stands as a major exporter of agricultural produce.14 thousands into construction, environmental works, and public Governance Linkage: Kenya’s hunger crisis exposes the corrup- service. But within two years, more than KSh4.3 billion had Although the Constitution guarantees every Kenyan freedom tion of fiscal priorities. Funds meant for agricultural transforma- been lost through inflated contracts and ghost workers, sucking from hunger, this right has been repeatedly violated from inde- tion are captured by patronage networks, leaving a trail of unpro- in donor funds from the World Bank.23 Far from restoring hope to pendence to the present day. Hunger in Kenya is not a result of ductive debt-financed projects. Hunger is thus a product of fiscal restless youth, the programme deepened distrust of government. scarcity but greed. During the Jomo Kenyatta presidency, near- governance failure resulting from budget indiscipline, opaque ly 500,000 acres of fertile land were irregularly allocated to his procurement and capture of the state by powerful individuals.19 Promises by the Uhuru Kenyatta administration that the Na- family, launching decades of theft, political patronage and scan- tional Youth Service (NYS) would be a flagship empowerment dal. In the 1960s, the Moffat Agricultural Scheme collapsed un- programme turned into one of the biggest looting schemes of 1.2 Joblessness has set a generation on edge the decade, with KSh 791 million stolen in 2015 and some KSh Youth who poured into the streets during the June 2024 Gen Z 10 State House Kenya, “President Ruto Assents to the Computer Misuse protests were not only rejecting additional tax measures but the and Cybercrimes (Amendment) Act, 2024,” Press Release, 15 October 20 According to the most recent Kenya Population Housing Census 2025. (2019) and projections from 2022 Demographic and Health Survey, 11 Article 19 Eastern Africa (2025, October 18). “Kenya: Cybercrime Law 15 Joe Khamisi, Kenya: Looters and Grabbers: 54 years of corruption and Kenya National Bureau of Statistics. The youth definition notably does Amendments Pose Grave Threat to Free Expression.” plunder by the elite, 1963-2017 (Plano, Texas: Jodey Book Publishers, not include those age 0-19. 12 Kenya Food Security Steering Group (KFSSG), Kenya: IPC Acute Food 2018). 21 The Institute for Social Accountability (TISA), Okoa Uchumi, and Insecurity and Acute Malnutrition Analysis (July 2025 – January 2026). 16 Africa Centre for Open Governance (2009), The Maize Scandal AFRICOG, Stealing the Future, 2025 13 Kenya Ministry of Agriculture, Agricultural Sector Transformation and 17 Office of the Auditor General, Report of the Auditor General on the 22 Simson, Rebecca. “Patronage or Meritocracy? Public Sector Growth Strategy (ASTGS) Abridged Version Financial Statements of National Cereals and Produce Board for the Employment in Postcolonial Kenya, Tanzania, and Uganda.” African 14 Welthungerhilfe (WHH), Concern Worldwide, and Institute for Year Ended 30 June 2018 Economic History Network Working Paper 26 (June 2016), London International Law for Peace and Armed Conflict (IFHV), Global Hunger 18 Office of the Auditor General, Auditor General’s Summary Report on School of Economics. Index 2024: How Gender Justice Can Advance Climate Resilience and National Government 2023/2024 23 World Bank (2012). Project Performance Assessment Report: Kenya Zero Hunger (Bonn/Berlin/Dublin/Bochum, 2024). 19 World Bank (2023). Kenya Public Expenditure Review 2023. Youth Empowerment Program",
+      "title": "How the forgotten half lives",
       "start_page": 5,
+      "end_page": 6
+    },
+    {
+      "number": "2024",
+      "title": "of shillings earmarked for free maternity care in the Afya House\nProtests Monitoring Report",
+      "start_page": 7,
       "end_page": 7
     },
     {
       "number": "2",
-      "title": "Where the rain started beating us 2.1 Big numbers hide a decade of plunder This concentration affects credit access and economic inclu- annually between 2020 and 2025, compared to double-dig- sion. When commercial banks prefer government securities over it growth in the earlier part of the decade.48 The preference private sector lending, credit to small and medium enterprises for risk-free Treasury returns reflects a structural distortion Kenya’s macroeconomic performance over the past decade shrinks, private investment slows and job creation declines. The where fiscal convenience undermines productive investment. reflects an economy that expanded significantly through result is a fiscal structure that supports financial stability for public spending but without corresponding structural and a few while limiting wider participation in economic growth. Lack of comprehensive disclosure in debt contracting and guar- institutional transformation. Between 2014 and 2025, to- antee management are another area of concern. While the Public tal public debt increased from approximately KSh2.4 tril- Externally, the government has relied increasingly on Eurobond Finance Management Act requires parliamentary approval for all lion to about KSh12.05 trillion, a fivefold rise that out- issues and syndicated commercial loans, whose costs have risen loans and guarantees, several external borrowings have in recent paced both economic growth and revenue mobilisation.37 with global interest rates. 42These loans are frequently used for years been contracted with limited public disclosure of terms and budget support rather than productive investment, creating a cy- repayment schedules.49 Guarantees to State-Owned Enterprises The strategy of infrastructure-led growth produced visible assets cle of repayment without a corresponding growth in productivity. and Public–Private Partnerships are not always reflected in the such as highways, ports and energy projects, but it also accelerat- official debt register, creating contingent liabilities that could ed borrowing and increased fiscal pressure. Average GDP growth By FY 2024/25, the public debt-to-GDP ratio stood at roughly surface as future fiscal shocks. The Office of the Auditor-General during this period was about 4.8 per cent per year, which was 70 per cent, which is above the sustainability threshold set by (2024) estimated that such liabilities may total over KSh600 bil- insufficient to absorb a rapidly growing labour force or reduce Kenya’s Public Finance Management Regulations and the IMF’s lion, although data remains incomplete.50 poverty.38 Debt Sustainability Framework for Low-Income Countries.43 De- spite repeated commitments to consolidate debt, weak revenue growth and rigid expenditure obligations result in fiscal deficits -- where the government spends more than it collects in revenues. For citizens, these fiscal dynamics translate into higher taxes, delayed service delivery and reduced development spending. The overall picture is one of a state managing liquidity rather than building resilience. Addressing this imbalance will require cred- ible fiscal discipline, greater transparency in how government contracts debt and meaningful public participation in fiscal over- sight. 2.2 Whom Kenyans owe and the politics of borrowing Kenya’s debt structure has changed significantly in both scale and composition over the past decade. What began as a primarily By FY 2024/25, debt service accounted for more than half of ordi- concessional debt portfolio has evolved into a more complex mix nary revenue.39 This severely limited fiscal space for social invest- of commercial, bilateral and domestic borrowing instruments. ment and county allocations. Borrowing, rather than effective rev- This shift has deepened fiscal risk -- the possibility of government enue reform, became the main source of funding for the budget. spending deviating from what is budgeted -- and exposed the country to higher interest costs and an unstable exchange rate.44 The shift in debt composition has reinforced the country’s fis- cal vulnerability. Since 2014, Kenya has moved from low-interest Kenya’s debt profile has undergone its most dramatic change The lack of transparency in debt management has weakened par- concessional loans to commercial Eurobonds, syndicated bank in the past decade. Until 2014, the bulk of Kenya’s external liamentary oversight and public participation. Public hearings facilities and high-yield domestic securities.40 These instru- loans were on concessional terms from lenders such as the on new loans are infrequent, and debt audits are rarely published. ments carry higher interest costs and shorter repayment peri- World Bank and the African Development Bank. From 2014, The absence of an accessible national debt register undermines ods, increasing refinancing risk and weakening fiscal stability. the country changed sharply towards the international open constitutional provision that guarantees citizens the right to in- loan market by rolling out Eurobond issues and inking syndi- formation. Transparency in debt management is therefore not Bonds and Treasury Bills are now the government’s primary cated commercial loans. These loans, which were typically dol- only a governance requirement but a constitutional obligation. source of financing. This market is dominated by commercial lar denominated, carried interest rates of between 7 and 9 per banks, pension funds and insurance companies. The minimum cent.45 They offered quick cash but had shorter maturities and The political economy of borrowing reinforces this lack of trans- investment thresholds lock out most citizens, and the concen- higher refinancing obligations, making Kenya more vulnera- parency. Borrowed funds often support politically visible proj- tration of holdings has created a narrow group of beneficiaries ble to swings in global interest rates and currency movements. ects such as roads, dams, stadia and expressways that have high who earn stable interest income from Treasury debt instruments. electoral value but limited economic returns. Debt thus becomes Meanwhile, domestic borrowing continued to climb steadi- both a fiscal and political instrument, allowing governments to By mid-2025, domestic debt represented more than half of the ly as the government turned to local markets to cover recur- demonstrate progress in the short term while putting off repay- total public debt, and interest payments on domestic borrowing rent spending and persistent budget deficits. By 2025, do- ment obligations. This dynamic creates a cycle of borrowing for exceeded those on external obligations.41 The government now mestic debt had risen to over half of Kenya’s total public debt, visibility rather than productivity, and it shifts the cost of politi- spends more on servicing debt owed to local financial institu- reversing the position that had obtained a decade earlier.46 cal decision-making onto future taxpayers. tions than it does on repaying international lenders, reflecting This borrowing is dominated by Treasury bills and bonds rising domestic interest rates and concentration of ownership. issued through the Central Bank, which are largely pur- The fiscal implications are clear. Rising interest payments, chased by banks, pension funds and insurance companies. exchange-rate losses and debt-rollover pressures have crowded out funding for social sectors. In FY 2024/25, interest payments The Central Bank’s Public Debt Statistical Bulletin (June 2025) Share of Domestic Debt Held by Banks and Insurance Compa- on public debt reached over KSh750 billion, exceeding total shows that commercial banks hold nearly half of all domestic nies development expenditure.51Without stronger transparency and debt, with pension funds and insurance companies together hold- accountability in the way public debt is contracted, Kenya risks ing 30 per cent.47 This concentration creates a narrow creditor locking itself into a structural deficit that will choke fiscal room base which benefits from predictable interest income, even as the for manoeuvre in the years to come. broader economy struggles with limited access to affordable credit. Ultimately, the debt story is not simply about numbers. It As banks channel liquidity into government securities, pri- reflects choices about whose interests public finance serves. vate-sector lending stagnates. Small and medium enterprises For Kenya to sustain development without threatening fiscal face tighter credit conditions, higher lending rates and lon- stability, borrowing must be guided by prudence, transparency ger approval times. According to CBK credit surveys, aver- and measurable public benefit. Parliamentary oversight should age lending to the private sector grew by less than 6 per cent be strengthened, debt disclosures made mandatory and citizen participation institutionalised in borrowing decisions. 42 CBK and National Treasury, Debt Management Office Summary Data, 37 Central Bank of Kenya (CBK), Quarterly Economic Review, Q2 2025. August 2025. September-2025-Monthly-Bulletin.pdfSeptember-2025-Monthly- 43 IMF and World Bank, Debt Sustainability Analysis for Low-Income Bulletin.pdf Countries: Kenya 2025 Update. 38 Kenya National Bureau of Statistics (KNBS), Economic Survey 2025. 44 International Monetary Fund (IMF), Kenya: 2025 Article IV 48 CBK, Credit Officer Survey Report, June 2025 39 Controller of Budget (CoB), National Government Budget Consultation Report. 49 Republic of Kenya, Public Finance Management Act (2012). Implementation Review Report FY 2024/25. 45 National Treasury, Debt Management Strategy 2025. 50 Office of the Auditor-General (OAG), Consolidated Report on Public 40 International Monetary Fund (IMF), Kenya: 2025 Article IV 46 Central Bank of Kenya (CBK), Public Debt Statistical Bulletin, June Debt and Contingent Liabilities FY 2023/24 Consultation Report. 2025. 51 Controller of Budget (CoB), National Government Budget 41 CBK, Public Debt Statistical Bulletin, June 2025 47 CBK, Quarterly Economic Review, Q2 2025. Implementation Review Report FY 2024/25",
+      "title": "Where the rain started beating us",
       "start_page": 8,
+      "end_page": 8
+    },
+    {
+      "number": "2024",
+      "title": "Suppliers and Contractors FY",
+      "start_page": 9,
+      "end_page": 9
+    },
+    {
+      "number": "2025",
+      "title": "Transparency Assessment",
+      "start_page": 10,
       "end_page": 10
     },
     {
       "number": "3",
-      "title": "A duel between the Constitution and corruption Economic recovery in Kenya cannot be separated from the health of the country’s democracy. A functioning economy de- mands more than growth indicators; it requires a constitutional order that safeguards accountability, upholds separation of powers, and protects citizens’ rights. Without constitutionalism, impunity becomes the currency of governance. Institutions that should enforce transparency and integrity are often captured, meaning that private interests manipulate public authority for personal enrichment. This process diverts resources away from essential services, diminishes public trust, and entrenches in- equality. Kenya’s recurring fiscal crises — reflected in more than 21 International Monetary Fund (IMF) and World Bank support programs — illustrate how mismanagement that is induced by corruption repeatedly destabilises the economy and undermines reform.79 Chapter 3.1: Mimicking the Constitution The 2010 Constitution of Kenya was conceived as a national cove- nant against historical patterns of centralised plunder and exec- utive dominance. It aimed to institutionalise integrity, transpar- ency, and accountability in governance by creating a system that dispersed power, and public oversight. Fifteen years later, howev- er, these constitutional ideals have not reached the ground. Fiscal indiscipline, political corruption, and institutional subversion have corroded the democratic foundations that the Constitution sought to secure.80 Kenya’s political economy operates through what some scholars term as “constitutional mimicry”, a system where institutions ex- ist in form but do not function as expected. Statutory procedures, regulatory bodies, and oversight mechanisms are formally main- tained but serve extractive rather than protective purposes. This pseudo-constitutional order enables legality without legitimacy, allowing elites to convert public office into private enterprise. The governance crisis is therefore not primarily one of admin- istrative capacity but of political incentives: the system rewards impunity, punishes integrity, and transforms public institutions into vehicles for rent-seeking.81 3.1.1 Roots of economic capture in bad governance and impunity Kenya’s economic governance remains trapped in a cycle where fiscal management serves political control rather than pub- lic service. The 2010 Constitution envisioned public finance as a moral covenant: that every shilling raised and spent would reflect fairness, prudence and accountability. Fifteen years lat- er, that covenant has been broken more often than it has been honoured. Budgeting and debt management have become in- struments through which power is accumulated, accountabil- ity is deflected, and public wealth is privately appropriated. The struggle for economic recovery is therefore impossible to separate from the pushback against impunity. Economic deci- sions are political acts, and their consequences reach deeply into citizens’ daily lives -- from the cost of food to the quality of health- care, education, and local infrastructure. This section traces how economic capture has taken root within the core institutions of government, and how it continues to erode constitutional democ- racy. 3.1.2 The anatomy of impunity in economic management has only expanded the scope for discretion and patronage. Kenya has produced an average of two supplementary bud- Between FY2013/14 and FY2025/26, Kenya’s national bud- gets per year.85 However, FY 2024/25 was an exception due to get more than doubled -- rising from KSh 1.6 trillion to ap- Debt servicing now consumes more than half of government rev- the rejection of the Finance Bill, 2024: this financial year had proximately KSh 4.2 trillion.82 Yet the quality of public ser- enue. In FY2023/24, interest and principal repayments soaked three supplementary budgets. Such an occurrence had been vices has declined or stagnated. The growth in budgets has up 55.3 per cent of ordinary revenue,83 nearly double the level a observed only in FY 2019/20 where a small third supplemen- not translated into the growth of justice or opportunity; it decade earlier. Consequently, less than 15 per cent of the budget tary budget was enacted to respond to Covid-19 emergencies. went to development expenditure, with education, health and so- This points to a decline in budget credibility and increasing cial protection beset by persistent underfunding.84 Citizens pay misuse of Article 223. Each revision shifts funds away from 79 World Bank, Kenya Public Expenditure Review (Edition 27); and higher taxes but see fewer returns. approved development projects toward politically conve- International Monetary Fund (IMF), Governance Diagnostic Mission to nient programmes. In FY2023/24, KSh353 billion was spent Kenya, Press Release No. 25/233 80 Katiba Institute, Ten Years of Constitutionalism in Kenya: Gains, Gaps Since 2018, the Parliamentary Budget Office (PBO) reports that by invoking the constitutional provision for emergencies to fi- nance non-urgent presidential and infrastructure initiatives.86 and Lessons 81 The Institute for Social Accountability (TISA), Okoa Uchumi 83 Parliamentary Budget Office, Budget Options for FY2024/25 and the Governance and Fiscal Capture Diagnostic; Transparency International Medium-Term Expenditure Framework 85 Parliamentary Budget Office, Budget Review and Outlook Paper 2023 Kenya, Integrity and Governance Index 2024 84 World Bank, Kenya Economic Update: Balancing Fiscal Consolidation 86 Office of the Controller of Budget, National Government Budget 82 National Treasury, Budget Policy Statement FY2024/25 and Service Delivery Implementation Review Report FY2023/24",
+      "title": "A duel between the",
       "start_page": 11,
+      "end_page": 12
+    },
+    {
+      "number": "2024",
+      "title": "Review Report FY",
+      "start_page": 13,
+      "end_page": 15
+    },
+    {
+      "number": "1",
+      "title": "Debt Transparency and Accountability",
+      "start_page": 16,
+      "end_page": 16
+    },
+    {
+      "number": "2",
+      "title": "Public Procurement and Infrastructure Projects",
+      "start_page": 17,
+      "end_page": 17
+    },
+    {
+      "number": "3",
+      "title": "Asset Recovery and Repatriation",
+      "start_page": 18,
+      "end_page": 18
+    },
+    {
+      "number": "24",
+      "title": "tainability disclosure and Article",
+      "start_page": 19,
+      "end_page": 19
+    },
+    {
+      "number": "244",
+      "title": "Fiscal injustice is thus the architecture of inEconomic governance cannot be separated from ethics because\nbecome the subnational extension of national patronage",
+      "start_page": 20,
       "end_page": 20
     },
     {
       "number": "4",
-      "title": "Reform and Transformation Agenda 201–223 (public finance principles).252 They are also consistent chronic misuse of Executive spending powers, where appropria- 4.1 Rationale and framework for transformation with lessons drawn from the Okoa Uchumi Policy Brief (2025), tions are adjusted without parliamentary approval. Bureaucratic comparative governance diagnostic reviews from Ghana, Sri discretion has replaced fiscal discipline, transforming debt poli- Kenya’s governance crisis is systemic, reflecting a political econ- Lanka, and Indonesia, and the IMF’s 2023 Governance Diagnostic cy into a tool of political convenience. omy that has normalized fiscal capture, weakened oversight in- Framework. stitutions, and rewarded impunity over integrity. Reform cannot Hidden liabilities further compound the problem. State-owned be incremental; it must address the entire governance ecosystem; At the heart of this framework is a simple principle: fiscal reform enterprises (SOEs) account for a significant proportion of guar- fiscal management, political financing, judicial enforcement, and without governance reform is futile. Every act of transparency anteed and unguaranteed debt exposures, many of which are not citizen accountability. must be matched by enforcement, and every institution of ac- disclosed in Treasury statements.257The lack of comprehensive countability must be insulated from political capture. Kenya’s fiscal risk disclosure contravenes the Public Finance Manage- The reform imperative therefore lies not in incremental admin- path to fiscal recovery will depend not on austerity alone but on ment Act and undermines the credibility of Kenya’s debt statis- istrative adjustments but in a comprehensive reconstruction integrity; not on technocracy alone but on moral and civic renew- tics. of Kenya’s governance ecosystem. Effective reform must simul- al. taneously address the sources, channels, and consequences of corruption, from political financing to fiscal transparency, from 4.2 Fiscal governance and debt transparency judicial enforcement to social protection. 4.2.1 The problem This Policy and Institutional Reform Agenda translates the findings of the Shadow Governance and Corruption Diagnostic Kenya’s debt burden has become the most visible manifestation (GCD) review into an actionable blueprint for transformation. It of its governance deficit. Between 2014 and 2025, public debt rose is grounded in four pillars: from KSh2.4 trillion to KSh12.05 trillion,253 while economic growth stagnated below 5 per cent.254 Debt servicing now con- 1. Fiscal Integrity and Accountability: rebuilding public sumes more than 56 per cent of total government revenue.255 finance systems that serve citizens rather than elites. The Parliamentary Budget Office (2024) notes that supplementa- This structure of spending reveals a fiscal paradox: while debt 2. Institutional Independence and Enforcement: re- ry budgets have reached an average of 26 per cent of total appro- and recurrent costs expand, development expenditure has de- storing oversight bodies to operational and financial priations since 2017, far exceeding the 10 per cent constitutional clined from 33 per cent in 2014 to 22 per cent in 2024. Kenya is autonomy. ceiling provided for under Article 223.256This pattern reflects the thus borrowing to sustain the cost of political administration rather than to transform its economy. 3. Democratic Participation and Transparency: em- 252 Constitution of Kenya (2010), Articles 10, 43, 73, 201–223 bedding citizens in fiscal oversight and decision-mak- 253 Ecofin Agency. (2025, October 9). Kenya’s public debt reaches 67.8% Recurrent expenditure has increased by 142 per cent since 2014, ing processes. of GDP in June 2025, Finance Minister says. Ecofin Agency. Retrieved while development spending has grown by only 68 per cent. The from https://www.ecofinagency.com/news-finances/0910-49407- share of wages and interest payments now exceeds 60 per cent of 4. Equity and Social Justice: ensuring fiscal reforms pro- kenya-s-public-debt-reaches-67-8-of-gdp-in-june-2025-finance- total spending, crowding out public investment. Off-budget bor- tect rights and promote distributive fairness. minister-says rowing by state-owned enterprises and securitisation of revenue These pillars align with Kenya’s constitutional provisions, partic- 254 Controller of Budget (2024), Annual Budget Implementation Review. streams has further inflated debt exposure. 255 IMF and World Bank (2024), Joint Debt Sustainability Analysis for ularly Articles 10 (national values and principles of governance), Kenya, Annex II in “Kenya: Seventh and Eighth Reviews under the EFF/ 43 (economic and social rights), 73 (leadership and integrity), and ECF Arrangements” 257 National Treasury, Annual Public Debt Management Report 2023/24; 256 Parliamentary Budget Office (2024), Budget Policy Statement Review. Institute of Public Finance, 2024 review",
+      "title": "Reform and",
       "start_page": 21,
+      "end_page": 21
+    },
+    {
+      "number": "1",
+      "title": "Debt Transparency",
+      "start_page": 22,
+      "end_page": 22
+    },
+    {
+      "number": "1",
+      "title": "Operationalise Campaign Finance Law\nPublic participation",
+      "start_page": 23,
+      "end_page": 23
+    },
+    {
+      "number": "280",
+      "title": "Such delays contravene Article",
+      "start_page": 24,
+      "end_page": 24
+    },
+    {
+      "number": "3",
+      "title": "Digital Judgment Tracking System as a share of the national budget",
+      "start_page": 25,
+      "end_page": 25
+    },
+    {
+      "number": "1",
+      "title": "Technical barriers",
+      "start_page": 26,
+      "end_page": 26
+    },
+    {
+      "number": "1",
+      "title": "Trend analysis comparing reform progress against a national covenant",
+      "start_page": 27,
       "end_page": 27
     },
     {
       "number": "5",
-      "title": "Conclusion and Strategic Call to Action 5.1 Reclaiming the republic: From diagnosis to renewal 6. Civic Repression and Eroded Legitimacy: The state increasingly substitutes participa- tion with coercion. Protests in 2024–2025 resulted in more than 200 deaths, underscoring This Governance and Corruption Diagnostic review has demonstrated that Kenya’s crisis is not sim- the convergence of fiscal injustice and human rights abuse. ply fiscal but constitutional and moral. The state has been transformed from an instrument of pub- lic service into a vehicle for private enrichment. Yet within this crisis lies the possibility of renewal. These are not discrete problems; they are facets of a single design; a political economy that rewards The same Constitution that has been betrayed remains the blueprint for redemption. impunity and punishes integrity. Article 1 vests sovereign power in the people. This report therefore speaks not merely to govern- 5.3 The Three Imperatives of Reform ment technocrats or international institutions but to citizens who must reclaim the republic from the machinery of capture. The journey from diagnosis to transformation begins when the governed Every path to governance renewal rests upon three moral and institutional imperatives: Truth, Jus- reassert their moral and constitutional authority over those who govern. tice and Accountability. These imperatives transform reform from a bureaucratic exercise into a moral project. 5.2 The core findings at a glance Constitutional The evidence presented throughout this diagnostic review converges on six structural truths about Imperative What It Demands Practical Path Kenya’s governance condition: Anchor Radical transparency in 1. Fiscal Governance Breakdown: Public debt expanded from KSh2.4 trillion in 2014 to Articles 201(a), Publish all loans, contracts, and Truth fiscal management and KSh12 .05 trillion in 2025, while service delivery stagnated. Supplementary budgets 232(1)(f) budgets in open format debt disclosure and off-book borrowing have eroded parliamentary authority. Equitable fiscal policy 2. Institutional Capture and Impunity: Oversight bodies exist but have been rendered cer- Embed distributive analysis in every Justice that prioritises citizens Articles 43, 56, 57 emonial. Implementation of audit recommendations fell from 45 per cent in 2015 to 18 per Finance Bill and budget statement over creditors cent in 2024. Enforcement of integri- 3. Political Financing as a Gateway to Corruption: Campaign finance remains opaque. The Account- ty through independent Citizen budget audits and judicial absence of enforcement under the Election Campaign Financing Act (2013) has institu- Articles 10, 73, 75 ability institutions and citizen enforcement of fiscal law tionalized transactional politics. oversight 4. Devolution without Accountability: Counties replicate the same fiscal malpractice seen at the national level, losing significant public resources annually to procurement fraud. 5. Social and Moral Collapse: Education, health, and food systems have been hollowed out 5.4 A strategic call to action by corruption and debt-driven austerity, producing poverty as a policy outcome. Kenya’s renewal depends on a coalition of reform actors who must work collaboratively rather than competitively. The reform agenda calls for coordinated action across five fronts: 320 Kenya National Bureau of Statistics (2024), Governance and Trust Barometer Survey.",
+      "title": "Conclusion",
       "start_page": 28,
+      "end_page": 28
+    },
+    {
+      "number": "2026",
+      "title": "Information\nGovernance conditionalities should accompany every fiscal support programme",
+      "start_page": 29,
+      "end_page": 29
+    },
+    {
+      "number": "24",
+      "title": "NairoActors tors bi",
+      "start_page": 30,
       "end_page": 32
     }
   ]

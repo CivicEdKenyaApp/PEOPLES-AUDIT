@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\county_governments_act_2012.pdf",
   "total_pages": 76,
-  "extraction_date": "2025-12-29T15:36:17.489134",
+  "extraction_date": "2025-12-30T02:49:34.859756",
   "file_hash": "25c087e29fbeca399bdfb4bcf14124efd35e2316c421400a6da15ddbbb628b10",
-  "file_size": 6047
+  "file_size": 1118392,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

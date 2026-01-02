@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2014.pdf",
   "total_pages": 322,
-  "extraction_date": "2025-12-29T15:40:51.605842",
+  "extraction_date": "2025-12-30T03:13:41.050537",
   "file_hash": "4a3498464676c63e721339e894f31487dc359724acbc3489b7017e2cc7eeab5e",
-  "file_size": 2312761
+  "file_size": 2637318,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

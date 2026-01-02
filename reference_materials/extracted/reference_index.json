@@ -1,110 +1,164 @@
 {
   "constitution_of_kenya_2010": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\constitution_of_kenya_2010.pdf",
-    "pages": 193
+    "pages": 193,
+    "words": 50818,
+    "quality_score": 0.37512953367875623
   },
   "constitution_of_kenya_2010_full": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\constitution_of_kenya_2010_full.pdf",
-    "pages": 193
+    "pages": 193,
+    "words": 50818,
+    "quality_score": 0.37512953367875623
   },
   "comparative_studies\\ghana_fiscal_transparency_report": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\comparative_studies\\ghana_fiscal_transparency_report.pdf",
-    "pages": 35
+    "pages": 35,
+    "words": 15036,
+    "quality_score": 0.42857142857142866
   },
   "comparative_studies\\imf_governance_diagnostic_framework_2018": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\comparative_studies\\imf_governance_diagnostic_framework_2018.pdf",
-    "pages": 12
+    "pages": 12,
+    "words": 3995,
+    "quality_score": 0.425
   },
   "comparative_studies\\indonesia_open_contracting_case_study": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\comparative_studies\\indonesia_open_contracting_case_study.pdf",
-    "pages": 11
+    "pages": 11,
+    "words": 4281,
+    "quality_score": 0.4272727272727272
   },
   "comparative_studies\\sri_lanka_governance_diagnostic_2023": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\comparative_studies\\sri_lanka_governance_diagnostic_2023.pdf",
-    "pages": 139
+    "pages": 139,
+    "words": 62447,
+    "quality_score": 0.4928057553956838
   },
   "legal_frameworks\\access_to_information_act_2016": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\access_to_information_act_2016.pdf",
-    "pages": 20
+    "pages": 20,
+    "words": 7765,
+    "quality_score": 0.4
   },
   "legal_frameworks\\anti_corruption_economic_crimes_act_2003": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\anti_corruption_economic_crimes_act_2003.pdf",
-    "pages": 63
+    "pages": 63,
+    "words": 13472,
+    "quality_score": 0.32539682539682524
   },
   "legal_frameworks\\constitution_of_kenya_2010_full": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\constitution_of_kenya_2010_full.pdf",
-    "pages": 193
+    "pages": 193,
+    "words": 50818,
+    "quality_score": 0.37512953367875623
   },
   "legal_frameworks\\county_governments_act_2012": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\county_governments_act_2012.pdf",
-    "pages": 76
+    "pages": 76,
+    "words": 26143,
+    "quality_score": 0.3973684210526312
   },
   "legal_frameworks\\election_campaign_financing_act_2013": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\election_campaign_financing_act_2013.pdf",
-    "pages": 17
+    "pages": 17,
+    "words": 5796,
+    "quality_score": 0.3529411764705883
   },
   "legal_frameworks\\leadership_and_integrity_act_2012": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\leadership_and_integrity_act_2012.pdf",
-    "pages": 27
+    "pages": 27,
+    "words": 7708,
+    "quality_score": 0.37037037037037057
   },
   "legal_frameworks\\proceeds_of_crime_aml_act_2023": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\proceeds_of_crime_aml_act_2023.pdf",
-    "pages": 30
+    "pages": 30,
+    "words": 11208,
+    "quality_score": 0.3866666666666668
   },
   "legal_frameworks\\public_finance_management_act_2012_revised_2023": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\public_finance_management_act_2012_revised_2023.pdf",
-    "pages": 114
+    "pages": 114,
+    "words": 51277,
+    "quality_score": 0.44122807017543825
   },
   "legal_frameworks\\public_procurement_asset_disposal_act_2015": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\public_procurement_asset_disposal_act_2015.pdf",
-    "pages": 145
+    "pages": 145,
+    "words": 43431,
+    "quality_score": 0.40068965517241334
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2014": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2014.pdf",
-    "pages": 322
+    "pages": 322,
+    "words": 168032,
+    "quality_score": 0.5496894409937882
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2015": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2015.pdf",
-    "pages": 339
+    "pages": 339,
+    "words": 164972,
+    "quality_score": 0.5474926253687314
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2016": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2016.pdf",
-    "pages": 303
+    "pages": 303,
+    "words": 153985,
+    "quality_score": 0.5465346534653467
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2017": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2017.pdf",
-    "pages": 333
+    "pages": 333,
+    "words": 154410,
+    "quality_score": 0.5363363363363364
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2018": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2018.pdf",
-    "pages": 340
+    "pages": 340,
+    "words": 169356,
+    "quality_score": 0.5476470588235288
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2019": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2019.pdf",
-    "pages": 355
+    "pages": 355,
+    "words": 167267,
+    "quality_score": 0.5388732394366191
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2020": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2020.pdf",
-    "pages": 418
+    "pages": 418,
+    "words": 201949,
+    "quality_score": 0.5385167464114824
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2021": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2021.pdf",
-    "pages": 428
+    "pages": 428,
+    "words": 197585,
+    "quality_score": 0.519859813084111
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2022": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2022.pdf",
-    "pages": 36
+    "pages": 36,
+    "words": 2769,
+    "quality_score": 0.2222222222222222
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2023": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2023.pdf",
-    "pages": 510
+    "pages": 510,
+    "words": 147395,
+    "quality_score": 0.4564705882352938
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2024": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2024.pdf",
-    "pages": 508
+    "pages": 508,
+    "words": 156382,
+    "quality_score": 0.4765748031496054
   },
   "oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2025": {
     "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2025.pdf",
-    "pages": 596
+    "pages": 596,
+    "words": 182570,
+    "quality_score": 0.4692953020134226
   }
 }

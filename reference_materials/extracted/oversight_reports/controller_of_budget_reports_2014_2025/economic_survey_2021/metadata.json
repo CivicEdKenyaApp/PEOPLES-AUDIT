@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\oversight_reports\\controller_of_budget_reports_2014_2025\\economic_survey_2021.pdf",
   "total_pages": 428,
-  "extraction_date": "2025-12-29T16:02:06.735365",
+  "extraction_date": "2025-12-30T06:06:32.779970",
   "file_hash": "adfbd54c8fb1b8dd33760ce836aafb30765137978fbd5558f7a35c1e48785a86",
-  "file_size": 4429651
+  "file_size": 5079755,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

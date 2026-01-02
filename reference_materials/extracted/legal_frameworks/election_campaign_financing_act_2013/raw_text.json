@@ -1,9 +1,9 @@
 {
   "page_001": {
     "page_number": 1,
-    "text": "LAWS OF KENYA THE ELECTION CAMPAIGN FINANCING ACT CAP. 7A Revised and published by the National Council for Law Reporting with the authority of the Attorney-General as gazetted by the Government Printer www.kenyalaw.org",
+    "text": "LAWS OF KENYA\nTHE ELECTION CAMPAIGN FINANCING ACT\nCAP. 7A\nRevised and published by the National Council for Law Reporting\nwith the authority of the Attorney-General as gazetted by the Government Printer\nwww.kenyalaw.org",
     "paragraphs": [
-      "LAWS OF KENYA THE ELECTION CAMPAIGN FINANCING ACT CAP. 7A Revised and published by the National Council for Law Reporting with the authority of the Attorney-General as gazetted by the Government Printer www.kenyalaw.org"
+      "LAWS OF KENYA\nTHE ELECTION CAMPAIGN FINANCING ACT\nCAP. 7A\nRevised and published by the National Council for Law Reporting\nwith the authority of the Attorney-General as gazetted by the Government Printer\nwww.kenyalaw.org"
     ],
     "figures": [],
     "tables": [],
@@ -11,7 +11,9 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "ELECTION CAMPAIGN FINANCING ACT"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
@@ -21,14 +23,36 @@
       "paragraph_count": 1,
       "sentence_count": 3,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 219,
+      "word_count": 33,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.1,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 1,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_002": {
     "page_number": 2,
-    "text": "Kenya Election Campaign Financing Act Cap. 7A Legislation as at 31 December 2022 By Kenya Law and Laws.Africa. Share widely and freely. www.kenyalaw.org | info@kenyalaw.org FRBR URI: /akn/ke/act/2013/42/eng@2022-12-31 There is no copyright on the legislative content of this document. This PDF copy is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 License (CC BY-NC- SA 4.0). This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements: • BY: credit must be given to the creator. • NC: Only noncommercial uses of the work are permitted. • SA: Adaptations must be shared under the same terms. Share widely and freely.",
+    "text": "Kenya\nElection Campaign Financing Act\nCap. 7A\nLegislation as at 31 December 2022\nBy Kenya Law and Laws.Africa. Share widely and freely.\nwww.kenyalaw.org | info@kenyalaw.org\nFRBR URI: /akn/ke/act/2013/42/eng@2022-12-31\nThere is no copyright on the legislative content of this document.\nThis PDF copy is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 License (CC BY-NCSA 4.0). This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format\nfor noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build\nupon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following\nelements:\n• BY: credit must be given to the creator.\n• NC: Only noncommercial uses of the work are permitted.\n• SA: Adaptations must be shared under the same terms.\nShare widely and freely.",
     "paragraphs": [
-      "Kenya Election Campaign Financing Act Cap. 7A Legislation as at 31 December 2022 By Kenya Law and Laws.Africa. Share widely and freely. www.kenyalaw.org | info@kenyalaw.org FRBR URI: /akn/ke/act/2013/42/eng@2022-12-31 There is no copyright on the legislative content of this document. This PDF copy is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 License (CC BY-NC- SA 4.0). This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements: • BY: credit must be given to the creator. • NC: Only noncommercial uses of the work are permitted. • SA: Adaptations must be shared under the same terms. Share widely and freely."
+      "Kenya\nElection Campaign Financing Act\nCap. 7A\nLegislation as at 31 December 2022\nBy Kenya Law and Laws.Africa. Share widely and freely.\nwww.kenyalaw.org | info@kenyalaw.org\nFRBR URI: /akn/ke/act/2013/42/eng@2022-12-31\nThere is no copyright on the legislative content of this document.\nThis PDF copy is licensed under a Creative Commons Attribution NonCommercial ShareAlike 4.0 License (CC BY-NCSA 4.0). This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format\nfor noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build\nupon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following\nelements:\n• BY: credit must be given to the creator.\n• NC: Only noncommercial uses of the work are permitted.\n• SA: Adaptations must be shared under the same terms.\nShare widely and freely."
     ],
     "figures": [],
     "tables": [],
@@ -39,24 +63,48 @@
       2022
     ],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
     "keywords": [],
     "page_stats": {
-      "word_count": 147,
+      "word_count": 146,
       "paragraph_count": 1,
       "sentence_count": 17,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 938,
+      "word_count": 146,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.2,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 2,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_003": {
     "page_number": 3,
-    "text": "Election Campaign Financing Act (Cap. 7A) Contents Part I – PRELIMINARY ....................................................................................................................................................................................... 1 1. Short title .................................................................................................................................................................................................... 1 1A. Suspension of operation of Act ....................................................................................................................................................... 1 2. Interpretation ............................................................................................................................................................................................. 1 Part II – FUNCTIONS OF THE COMMISSION ............................................................................................................................................. 3 3. Functions of the Commission .............................................................................................................................................................. 3 4. Powers of the Commission ................................................................................................................................................................... 3 Part III – REGULATION OF EXPENDITURE ................................................................................................................................................. 4 5. Election campaign financing rules .................................................................................................................................................... 4 6. Authorised persons .................................................................................................................................................................................. 4 7. Party expenditure committee ............................................................................................................................................................... 5 8. Independent candidate expenditure committee .......................................................................................................................... 5 9. Referendum expenditure committee ................................................................................................................................................ 6 10. Submission of expenditure reports ................................................................................................................................................ 6 Part IV – CONTRIBUTIONS AND DONATIONS .......................................................................................................................................... 7 11. Sources of campaign finances .......................................................................................................................................................... 7 12. Limits to contributions ........................................................................................................................................................................ 7 13. Anonymous contributions or contributions from an illegal source ..................................................................................... 7 14. Prohibition on contributions ............................................................................................................................................................. 8 15. Support by an organisation ............................................................................................................................................................... 8 16. Disclosure of funds ............................................................................................................................................................................... 9 17. Surplus campaign funds ...................................................................................................................................................................... 9 18. Spending limits ...................................................................................................................................................................................... 9 19. Authorised expenditures .................................................................................................................................................................. 10 20. Media coverage .................................................................................................................................................................................... 10 Part V – DISPUTE RESOLUTION AND OFFENCES ................................................................................................................................. 11 21. Dispute resolution .............................................................................................................................................................................. 11 22. Offences .................................................................................................................................................................................................. 11 23. Offences by a candidate, a political party or a referendum committee ......................................................................... 12 24. General penalty ................................................................................................................................................................................... 12 Part VI – MISCELLANEOUS ........................................................................................................................................................................... 12 25. Registration and dissolution of expenditure committees .................................................................................................... 12 26. Records .................................................................................................................................................................................................... 12 27. Audit of accounts ................................................................................................................................................................................. 13",
+    "text": "Election Campaign Financing Act (Cap. 7A)\nContents\nPart I – PRELIMINARY ....................................................................................................................................................................................... 1\n1. Short title .................................................................................................................................................................................................... 1\n1A. Suspension of operation of Act ....................................................................................................................................................... 1\n2. Interpretation ............................................................................................................................................................................................. 1\nPart II – FUNCTIONS OF THE COMMISSION ............................................................................................................................................. 3\n3. Functions of the Commission .............................................................................................................................................................. 3\n4. Powers of the Commission ................................................................................................................................................................... 3\nPart III – REGULATION OF EXPENDITURE ................................................................................................................................................. 4\n5. Election campaign financing rules .................................................................................................................................................... 4\n6. Authorised persons .................................................................................................................................................................................. 4\n7. Party expenditure committee ............................................................................................................................................................... 5\n8. Independent candidate expenditure committee .......................................................................................................................... 5\n9. Referendum expenditure committee ................................................................................................................................................ 6\n10. Submission of expenditure reports ................................................................................................................................................ 6\nPart IV – CONTRIBUTIONS AND DONATIONS .......................................................................................................................................... 7\n11. Sources of campaign finances .......................................................................................................................................................... 7\n12. Limits to contributions ........................................................................................................................................................................ 7\n13. Anonymous contributions or contributions from an illegal source ..................................................................................... 7\n14. Prohibition on contributions ............................................................................................................................................................. 8\n15. Support by an organisation ............................................................................................................................................................... 8\n16. Disclosure of funds ............................................................................................................................................................................... 9\n17. Surplus campaign funds ...................................................................................................................................................................... 9\n18. Spending limits ...................................................................................................................................................................................... 9\n19. Authorised expenditures .................................................................................................................................................................. 10\n20. Media coverage .................................................................................................................................................................................... 10\nPart V – DISPUTE RESOLUTION AND OFFENCES ................................................................................................................................. 11\n21. Dispute resolution .............................................................................................................................................................................. 11\n22. Offences .................................................................................................................................................................................................. 11\n23. Offences by a candidate, a political party or a referendum committee ......................................................................... 12\n24. General penalty ................................................................................................................................................................................... 12\nPart VI – MISCELLANEOUS ........................................................................................................................................................................... 12\n25. Registration and dissolution of expenditure committees .................................................................................................... 12\n26. Records .................................................................................................................................................................................................... 12\n27. Audit of accounts ................................................................................................................................................................................. 13",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Contents Part I – PRELIMINARY ....................................................................................................................................................................................... 1 1. Short title .................................................................................................................................................................................................... 1 1A. Suspension of operation of Act ....................................................................................................................................................... 1 2. Interpretation ............................................................................................................................................................................................. 1 Part II – FUNCTIONS OF THE COMMISSION ............................................................................................................................................. 3 3. Functions of the Commission .............................................................................................................................................................. 3 4. Powers of the Commission ................................................................................................................................................................... 3 Part III – REGULATION OF EXPENDITURE ................................................................................................................................................. 4 5. Election campaign financing rules .................................................................................................................................................... 4 6. Authorised persons .................................................................................................................................................................................. 4 7. Party expenditure committee ............................................................................................................................................................... 5 8. Independent candidate expenditure committee .......................................................................................................................... 5 9. Referendum expenditure committee ................................................................................................................................................ 6 10. Submission of expenditure reports ................................................................................................................................................ 6 Part IV – CONTRIBUTIONS AND DONATIONS .......................................................................................................................................... 7 11. Sources of campaign finances .......................................................................................................................................................... 7 12. Limits to contributions ........................................................................................................................................................................ 7 13. Anonymous contributions or contributions from an illegal source ..................................................................................... 7 14. Prohibition on contributions ............................................................................................................................................................. 8 15. Support by an organisation ............................................................................................................................................................... 8 16. Disclosure of funds ............................................................................................................................................................................... 9 17. Surplus campaign funds ...................................................................................................................................................................... 9 18. Spending limits ...................................................................................................................................................................................... 9 19. Authorised expenditures .................................................................................................................................................................. 10 20. Media coverage .................................................................................................................................................................................... 10 Part V – DISPUTE RESOLUTION AND OFFENCES ................................................................................................................................. 11 21. Dispute resolution .............................................................................................................................................................................. 11 22. Offences .................................................................................................................................................................................................. 11 23. Offences by a candidate, a political party or a referendum committee ......................................................................... 12 24. General penalty ................................................................................................................................................................................... 12 Part VI – MISCELLANEOUS ........................................................................................................................................................................... 12 25. Registration and dissolution of expenditure committees .................................................................................................... 12 26. Records .................................................................................................................................................................................................... 12 27. Audit of accounts ................................................................................................................................................................................. 13"
+      "Election Campaign Financing Act (Cap. 7A)\nContents\nPart I – PRELIMINARY ....................................................................................................................................................................................... 1\n1. Short title .................................................................................................................................................................................................... 1\n1A. Suspension of operation of Act ....................................................................................................................................................... 1\n2. Interpretation ............................................................................................................................................................................................. 1\nPart II – FUNCTIONS OF THE COMMISSION ............................................................................................................................................. 3\n3. Functions of the Commission .............................................................................................................................................................. 3\n4. Powers of the Commission ................................................................................................................................................................... 3\nPart III – REGULATION OF EXPENDITURE ................................................................................................................................................. 4\n5. Election campaign financing rules .................................................................................................................................................... 4\n6. Authorised persons .................................................................................................................................................................................. 4\n7. Party expenditure committee ............................................................................................................................................................... 5\n8. Independent candidate expenditure committee .......................................................................................................................... 5\n9. Referendum expenditure committee ................................................................................................................................................ 6\n10. Submission of expenditure reports ................................................................................................................................................ 6\nPart IV – CONTRIBUTIONS AND DONATIONS .......................................................................................................................................... 7\n11. Sources of campaign finances .......................................................................................................................................................... 7\n12. Limits to contributions ........................................................................................................................................................................ 7\n13. Anonymous contributions or contributions from an illegal source ..................................................................................... 7\n14. Prohibition on contributions ............................................................................................................................................................. 8\n15. Support by an organisation ............................................................................................................................................................... 8\n16. Disclosure of funds ............................................................................................................................................................................... 9\n17. Surplus campaign funds ...................................................................................................................................................................... 9\n18. Spending limits ...................................................................................................................................................................................... 9\n19. Authorised expenditures .................................................................................................................................................................. 10\n20. Media coverage .................................................................................................................................................................................... 10\nPart V – DISPUTE RESOLUTION AND OFFENCES ................................................................................................................................. 11\n21. Dispute resolution .............................................................................................................................................................................. 11\n22. Offences .................................................................................................................................................................................................. 11\n23. Offences by a candidate, a political party or a referendum committee ......................................................................... 12\n24. General penalty ................................................................................................................................................................................... 12\nPart VI – MISCELLANEOUS ........................................................................................................................................................................... 12\n25. Registration and dissolution of expenditure committees .................................................................................................... 12\n26. Records .................................................................................................................................................................................................... 12\n27. Audit of accounts ................................................................................................................................................................................. 13"
     ],
     "figures": [],
     "tables": [],
@@ -64,26 +112,51 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
     "keywords": [
-      "audit"
+      "audit",
+      "expenditure"
     ],
     "page_stats": {
       "word_count": 233,
       "paragraph_count": 1,
       "sentence_count": 63,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 6573,
+      "word_count": 233,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 3,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_004": {
     "page_number": 4,
-    "text": "28. Claims and objections ....................................................................................................................................................................... 13 29. Provisions on delegated powers ................................................................................................................................................... 13",
+    "text": "28. Claims and objections ....................................................................................................................................................................... 13\n29. Provisions on delegated powers ................................................................................................................................................... 13",
     "paragraphs": [
-      "28. Claims and objections ....................................................................................................................................................................... 13 29. Provisions on delegated powers ................................................................................................................................................... 13"
+      "28. Claims and objections ....................................................................................................................................................................... 13\n29. Provisions on delegated powers ................................................................................................................................................... 13"
     ],
     "figures": [],
     "tables": [],
@@ -101,51 +174,99 @@
       "paragraph_count": 1,
       "sentence_count": 4,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 382,
+      "word_count": 13,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.1,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 4,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_005": {
     "page_number": 5,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya ELECTION CAMPAIGN FINANCING ACT CAP. 7A Published in Kenya Gazette Vol. CXVI—No. 1 on 3 January 2014 Assented to on 24 December 2013 Commenced on 10 January 2014 [Amended by Election Laws (Amendment) Act, 2017 (Act No. 1 of 2017) on 30 January 2017] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] An Act of Parliament to provide for the regulation, management, expenditure and accountability of election campaign funds during election and referendum campaigns; and for connected purposes Part I – PRELIMINARY 1. Short title This Act may be cited as the Election Campaign Financing Act. 1A. Suspension of operation of Act The operation of this Act is suspended and the Act shall come into force immediately after the general elections to be held in the year 2017. [Act No. 1 of 2017, s. 32.] 2. Interpretation In this Act, unless the context otherwise requires— \"anonymous donation\" means a donation which the recipient is, unable to ascertain the identity of the donor; \"bank\" means a bank as defined under the Banking Act (Cap. 488); \"candidate\" means a person contesting for an elective post; \"campaign expenses\" means expenses incurred by a candidate, a political party, a referendum committee or an organisation registered by the Commission to campaign in support of a candidate, a political party or a referendum committee during an election period; \"campaign financing\" means resources spent by a candidate or a political party during an election period for purposes of campaign; \"campaign period\" has the meaning assigned to it under the Elections Act (Cap. 7); \"Commission\" means the Independent Electoral and Boundaries Commission established under Article 88 of the Constitution; \"contribution\" means monetary and non-monetary contributions including loans, donations, grants, gifts, property, services provided to a candidate or political party, and money spent on behalf of a candidate, 1",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\nELECTION CAMPAIGN FINANCING ACT\nCAP. 7A\nPublished in Kenya Gazette Vol. CXVI—No. 1 on 3 January 2014\nAssented to on 24 December 2013\nCommenced on 10 January 2014\n[Amended by Election Laws (Amendment) Act, 2017 (Act No. 1 of 2017) on 30 January 2017]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for the regulation, management, expenditure and accountability of\nelection campaign funds during election and referendum campaigns; and for connected purposes\nPart I – PRELIMINARY\n1. Short title\nThis Act may be cited as the Election Campaign Financing Act.\n1A. Suspension of operation of Act\nThe operation of this Act is suspended and the Act shall come into force immediately after the general\nelections to be held in the year 2017.\n[Act No. 1 of 2017, s. 32.]\n2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"anonymous donation\" means a donation which the recipient is, unable to ascertain the identity of the\ndonor;\n\"bank\" means a bank as defined under the Banking Act (Cap. 488);\n\"candidate\" means a person contesting for an elective post;\n\"campaign expenses\" means expenses incurred by a candidate, a political party, a referendum committee\nor an organisation registered by the Commission to campaign in support of a candidate, a political party or\na referendum committee during an election period;\n\"campaign financing\" means resources spent by a candidate or a political party during an election period\nfor purposes of campaign;\n\"campaign period\" has the meaning assigned to it under the Elections Act (Cap. 7);\n\"Commission\" means the Independent Electoral and Boundaries Commission established under Article 88\nof the Constitution;\n\"contribution\" means monetary and non-monetary contributions including loans, donations, grants, gifts,\nproperty, services provided to a candidate or political party, and money spent on behalf of a candidate,",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya ELECTION CAMPAIGN FINANCING ACT CAP. 7A Published in Kenya Gazette Vol. CXVI—No. 1 on 3 January 2014 Assented to on 24 December 2013 Commenced on 10 January 2014 [Amended by Election Laws (Amendment) Act, 2017 (Act No. 1 of 2017) on 30 January 2017] [Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022] An Act of Parliament to provide for the regulation, management, expenditure and accountability of election campaign funds during election and referendum campaigns; and for connected purposes Part I – PRELIMINARY 1. Short title This Act may be cited as the Election Campaign Financing Act. 1A. Suspension of operation of Act The operation of this Act is suspended and the Act shall come into force immediately after the general elections to be held in the year 2017. [Act No. 1 of 2017, s. 32.] 2. Interpretation In this Act, unless the context otherwise requires— \"anonymous donation\" means a donation which the recipient is, unable to ascertain the identity of the donor; \"bank\" means a bank as defined under the Banking Act (Cap. 488); \"candidate\" means a person contesting for an elective post; \"campaign expenses\" means expenses incurred by a candidate, a political party, a referendum committee or an organisation registered by the Commission to campaign in support of a candidate, a political party or a referendum committee during an election period; \"campaign financing\" means resources spent by a candidate or a political party during an election period for purposes of campaign; \"campaign period\" has the meaning assigned to it under the Elections Act (Cap. 7); \"Commission\" means the Independent Electoral and Boundaries Commission established under Article 88 of the Constitution; \"contribution\" means monetary and non-monetary contributions including loans, donations, grants, gifts, property, services provided to a candidate or political party, and money spent on behalf of a candidate, 1"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\nELECTION CAMPAIGN FINANCING ACT\nCAP. 7A\nPublished in Kenya Gazette Vol. CXVI—No. 1 on 3 January 2014\nAssented to on 24 December 2013\nCommenced on 10 January 2014\n[Amended by Election Laws (Amendment) Act, 2017 (Act No. 1 of 2017) on 30 January 2017]\n[Revised by 24th Annual Supplement (Legal Notice 221 of 2023) on 31 December 2022]\nAn Act of Parliament to provide for the regulation, management, expenditure and accountability of\nelection campaign funds during election and referendum campaigns; and for connected purposes\nPart I – PRELIMINARY\n1. Short title\nThis Act may be cited as the Election Campaign Financing Act.\n1A. Suspension of operation of Act\nThe operation of this Act is suspended and the Act shall come into force immediately after the general\nelections to be held in the year 2017.\n[Act No. 1 of 2017, s. 32.]\n2. Interpretation\nIn this Act, unless the context otherwise requires—\n\"anonymous donation\" means a donation which the recipient is, unable to ascertain the identity of the\ndonor;\n\"bank\" means a bank as defined under the Banking Act (Cap. 488);\n\"candidate\" means a person contesting for an elective post;\n\"campaign expenses\" means expenses incurred by a candidate, a political party, a referendum committee\nor an organisation registered by the Commission to campaign in support of a candidate, a political party or\na referendum committee during an election period;\n\"campaign financing\" means resources spent by a candidate or a political party during an election period\nfor purposes of campaign;\n\"campaign period\" has the meaning assigned to it under the Elections Act (Cap. 7);\n\"Commission\" means the Independent Electoral and Boundaries Commission established under Article 88\nof the Constitution;\n\"contribution\" means monetary and non-monetary contributions including loans, donations, grants, gifts,\nproperty, services provided to a candidate or political party, and money spent on behalf of a candidate,"
     ],
     "figures": [],
     "tables": [],
     "monetary_values": [],
     "percentages": [],
     "years": [
+      2013,
+      2014,
       2017,
       2022,
-      2023,
-      2013,
-      2014
+      2023
     ],
     "constitutional_articles": [
       "88"
     ],
-    "legal_references": [],
+    "legal_references": [
+      "ELECTION CAMPAIGN FINANCING ACT",
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [
       "Parliament"
     ],
     "citations": [],
     "scandals": [],
     "keywords": [
-      "accountability"
+      "accountability",
+      "expenditure"
     ],
     "page_stats": {
-      "word_count": 313,
+      "word_count": 312,
       "paragraph_count": 1,
       "sentence_count": 15,
       "monetary_count": 0,
-      "article_count": 1
-    }
+      "article_count": 1,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 1982,
+      "word_count": 312,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 5,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_006": {
     "page_number": 6,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya political party or referendum committee in paying any expenses incurred directly or indirectly, but does not include volunteer services; \"election\" means a presidential, parliamentary or county election, and includes a referendum and a by- election; \"election expenses\" means all funds expended or expenses incurred in respect of the conduct and management of a nomination process, election campaign by a political party or a candidate or a referendum campaign and include— (a) in relation to a nomination process, all expenses incurred by a political party or a candidate during the nomination process; (b) in relation to an election campaign, all expenses incurred by a political party or candidate for the purpose of an election campaign; and (c) in relation to a referendum, all expenses incurred by referendum committees for the purpose of a referendum campaign; \"election period\" has the meaning assigned to it under the Elections Act; \"expenditure account\" means a bank account opened by a candidate, a political party or a referendum committee for purposes of depositing contributions received by that candidate, political party or referendum committee during an election period or a referendum campaign period as the case may be; \"expenditure committee\" means a committee established by a candidate, a political party or a referendum committee to regulate spending by a candidate, a political party or a referendum committee during an election or a referendum campaign period as the case may be; \"expenditure period\" means the prescribed period for regulating election campaign financing; \"expenditure report\" means a report of expenses incurred by a candidate, a political party, or a referendum committee during a nomination or election period or a referendum campaign period; \"harambee\" means the public collection of monies or other property in aid support of an election or referendum campaign; \"illegal source\" means a contribution from an unlawful source; \"monetary contribution\" means a non-repayable amount of money contributed to a campaign financing account; \"nomination day\", in respect of an election, means the day gazetted by the Commission as the day for the nomination of candidates for that election; \"non-monetary contribution\" means the market value of a service, other than volunteer labour, or of property or of the use of property or money to the extent that they are provided without charge or at less than their market value; \"organisation\" includes a club, group, foundation, business or a registered society; \"party campaign expenditure rules\" means rules of a political party intended to guide the political party in matters related to campaign expenses during an election period; \"party candidate\" means a candidate who is sponsored by a political party to contest in an election; \"political party\" means a political party registered under the Political Parties Act (Cap. 7D); \"party nomination\" means the process where a political party nominates candidates to be sponsored by that political party to contest in an election; \"public resource\" includes— (a) monies intended for public use; 2",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\npolitical party or referendum committee in paying any expenses incurred directly or indirectly, but does\nnot include volunteer services;\n\"election\" means a presidential, parliamentary or county election, and includes a referendum and a byelection;\n\"election expenses\" means all funds expended or expenses incurred in respect of the conduct and\nmanagement of a nomination process, election campaign by a political party or a candidate or a\nreferendum campaign and include—\n(a) in relation to a nomination process, all expenses incurred by a political party or a candidate during\nthe nomination process;\n(b) in relation to an election campaign, all expenses incurred by a political party or candidate for the\npurpose of an election campaign; and\n(c) in relation to a referendum, all expenses incurred by referendum committees for the purpose of a\nreferendum campaign;\n\"election period\" has the meaning assigned to it under the Elections Act;\n\"expenditure account\" means a bank account opened by a candidate, a political party or a referendum\ncommittee for purposes of depositing contributions received by that candidate, political party or\nreferendum committee during an election period or a referendum campaign period as the case may be;\n\"expenditure committee\" means a committee established by a candidate, a political party or a referendum\ncommittee to regulate spending by a candidate, a political party or a referendum committee during an\nelection or a referendum campaign period as the case may be;\n\"expenditure period\" means the prescribed period for regulating election campaign financing;\n\"expenditure report\" means a report of expenses incurred by a candidate, a political party, or a referendum\ncommittee during a nomination or election period or a referendum campaign period;\n\"harambee\" means the public collection of monies or other property in aid support of an election or\nreferendum campaign;\n\"illegal source\" means a contribution from an unlawful source;\n\"monetary contribution\" means a non-repayable amount of money contributed to a campaign financing\naccount;\n\"nomination day\", in respect of an election, means the day gazetted by the Commission as the day for the\nnomination of candidates for that election;\n\"non-monetary contribution\" means the market value of a service, other than volunteer labour, or of\nproperty or of the use of property or money to the extent that they are provided without charge or at less\nthan their market value;\n\"organisation\" includes a club, group, foundation, business or a registered society;\n\"party campaign expenditure rules\" means rules of a political party intended to guide the political party in\nmatters related to campaign expenses during an election period;\n\"party candidate\" means a candidate who is sponsored by a political party to contest in an election;\n\"political party\" means a political party registered under the Political Parties Act (Cap. 7D);\n\"party nomination\" means the process where a political party nominates candidates to be sponsored by\nthat political party to contest in an election;\n\"public resource\" includes—\n(a) monies intended for public use;",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya political party or referendum committee in paying any expenses incurred directly or indirectly, but does not include volunteer services; \"election\" means a presidential, parliamentary or county election, and includes a referendum and a by- election; \"election expenses\" means all funds expended or expenses incurred in respect of the conduct and management of a nomination process, election campaign by a political party or a candidate or a referendum campaign and include— (a) in relation to a nomination process, all expenses incurred by a political party or a candidate during the nomination process; (b) in relation to an election campaign, all expenses incurred by a political party or candidate for the purpose of an election campaign; and (c) in relation to a referendum, all expenses incurred by referendum committees for the purpose of a referendum campaign; \"election period\" has the meaning assigned to it under the Elections Act; \"expenditure account\" means a bank account opened by a candidate, a political party or a referendum committee for purposes of depositing contributions received by that candidate, political party or referendum committee during an election period or a referendum campaign period as the case may be; \"expenditure committee\" means a committee established by a candidate, a political party or a referendum committee to regulate spending by a candidate, a political party or a referendum committee during an election or a referendum campaign period as the case may be; \"expenditure period\" means the prescribed period for regulating election campaign financing; \"expenditure report\" means a report of expenses incurred by a candidate, a political party, or a referendum committee during a nomination or election period or a referendum campaign period; \"harambee\" means the public collection of monies or other property in aid support of an election or referendum campaign; \"illegal source\" means a contribution from an unlawful source; \"monetary contribution\" means a non-repayable amount of money contributed to a campaign financing account; \"nomination day\", in respect of an election, means the day gazetted by the Commission as the day for the nomination of candidates for that election; \"non-monetary contribution\" means the market value of a service, other than volunteer labour, or of property or of the use of property or money to the extent that they are provided without charge or at less than their market value; \"organisation\" includes a club, group, foundation, business or a registered society; \"party campaign expenditure rules\" means rules of a political party intended to guide the political party in matters related to campaign expenses during an election period; \"party candidate\" means a candidate who is sponsored by a political party to contest in an election; \"political party\" means a political party registered under the Political Parties Act (Cap. 7D); \"party nomination\" means the process where a political party nominates candidates to be sponsored by that political party to contest in an election; \"public resource\" includes— (a) monies intended for public use; 2"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\npolitical party or referendum committee in paying any expenses incurred directly or indirectly, but does\nnot include volunteer services;\n\"election\" means a presidential, parliamentary or county election, and includes a referendum and a byelection;\n\"election expenses\" means all funds expended or expenses incurred in respect of the conduct and\nmanagement of a nomination process, election campaign by a political party or a candidate or a\nreferendum campaign and include—\n(a) in relation to a nomination process, all expenses incurred by a political party or a candidate during\nthe nomination process;\n(b) in relation to an election campaign, all expenses incurred by a political party or candidate for the\npurpose of an election campaign; and\n(c) in relation to a referendum, all expenses incurred by referendum committees for the purpose of a\nreferendum campaign;\n\"election period\" has the meaning assigned to it under the Elections Act;\n\"expenditure account\" means a bank account opened by a candidate, a political party or a referendum\ncommittee for purposes of depositing contributions received by that candidate, political party or\nreferendum committee during an election period or a referendum campaign period as the case may be;\n\"expenditure committee\" means a committee established by a candidate, a political party or a referendum\ncommittee to regulate spending by a candidate, a political party or a referendum committee during an\nelection or a referendum campaign period as the case may be;\n\"expenditure period\" means the prescribed period for regulating election campaign financing;\n\"expenditure report\" means a report of expenses incurred by a candidate, a political party, or a referendum\ncommittee during a nomination or election period or a referendum campaign period;\n\"harambee\" means the public collection of monies or other property in aid support of an election or\nreferendum campaign;\n\"illegal source\" means a contribution from an unlawful source;\n\"monetary contribution\" means a non-repayable amount of money contributed to a campaign financing\naccount;\n\"nomination day\", in respect of an election, means the day gazetted by the Commission as the day for the\nnomination of candidates for that election;\n\"non-monetary contribution\" means the market value of a service, other than volunteer labour, or of\nproperty or of the use of property or money to the extent that they are provided without charge or at less\nthan their market value;\n\"organisation\" includes a club, group, foundation, business or a registered society;\n\"party campaign expenditure rules\" means rules of a political party intended to guide the political party in\nmatters related to campaign expenses during an election period;\n\"party candidate\" means a candidate who is sponsored by a political party to contest in an election;\n\"political party\" means a political party registered under the Political Parties Act (Cap. 7D);\n\"party nomination\" means the process where a political party nominates candidates to be sponsored by\nthat political party to contest in an election;\n\"public resource\" includes—\n(a) monies intended for public use;"
     ],
     "figures": [],
     "tables": [],
@@ -153,24 +274,50 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
-    "keywords": [],
+    "keywords": [
+      "expenditure"
+    ],
     "page_stats": {
-      "word_count": 488,
+      "word_count": 486,
       "paragraph_count": 1,
       "sentence_count": 2,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 3173,
+      "word_count": 486,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 6,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_007": {
     "page_number": 7,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya (b) a vehicle or equipment owned by or'in the possession of the State, a state organ, statutory corporation or a company in which the State owns a controlling interest; or (c) premises owned or occupied by the State, a state organ, statutory corporation or a company in which the State owns a controlling interest; \"referendum committee\" has the meaning assigned to it under the Elections Act; \"Registrar\" means the Registrar of Political Parties appointed under the Political Parties Act (Cap. 7D); \"spending limit\" means the maximum threshold of money a candidate, political party or referendum committee may expend during a nomination, election or referendum campaign and includes the expenditure incurred by any person or organization on behalf of a candidate, political party or referendum committee; \"technical assistance\" means support in knowledge, skills and ideas provided to a candidate, political party or referendum committee in connection with an election or referendum campaign; \"volunteer services\" means the rendering of personal services related to the campaign activities of a candidate, political party or a referendum committee during an election or referendum period, without compensation. Part II – FUNCTIONS OF THE COMMISSION 3. Functions of the Commission (1) Pursuant to Article 88(4)(i) of the Constitution and section 4(i) of the Independent Electoral and Boundaries Commission Act (Cap. 7C), the Commission shall be responsible for the regulation and administration of campaign financing under this Act and shall— (a) keep a register of authorised persons under this Act; (b) supervise candidates, political parties, referendum committees and authorised persons in relation to campaign expenses; (c) set spending limits and enforce compliance with such limits; (d) set limits and verify sources of contributions to a candidate, a political party or a referendum committee; (e) monitor and regulate campaign expenses; (f) provide a framework for the reporting of campaign expenses; (g) advise a candidate, a political party or a referendum committee on any matter relating to campaign expenses; and (h) provide and enforce a framework for the regulation of media coverage; (i) perform such other functions as may be necessary for the purposes of this Act. (2) In performing its functions under subsection (1), the Commission may act in consultation with the Registrar. 4. Powers of the Commission (1) The Commission shall have the power to investigate or examine all matters relating to the performance of its functions under this Act. (2) For purposes of an investigation or examination under this Act, the Commission or a representative of the Commission authorised in writing may, at any reasonable time obtain a warrant and enter into any premises in which books, and documents of a candidate, a political party or a referendum 3",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n(b) a vehicle or equipment owned by or'in the possession of the State, a state organ, statutory\ncorporation or a company in which the State owns a controlling interest; or\n(c) premises owned or occupied by the State, a state organ, statutory corporation or a company in\nwhich the State owns a controlling interest;\n\"referendum committee\" has the meaning assigned to it under the Elections Act;\n\"Registrar\" means the Registrar of Political Parties appointed under the Political Parties Act (Cap. 7D);\n\"spending limit\" means the maximum threshold of money a candidate, political party or referendum\ncommittee may expend during a nomination, election or referendum campaign and includes the\nexpenditure incurred by any person or organization on behalf of a candidate, political party or referendum\ncommittee;\n\"technical assistance\" means support in knowledge, skills and ideas provided to a candidate, political party\nor referendum committee in connection with an election or referendum campaign;\n\"volunteer services\" means the rendering of personal services related to the campaign activities of a\ncandidate, political party or a referendum committee during an election or referendum period, without\ncompensation.\nPart II – FUNCTIONS OF THE COMMISSION\n3. Functions of the Commission\n(1) Pursuant to Article 88(4)(i) of the Constitution and section 4(i) of the Independent Electoral and\nBoundaries Commission Act (Cap. 7C), the Commission shall be responsible for the regulation and\nadministration of campaign financing under this Act and shall—\n(a) keep a register of authorised persons under this Act;\n(b) supervise candidates, political parties, referendum committees and authorised persons in\nrelation to campaign expenses;\n(c) set spending limits and enforce compliance with such limits;\n(d) set limits and verify sources of contributions to a candidate, a political party or a referendum\ncommittee;\n(e) monitor and regulate campaign expenses;\n(f) provide a framework for the reporting of campaign expenses;\n(g) advise a candidate, a political party or a referendum committee on any matter relating to\ncampaign expenses; and\n(h) provide and enforce a framework for the regulation of media coverage;\n(i) perform such other functions as may be necessary for the purposes of this Act.\n(2) In performing its functions under subsection (1), the Commission may act in consultation with the\nRegistrar.\n4. Powers of the Commission\n(1) The Commission shall have the power to investigate or examine all matters relating to the\nperformance of its functions under this Act.\n(2) For purposes of an investigation or examination under this Act, the Commission or a representative\nof the Commission authorised in writing may, at any reasonable time obtain a warrant and enter\ninto any premises in which books, and documents of a candidate, a political party or a referendum",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya (b) a vehicle or equipment owned by or'in the possession of the State, a state organ, statutory corporation or a company in which the State owns a controlling interest; or (c) premises owned or occupied by the State, a state organ, statutory corporation or a company in which the State owns a controlling interest; \"referendum committee\" has the meaning assigned to it under the Elections Act; \"Registrar\" means the Registrar of Political Parties appointed under the Political Parties Act (Cap. 7D); \"spending limit\" means the maximum threshold of money a candidate, political party or referendum committee may expend during a nomination, election or referendum campaign and includes the expenditure incurred by any person or organization on behalf of a candidate, political party or referendum committee; \"technical assistance\" means support in knowledge, skills and ideas provided to a candidate, political party or referendum committee in connection with an election or referendum campaign; \"volunteer services\" means the rendering of personal services related to the campaign activities of a candidate, political party or a referendum committee during an election or referendum period, without compensation. Part II – FUNCTIONS OF THE COMMISSION 3. Functions of the Commission (1) Pursuant to Article 88(4)(i) of the Constitution and section 4(i) of the Independent Electoral and Boundaries Commission Act (Cap. 7C), the Commission shall be responsible for the regulation and administration of campaign financing under this Act and shall— (a) keep a register of authorised persons under this Act; (b) supervise candidates, political parties, referendum committees and authorised persons in relation to campaign expenses; (c) set spending limits and enforce compliance with such limits; (d) set limits and verify sources of contributions to a candidate, a political party or a referendum committee; (e) monitor and regulate campaign expenses; (f) provide a framework for the reporting of campaign expenses; (g) advise a candidate, a political party or a referendum committee on any matter relating to campaign expenses; and (h) provide and enforce a framework for the regulation of media coverage; (i) perform such other functions as may be necessary for the purposes of this Act. (2) In performing its functions under subsection (1), the Commission may act in consultation with the Registrar. 4. Powers of the Commission (1) The Commission shall have the power to investigate or examine all matters relating to the performance of its functions under this Act. (2) For purposes of an investigation or examination under this Act, the Commission or a representative of the Commission authorised in writing may, at any reasonable time obtain a warrant and enter into any premises in which books, and documents of a candidate, a political party or a referendum 3"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n(b) a vehicle or equipment owned by or'in the possession of the State, a state organ, statutory\ncorporation or a company in which the State owns a controlling interest; or\n(c) premises owned or occupied by the State, a state organ, statutory corporation or a company in\nwhich the State owns a controlling interest;\n\"referendum committee\" has the meaning assigned to it under the Elections Act;\n\"Registrar\" means the Registrar of Political Parties appointed under the Political Parties Act (Cap. 7D);\n\"spending limit\" means the maximum threshold of money a candidate, political party or referendum\ncommittee may expend during a nomination, election or referendum campaign and includes the\nexpenditure incurred by any person or organization on behalf of a candidate, political party or referendum\ncommittee;\n\"technical assistance\" means support in knowledge, skills and ideas provided to a candidate, political party\nor referendum committee in connection with an election or referendum campaign;\n\"volunteer services\" means the rendering of personal services related to the campaign activities of a\ncandidate, political party or a referendum committee during an election or referendum period, without\ncompensation.\nPart II – FUNCTIONS OF THE COMMISSION\n3. Functions of the Commission\n(1) Pursuant to Article 88(4)(i) of the Constitution and section 4(i) of the Independent Electoral and\nBoundaries Commission Act (Cap. 7C), the Commission shall be responsible for the regulation and\nadministration of campaign financing under this Act and shall—\n(a) keep a register of authorised persons under this Act;\n(b) supervise candidates, political parties, referendum committees and authorised persons in\nrelation to campaign expenses;\n(c) set spending limits and enforce compliance with such limits;\n(d) set limits and verify sources of contributions to a candidate, a political party or a referendum\ncommittee;\n(e) monitor and regulate campaign expenses;\n(f) provide a framework for the reporting of campaign expenses;\n(g) advise a candidate, a political party or a referendum committee on any matter relating to\ncampaign expenses; and\n(h) provide and enforce a framework for the regulation of media coverage;\n(i) perform such other functions as may be necessary for the purposes of this Act.\n(2) In performing its functions under subsection (1), the Commission may act in consultation with the\nRegistrar.\n4. Powers of the Commission\n(1) The Commission shall have the power to investigate or examine all matters relating to the\nperformance of its functions under this Act.\n(2) For purposes of an investigation or examination under this Act, the Commission or a representative\nof the Commission authorised in writing may, at any reasonable time obtain a warrant and enter\ninto any premises in which books, and documents of a candidate, a political party or a referendum"
     ],
     "figures": [],
     "tables": [],
@@ -180,26 +327,51 @@
     "constitutional_articles": [
       "88(4)"
     ],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
     "keywords": [
-      "compliance"
+      "compliance",
+      "expenditure"
     ],
     "page_stats": {
-      "word_count": 449,
+      "word_count": 448,
       "paragraph_count": 1,
       "sentence_count": 9,
       "monetary_count": 0,
-      "article_count": 1
-    }
+      "article_count": 1,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2907,
+      "word_count": 448,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 7,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_008": {
     "page_number": 8,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya committee or where material relevant to the subject matter of the investigation or examination is kept. (3) The Commission may request for information relating to party nomination expenses and election campaign expenses of a candidate, a political party or a referendum committee that is reasonably required in respect of the functions of the Commission under this Act, and the Commission shall cite the provision of the written law under which the request is being made. (4) Where a request for information is made pursuant to subsection (3), such information shall be furnished to the Commission by any person or organisation within such reasonable time as the Commission may determine. (5) The Commission may take such other action as is necessary for purposes of carrying out its functions under this Act. Part III – REGULATION OF EXPENDITURE 5. Election campaign financing rules The Commission shall make rules to regulate election campaign financing — (a) in the case of a general election, at least twelve months before the election; and (b) in the case of a by-election or referendum, at such time as the Commission may determine. 6. Authorised persons (1) For purposes of regulating election campaign financing during the expenditure period, the authorised persons shall be— (a) a candidate; (b) an agent of the candidate; (c) political party campaign financing committee; and (d) referendum campaign financing committee. (2) The political party campaign financing committee referred to in subsection (1)(c) shall consist of persons nominated by the governing body of that political party, three of whom shall be signatories to the party campaign financing account. (3) The referendum campaign financing committee referred to in subsection (1)(d) shall consist of persons nominated by the referendum committee established under section 51(1) of the Elections Act (Cap. 7), three of whom shall be signatories to the referendum campaign financing account. (4) A candidate, a political party or a referendum campaign financing committee shall, as soon as reasonable, notify the Commission of any changes in the authorised persons, the membership of the committee or in the details of such persons or such members. (5) The authorised persons referred to in subsection (1) shall be registered by the Commission— (a) for a general election, at least two months before the general election; or (b) for a by-election, within seven days after the notice of a vacancy issued by the relevant Speaker; (c) for a referendum, within fourteen days after the publication of the referendum question by the Commission. (6) Each of the authorised persons referred to in subsection (1) shall open a campaign financing account and shall submit details of that account to the Commission at the time of registration under subsection (2). 4",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\ncommittee or where material relevant to the subject matter of the investigation or examination is\nkept.\n(3) The Commission may request for information relating to party nomination expenses and election\ncampaign expenses of a candidate, a political party or a referendum committee that is reasonably\nrequired in respect of the functions of the Commission under this Act, and the Commission shall\ncite the provision of the written law under which the request is being made.\n(4) Where a request for information is made pursuant to subsection (3), such information shall be\nfurnished to the Commission by any person or organisation within such reasonable time as the\nCommission may determine.\n(5) The Commission may take such other action as is necessary for purposes of carrying out its\nfunctions under this Act.\nPart III – REGULATION OF EXPENDITURE\n5. Election campaign financing rules\nThe Commission shall make rules to regulate election campaign financing —\n(a) in the case of a general election, at least twelve months before the election; and\n(b) in the case of a by-election or referendum, at such time as the Commission may determine.\n6. Authorised persons\n(1) For purposes of regulating election campaign financing during the expenditure period, the\nauthorised persons shall be—\n(a) a candidate;\n(b) an agent of the candidate;\n(c) political party campaign financing committee; and\n(d) referendum campaign financing committee.\n(2) The political party campaign financing committee referred to in subsection (1)(c) shall consist of\npersons nominated by the governing body of that political party, three of whom shall be signatories\nto the party campaign financing account.\n(3) The referendum campaign financing committee referred to in subsection (1)(d) shall consist of\npersons nominated by the referendum committee established under section 51(1) of the Elections\nAct (Cap. 7), three of whom shall be signatories to the referendum campaign financing account.\n(4) A candidate, a political party or a referendum campaign financing committee shall, as soon as\nreasonable, notify the Commission of any changes in the authorised persons, the membership of\nthe committee or in the details of such persons or such members.\n(5) The authorised persons referred to in subsection (1) shall be registered by the Commission—\n(a) for a general election, at least two months before the general election; or\n(b) for a by-election, within seven days after the notice of a vacancy issued by the relevant\nSpeaker;\n(c) for a referendum, within fourteen days after the publication of the referendum question by\nthe Commission.\n(6) Each of the authorised persons referred to in subsection (1) shall open a campaign financing\naccount and shall submit details of that account to the Commission at the time of registration\nunder subsection (2).",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya committee or where material relevant to the subject matter of the investigation or examination is kept. (3) The Commission may request for information relating to party nomination expenses and election campaign expenses of a candidate, a political party or a referendum committee that is reasonably required in respect of the functions of the Commission under this Act, and the Commission shall cite the provision of the written law under which the request is being made. (4) Where a request for information is made pursuant to subsection (3), such information shall be furnished to the Commission by any person or organisation within such reasonable time as the Commission may determine. (5) The Commission may take such other action as is necessary for purposes of carrying out its functions under this Act. Part III – REGULATION OF EXPENDITURE 5. Election campaign financing rules The Commission shall make rules to regulate election campaign financing — (a) in the case of a general election, at least twelve months before the election; and (b) in the case of a by-election or referendum, at such time as the Commission may determine. 6. Authorised persons (1) For purposes of regulating election campaign financing during the expenditure period, the authorised persons shall be— (a) a candidate; (b) an agent of the candidate; (c) political party campaign financing committee; and (d) referendum campaign financing committee. (2) The political party campaign financing committee referred to in subsection (1)(c) shall consist of persons nominated by the governing body of that political party, three of whom shall be signatories to the party campaign financing account. (3) The referendum campaign financing committee referred to in subsection (1)(d) shall consist of persons nominated by the referendum committee established under section 51(1) of the Elections Act (Cap. 7), three of whom shall be signatories to the referendum campaign financing account. (4) A candidate, a political party or a referendum campaign financing committee shall, as soon as reasonable, notify the Commission of any changes in the authorised persons, the membership of the committee or in the details of such persons or such members. (5) The authorised persons referred to in subsection (1) shall be registered by the Commission— (a) for a general election, at least two months before the general election; or (b) for a by-election, within seven days after the notice of a vacancy issued by the relevant Speaker; (c) for a referendum, within fourteen days after the publication of the referendum question by the Commission. (6) Each of the authorised persons referred to in subsection (1) shall open a campaign financing account and shall submit details of that account to the Commission at the time of registration under subsection (2). 4"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\ncommittee or where material relevant to the subject matter of the investigation or examination is\nkept.\n(3) The Commission may request for information relating to party nomination expenses and election\ncampaign expenses of a candidate, a political party or a referendum committee that is reasonably\nrequired in respect of the functions of the Commission under this Act, and the Commission shall\ncite the provision of the written law under which the request is being made.\n(4) Where a request for information is made pursuant to subsection (3), such information shall be\nfurnished to the Commission by any person or organisation within such reasonable time as the\nCommission may determine.\n(5) The Commission may take such other action as is necessary for purposes of carrying out its\nfunctions under this Act.\nPart III – REGULATION OF EXPENDITURE\n5. Election campaign financing rules\nThe Commission shall make rules to regulate election campaign financing —\n(a) in the case of a general election, at least twelve months before the election; and\n(b) in the case of a by-election or referendum, at such time as the Commission may determine.\n6. Authorised persons\n(1) For purposes of regulating election campaign financing during the expenditure period, the\nauthorised persons shall be—\n(a) a candidate;\n(b) an agent of the candidate;\n(c) political party campaign financing committee; and\n(d) referendum campaign financing committee.\n(2) The political party campaign financing committee referred to in subsection (1)(c) shall consist of\npersons nominated by the governing body of that political party, three of whom shall be signatories\nto the party campaign financing account.\n(3) The referendum campaign financing committee referred to in subsection (1)(d) shall consist of\npersons nominated by the referendum committee established under section 51(1) of the Elections\nAct (Cap. 7), three of whom shall be signatories to the referendum campaign financing account.\n(4) A candidate, a political party or a referendum campaign financing committee shall, as soon as\nreasonable, notify the Commission of any changes in the authorised persons, the membership of\nthe committee or in the details of such persons or such members.\n(5) The authorised persons referred to in subsection (1) shall be registered by the Commission—\n(a) for a general election, at least two months before the general election; or\n(b) for a by-election, within seven days after the notice of a vacancy issued by the relevant\nSpeaker;\n(c) for a referendum, within fourteen days after the publication of the referendum question by\nthe Commission.\n(6) Each of the authorised persons referred to in subsection (1) shall open a campaign financing\naccount and shall submit details of that account to the Commission at the time of registration\nunder subsection (2)."
     ],
     "figures": [],
     "tables": [],
@@ -207,24 +379,50 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
-    "keywords": [],
+    "keywords": [
+      "expenditure"
+    ],
     "page_stats": {
-      "word_count": 454,
+      "word_count": 453,
       "paragraph_count": 1,
       "sentence_count": 15,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2871,
+      "word_count": 453,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 8,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_009": {
     "page_number": 9,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya (7) There shall be deposited into the campaign financing account referred to in subsection (3)— (a) contributions by a candidate; (b) contributions by a political party; (c) contributions received from any other lawful source. [Act No. 1 of 2017, s. 33.] 7. Party expenditure committee (1) A political party intending to contest in an election shall, in accordance with the constitution and rules of the political party, constitute a party expenditure committee which shall consist of nine members — (a) three of whom shall be persons nominated by the governing body of that political party, of whom one shall be the secretary-general of the party; (b) not more than one of whom shall be from one region; and (c) not more than two-thirds of whom shall be of one gender. (2) The appointment of members of the referendum expenditure committee referred to in subsection (1) shall take into account regional and other diversity of the people of Kenya. (3) The members of a party expenditure committee shall not include members of a party candidate expenditure committee. (4) The party expenditure committee referred to in subsection (1) shall— (a) open a party expenditure committee account into which all the money in respect of the election campaign of that party shall be deposited; (b) be signatories to the party expenditure committee account; (c) advise the political party on all financial matters related to the party nomination or to the party campaign expenditure; (d) manage the party expenditure committee account of the political party and keep the books of account updated and available for inspection; and (e) receive party nomination and campaign expenditure reports from each party candidate; (f) monitor the campaign expenditure of the party candidate and ensure that the party candidate complies with party nomination and campaign expenditure rules; (g) compile the expenditure reports received from the party candidates and submit to the Commission the preliminary nomination expenditure report and the final campaign expenditure report; and (h) submit to the Commission the final campaign expenditure report of the political party. (5) A political party shall, as soon as reasonable, notify the Commission of any changes in the membership of the party expenditure committee. 8. Independent candidate expenditure committee (1) An independent candidate intending to contest in an election shall constitute an independent candidate expenditure committee. (2) The independent candidate expenditure committee referred to in subsection (1) shall consist of three members nominated by the candidate. 5",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n(7) There shall be deposited into the campaign financing account referred to in subsection (3)—\n(a) contributions by a candidate;\n(b) contributions by a political party;\n(c) contributions received from any other lawful source.\n[Act No. 1 of 2017, s. 33.]\n7. Party expenditure committee\n(1) A political party intending to contest in an election shall, in accordance with the constitution and\nrules of the political party, constitute a party expenditure committee which shall consist of nine\nmembers —\n(a) three of whom shall be persons nominated by the governing body of that political party, of\nwhom one shall be the secretary-general of the party;\n(b) not more than one of whom shall be from one region; and\n(c) not more than two-thirds of whom shall be of one gender.\n(2) The appointment of members of the referendum expenditure committee referred to in subsection\n(1) shall take into account regional and other diversity of the people of Kenya.\n(3) The members of a party expenditure committee shall not include members of a party candidate\nexpenditure committee.\n(4) The party expenditure committee referred to in subsection (1) shall—\n(a) open a party expenditure committee account into which all the money in respect of the\nelection campaign of that party shall be deposited;\n(b) be signatories to the party expenditure committee account;\n(c) advise the political party on all financial matters related to the party nomination or to the\nparty campaign expenditure;\n(d) manage the party expenditure committee account of the political party and keep the books of\naccount updated and available for inspection; and\n(e) receive party nomination and campaign expenditure reports from each party candidate;\n(f) monitor the campaign expenditure of the party candidate and ensure that the party\ncandidate complies with party nomination and campaign expenditure rules;\n(g) compile the expenditure reports received from the party candidates and submit to the\nCommission the preliminary nomination expenditure report and the final campaign\nexpenditure report; and\n(h) submit to the Commission the final campaign expenditure report of the political party.\n(5) A political party shall, as soon as reasonable, notify the Commission of any changes in the\nmembership of the party expenditure committee.\n8. Independent candidate expenditure committee\n(1) An independent candidate intending to contest in an election shall constitute an independent\ncandidate expenditure committee.\n(2) The independent candidate expenditure committee referred to in subsection (1) shall consist of\nthree members nominated by the candidate.",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya (7) There shall be deposited into the campaign financing account referred to in subsection (3)— (a) contributions by a candidate; (b) contributions by a political party; (c) contributions received from any other lawful source. [Act No. 1 of 2017, s. 33.] 7. Party expenditure committee (1) A political party intending to contest in an election shall, in accordance with the constitution and rules of the political party, constitute a party expenditure committee which shall consist of nine members — (a) three of whom shall be persons nominated by the governing body of that political party, of whom one shall be the secretary-general of the party; (b) not more than one of whom shall be from one region; and (c) not more than two-thirds of whom shall be of one gender. (2) The appointment of members of the referendum expenditure committee referred to in subsection (1) shall take into account regional and other diversity of the people of Kenya. (3) The members of a party expenditure committee shall not include members of a party candidate expenditure committee. (4) The party expenditure committee referred to in subsection (1) shall— (a) open a party expenditure committee account into which all the money in respect of the election campaign of that party shall be deposited; (b) be signatories to the party expenditure committee account; (c) advise the political party on all financial matters related to the party nomination or to the party campaign expenditure; (d) manage the party expenditure committee account of the political party and keep the books of account updated and available for inspection; and (e) receive party nomination and campaign expenditure reports from each party candidate; (f) monitor the campaign expenditure of the party candidate and ensure that the party candidate complies with party nomination and campaign expenditure rules; (g) compile the expenditure reports received from the party candidates and submit to the Commission the preliminary nomination expenditure report and the final campaign expenditure report; and (h) submit to the Commission the final campaign expenditure report of the political party. (5) A political party shall, as soon as reasonable, notify the Commission of any changes in the membership of the party expenditure committee. 8. Independent candidate expenditure committee (1) An independent candidate intending to contest in an election shall constitute an independent candidate expenditure committee. (2) The independent candidate expenditure committee referred to in subsection (1) shall consist of three members nominated by the candidate. 5"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n(7) There shall be deposited into the campaign financing account referred to in subsection (3)—\n(a) contributions by a candidate;\n(b) contributions by a political party;\n(c) contributions received from any other lawful source.\n[Act No. 1 of 2017, s. 33.]\n7. Party expenditure committee\n(1) A political party intending to contest in an election shall, in accordance with the constitution and\nrules of the political party, constitute a party expenditure committee which shall consist of nine\nmembers —\n(a) three of whom shall be persons nominated by the governing body of that political party, of\nwhom one shall be the secretary-general of the party;\n(b) not more than one of whom shall be from one region; and\n(c) not more than two-thirds of whom shall be of one gender.\n(2) The appointment of members of the referendum expenditure committee referred to in subsection\n(1) shall take into account regional and other diversity of the people of Kenya.\n(3) The members of a party expenditure committee shall not include members of a party candidate\nexpenditure committee.\n(4) The party expenditure committee referred to in subsection (1) shall—\n(a) open a party expenditure committee account into which all the money in respect of the\nelection campaign of that party shall be deposited;\n(b) be signatories to the party expenditure committee account;\n(c) advise the political party on all financial matters related to the party nomination or to the\nparty campaign expenditure;\n(d) manage the party expenditure committee account of the political party and keep the books of\naccount updated and available for inspection; and\n(e) receive party nomination and campaign expenditure reports from each party candidate;\n(f) monitor the campaign expenditure of the party candidate and ensure that the party\ncandidate complies with party nomination and campaign expenditure rules;\n(g) compile the expenditure reports received from the party candidates and submit to the\nCommission the preliminary nomination expenditure report and the final campaign\nexpenditure report; and\n(h) submit to the Commission the final campaign expenditure report of the political party.\n(5) A political party shall, as soon as reasonable, notify the Commission of any changes in the\nmembership of the party expenditure committee.\n8. Independent candidate expenditure committee\n(1) An independent candidate intending to contest in an election shall constitute an independent\ncandidate expenditure committee.\n(2) The independent candidate expenditure committee referred to in subsection (1) shall consist of\nthree members nominated by the candidate."
     ],
     "figures": [],
     "tables": [],
@@ -234,24 +432,50 @@
       2017
     ],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
-    "keywords": [],
+    "keywords": [
+      "expenditure"
+    ],
     "page_stats": {
-      "word_count": 412,
+      "word_count": 411,
       "paragraph_count": 1,
       "sentence_count": 14,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2657,
+      "word_count": 411,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 9,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_010": {
     "page_number": 10,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya (3) The independent candidate expenditure committee shall— (a) open an independent candidate expenditure committee account into which all the money in respect of the election campaign of that candidate shall be deposited; (b) be signatories to the independent candidate expenditure committee account; (c) advise the independent candidate on all financial matters related to the campaign expenditure; and (d) manage the candidate expenditure committee account of the independent candidate and keep the books of account updated and available for inspection; (e) receive expenditure reports from the independent candidate; and (f) compile and submit to the Commission the final campaign expenditure report of the independent candidate with respect to the election period. 9. Referendum expenditure committee (1) A national referendum committee intending to campaign in a referendum shall constitute a referendum expenditure committee which shall consist of nine members— (a) three of whom shall be persons nominated by the national committee established under section 51 of the Elections Act (Cap. 7); (b) not more than one of whom shall be from one region; and (c) not more than two-thirds of whom shall be of one gender. (2) The appointment of members of the referendum expenditure committee referred to in subsection (1) shall take into account regional and other diversity of the people of Kenya. (3) The referendum expenditure committee referred to in subsection (1) shall— (a) open a referendum expenditure committee account into which all the money in respect of the referendum campaign shall be deposited; (b) be signatories to the referendum expenditure committee account; (c) advise the national committee on all financial matters related to referendum campaign expenditure; (d) manage the referendum expenditure committee account of the relevant national committee and keep the books of account updated and available for inspection; and (e) receive campaign expenditure reports from each constituency committee; (f) monitor the campaign expenditure of the national committee and the constituency committees and ensure that the committees comply with campaign expenditure rules; and (g) compile and submit to the Commission the preliminary nomination expenditure report and the final campaign expenditure report. (4) A national committee shall, as soon as is reasonable, notify the Commission of any changes in the membership of the referendum expenditure committee. 10. Submission of expenditure reports (1) A party candidate shall submit to the political party of that candidate and to the Commission — (a) a preliminary nomination expenditure report, within twenty-one days of the political party nomination; and 6",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n(3) The independent candidate expenditure committee shall—\n(a) open an independent candidate expenditure committee account into which all the money in\nrespect of the election campaign of that candidate shall be deposited;\n(b) be signatories to the independent candidate expenditure committee account;\n(c) advise the independent candidate on all financial matters related to the campaign\nexpenditure; and\n(d) manage the candidate expenditure committee account of the independent candidate and\nkeep the books of account updated and available for inspection;\n(e) receive expenditure reports from the independent candidate; and\n(f) compile and submit to the Commission the final campaign expenditure report of the\nindependent candidate with respect to the election period.\n9. Referendum expenditure committee\n(1) A national referendum committee intending to campaign in a referendum shall constitute a\nreferendum expenditure committee which shall consist of nine members—\n(a) three of whom shall be persons nominated by the national committee established under\nsection 51 of the Elections Act (Cap. 7);\n(b) not more than one of whom shall be from one region; and\n(c) not more than two-thirds of whom shall be of one gender.\n(2) The appointment of members of the referendum expenditure committee referred to in subsection\n(1) shall take into account regional and other diversity of the people of Kenya.\n(3) The referendum expenditure committee referred to in subsection (1) shall—\n(a) open a referendum expenditure committee account into which all the money in respect of\nthe referendum campaign shall be deposited;\n(b) be signatories to the referendum expenditure committee account;\n(c) advise the national committee on all financial matters related to referendum campaign\nexpenditure;\n(d) manage the referendum expenditure committee account of the relevant national committee\nand keep the books of account updated and available for inspection; and\n(e) receive campaign expenditure reports from each constituency committee;\n(f) monitor the campaign expenditure of the national committee and the constituency\ncommittees and ensure that the committees comply with campaign expenditure rules; and\n(g) compile and submit to the Commission the preliminary nomination expenditure report and\nthe final campaign expenditure report.\n(4) A national committee shall, as soon as is reasonable, notify the Commission of any changes in the\nmembership of the referendum expenditure committee.\n10. Submission of expenditure reports\n(1) A party candidate shall submit to the political party of that candidate and to the Commission —\n(a) a preliminary nomination expenditure report, within twenty-one days of the political party\nnomination; and",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya (3) The independent candidate expenditure committee shall— (a) open an independent candidate expenditure committee account into which all the money in respect of the election campaign of that candidate shall be deposited; (b) be signatories to the independent candidate expenditure committee account; (c) advise the independent candidate on all financial matters related to the campaign expenditure; and (d) manage the candidate expenditure committee account of the independent candidate and keep the books of account updated and available for inspection; (e) receive expenditure reports from the independent candidate; and (f) compile and submit to the Commission the final campaign expenditure report of the independent candidate with respect to the election period. 9. Referendum expenditure committee (1) A national referendum committee intending to campaign in a referendum shall constitute a referendum expenditure committee which shall consist of nine members— (a) three of whom shall be persons nominated by the national committee established under section 51 of the Elections Act (Cap. 7); (b) not more than one of whom shall be from one region; and (c) not more than two-thirds of whom shall be of one gender. (2) The appointment of members of the referendum expenditure committee referred to in subsection (1) shall take into account regional and other diversity of the people of Kenya. (3) The referendum expenditure committee referred to in subsection (1) shall— (a) open a referendum expenditure committee account into which all the money in respect of the referendum campaign shall be deposited; (b) be signatories to the referendum expenditure committee account; (c) advise the national committee on all financial matters related to referendum campaign expenditure; (d) manage the referendum expenditure committee account of the relevant national committee and keep the books of account updated and available for inspection; and (e) receive campaign expenditure reports from each constituency committee; (f) monitor the campaign expenditure of the national committee and the constituency committees and ensure that the committees comply with campaign expenditure rules; and (g) compile and submit to the Commission the preliminary nomination expenditure report and the final campaign expenditure report. (4) A national committee shall, as soon as is reasonable, notify the Commission of any changes in the membership of the referendum expenditure committee. 10. Submission of expenditure reports (1) A party candidate shall submit to the political party of that candidate and to the Commission — (a) a preliminary nomination expenditure report, within twenty-one days of the political party nomination; and 6"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n(3) The independent candidate expenditure committee shall—\n(a) open an independent candidate expenditure committee account into which all the money in\nrespect of the election campaign of that candidate shall be deposited;\n(b) be signatories to the independent candidate expenditure committee account;\n(c) advise the independent candidate on all financial matters related to the campaign\nexpenditure; and\n(d) manage the candidate expenditure committee account of the independent candidate and\nkeep the books of account updated and available for inspection;\n(e) receive expenditure reports from the independent candidate; and\n(f) compile and submit to the Commission the final campaign expenditure report of the\nindependent candidate with respect to the election period.\n9. Referendum expenditure committee\n(1) A national referendum committee intending to campaign in a referendum shall constitute a\nreferendum expenditure committee which shall consist of nine members—\n(a) three of whom shall be persons nominated by the national committee established under\nsection 51 of the Elections Act (Cap. 7);\n(b) not more than one of whom shall be from one region; and\n(c) not more than two-thirds of whom shall be of one gender.\n(2) The appointment of members of the referendum expenditure committee referred to in subsection\n(1) shall take into account regional and other diversity of the people of Kenya.\n(3) The referendum expenditure committee referred to in subsection (1) shall—\n(a) open a referendum expenditure committee account into which all the money in respect of\nthe referendum campaign shall be deposited;\n(b) be signatories to the referendum expenditure committee account;\n(c) advise the national committee on all financial matters related to referendum campaign\nexpenditure;\n(d) manage the referendum expenditure committee account of the relevant national committee\nand keep the books of account updated and available for inspection; and\n(e) receive campaign expenditure reports from each constituency committee;\n(f) monitor the campaign expenditure of the national committee and the constituency\ncommittees and ensure that the committees comply with campaign expenditure rules; and\n(g) compile and submit to the Commission the preliminary nomination expenditure report and\nthe final campaign expenditure report.\n(4) A national committee shall, as soon as is reasonable, notify the Commission of any changes in the\nmembership of the referendum expenditure committee.\n10. Submission of expenditure reports\n(1) A party candidate shall submit to the political party of that candidate and to the Commission —\n(a) a preliminary nomination expenditure report, within twenty-one days of the political party\nnomination; and"
     ],
     "figures": [],
     "tables": [],
@@ -259,24 +483,50 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
-    "keywords": [],
+    "keywords": [
+      "expenditure"
+    ],
     "page_stats": {
-      "word_count": 412,
+      "word_count": 411,
       "paragraph_count": 1,
       "sentence_count": 9,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2770,
+      "word_count": 411,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 10,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_011": {
     "page_number": 11,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya (b) the final expenditure report within, three months after elections. (2) A political party shall within three months after the elections submit a final expenditure report to the Commission. (3) An independent candidate shall within three months after the election, submit the final expenditure report to the Commission. (4) A referendum committee shall, within three months after the referendum submit the final expenditure report to the Commission. (5) The expenditure reports submitted under subsections (1)(b), (2), (3), and (4) shall include records showing all transactions and income and expenditure statement. Part IV – CONTRIBUTIONS AND DONATIONS 11. Sources of campaign finances The sources of funds for purposes of financing party nomination, election or referendum campaigns are — (a) contributions received from any person, political party or any other lawful source; (b) contributions from a lawful source, not being directly from a foreign government; and (c) contributions from a harambee. 12. Limits to contributions (1) The Commission shall, at least twelve months before a general election, by notice in the Gazette, prescribe limits on — (a) total contributions; (b) contributions from a single source; (c) paid-up media coverage; or (d) loan forming part of a contribution, which a candidate, political party or referendum committee may receive during the expenditure period. (2) Except where contribution is from a candidate to that candidate's campaign financing account, or from a political party or a referendum committee to that political party's or referendum committee's campaign financing account, no contribution from a single source shall exceed twenty percent of the total contributions received by that candidate, political party or referendum committee. (3) The Commission shall prescribe the limit beyond which contributions received by a candidate, a political party or a referendum committee from a single source may be disclosed. 13. Anonymous contributions or contributions from an illegal source (1) A candidate, a political party or a referendum committee shall not receive and keep— (a) anonymous contributions or support whether in cash or in kind; or (b) contributions from an illegal source as specified by this Act or by any other law. (2) A candidate who, a political party or a referendum committee which receives contributions referred to in subsection (1) shall, within fourteen days of the receipt, report such receipt and submit the contribution to the Commission. 7",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n(b) the final expenditure report within, three months after elections.\n(2) A political party shall within three months after the elections submit a final expenditure report to\nthe Commission.\n(3) An independent candidate shall within three months after the election, submit the final\nexpenditure report to the Commission.\n(4) A referendum committee shall, within three months after the referendum submit the final\nexpenditure report to the Commission.\n(5) The expenditure reports submitted under subsections (1)(b), (2), (3), and (4) shall include records\nshowing all transactions and income and expenditure statement.\nPart IV – CONTRIBUTIONS AND DONATIONS\n11. Sources of campaign finances\nThe sources of funds for purposes of financing party nomination, election or referendum campaigns are —\n(a) contributions received from any person, political party or any other lawful source;\n(b) contributions from a lawful source, not being directly from a foreign government; and\n(c) contributions from a harambee.\n12. Limits to contributions\n(1) The Commission shall, at least twelve months before a general election, by notice in the Gazette,\nprescribe limits on —\n(a) total contributions;\n(b) contributions from a single source;\n(c) paid-up media coverage; or\n(d) loan forming part of a contribution,\nwhich a candidate, political party or referendum committee may receive during the expenditure\nperiod.\n(2) Except where contribution is from a candidate to that candidate's campaign financing account, or\nfrom a political party or a referendum committee to that political party's or referendum committee's\ncampaign financing account, no contribution from a single source shall exceed twenty percent of\nthe total contributions received by that candidate, political party or referendum committee.\n(3) The Commission shall prescribe the limit beyond which contributions received by a candidate, a\npolitical party or a referendum committee from a single source may be disclosed.\n13. Anonymous contributions or contributions from an illegal source\n(1) A candidate, a political party or a referendum committee shall not receive and keep—\n(a) anonymous contributions or support whether in cash or in kind; or\n(b) contributions from an illegal source as specified by this Act or by any other law.\n(2) A candidate who, a political party or a referendum committee which receives contributions referred\nto in subsection (1) shall, within fourteen days of the receipt, report such receipt and submit the\ncontribution to the Commission.",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya (b) the final expenditure report within, three months after elections. (2) A political party shall within three months after the elections submit a final expenditure report to the Commission. (3) An independent candidate shall within three months after the election, submit the final expenditure report to the Commission. (4) A referendum committee shall, within three months after the referendum submit the final expenditure report to the Commission. (5) The expenditure reports submitted under subsections (1)(b), (2), (3), and (4) shall include records showing all transactions and income and expenditure statement. Part IV – CONTRIBUTIONS AND DONATIONS 11. Sources of campaign finances The sources of funds for purposes of financing party nomination, election or referendum campaigns are — (a) contributions received from any person, political party or any other lawful source; (b) contributions from a lawful source, not being directly from a foreign government; and (c) contributions from a harambee. 12. Limits to contributions (1) The Commission shall, at least twelve months before a general election, by notice in the Gazette, prescribe limits on — (a) total contributions; (b) contributions from a single source; (c) paid-up media coverage; or (d) loan forming part of a contribution, which a candidate, political party or referendum committee may receive during the expenditure period. (2) Except where contribution is from a candidate to that candidate's campaign financing account, or from a political party or a referendum committee to that political party's or referendum committee's campaign financing account, no contribution from a single source shall exceed twenty percent of the total contributions received by that candidate, political party or referendum committee. (3) The Commission shall prescribe the limit beyond which contributions received by a candidate, a political party or a referendum committee from a single source may be disclosed. 13. Anonymous contributions or contributions from an illegal source (1) A candidate, a political party or a referendum committee shall not receive and keep— (a) anonymous contributions or support whether in cash or in kind; or (b) contributions from an illegal source as specified by this Act or by any other law. (2) A candidate who, a political party or a referendum committee which receives contributions referred to in subsection (1) shall, within fourteen days of the receipt, report such receipt and submit the contribution to the Commission. 7"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n(b) the final expenditure report within, three months after elections.\n(2) A political party shall within three months after the elections submit a final expenditure report to\nthe Commission.\n(3) An independent candidate shall within three months after the election, submit the final\nexpenditure report to the Commission.\n(4) A referendum committee shall, within three months after the referendum submit the final\nexpenditure report to the Commission.\n(5) The expenditure reports submitted under subsections (1)(b), (2), (3), and (4) shall include records\nshowing all transactions and income and expenditure statement.\nPart IV – CONTRIBUTIONS AND DONATIONS\n11. Sources of campaign finances\nThe sources of funds for purposes of financing party nomination, election or referendum campaigns are —\n(a) contributions received from any person, political party or any other lawful source;\n(b) contributions from a lawful source, not being directly from a foreign government; and\n(c) contributions from a harambee.\n12. Limits to contributions\n(1) The Commission shall, at least twelve months before a general election, by notice in the Gazette,\nprescribe limits on —\n(a) total contributions;\n(b) contributions from a single source;\n(c) paid-up media coverage; or\n(d) loan forming part of a contribution,\nwhich a candidate, political party or referendum committee may receive during the expenditure\nperiod.\n(2) Except where contribution is from a candidate to that candidate's campaign financing account, or\nfrom a political party or a referendum committee to that political party's or referendum committee's\ncampaign financing account, no contribution from a single source shall exceed twenty percent of\nthe total contributions received by that candidate, political party or referendum committee.\n(3) The Commission shall prescribe the limit beyond which contributions received by a candidate, a\npolitical party or a referendum committee from a single source may be disclosed.\n13. Anonymous contributions or contributions from an illegal source\n(1) A candidate, a political party or a referendum committee shall not receive and keep—\n(a) anonymous contributions or support whether in cash or in kind; or\n(b) contributions from an illegal source as specified by this Act or by any other law.\n(2) A candidate who, a political party or a referendum committee which receives contributions referred\nto in subsection (1) shall, within fourteen days of the receipt, report such receipt and submit the\ncontribution to the Commission."
     ],
     "figures": [],
     "tables": [],
@@ -284,24 +534,50 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
-    "keywords": [],
+    "keywords": [
+      "expenditure"
+    ],
     "page_stats": {
-      "word_count": 389,
+      "word_count": 388,
       "paragraph_count": 1,
       "sentence_count": 15,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2565,
+      "word_count": 388,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 11,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_012": {
     "page_number": 12,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya (3) A candidate who or a political party or a referendum committee which fails to submit the contributions referred to in subsection (1) commits an offence. 14. Prohibition on contributions (1) A candidate, a political party or a referendum committee shall not receive any contribution or donation, in cash or in kind from the State, a State institution or agency or any other public resource. (2) A State, a state institution or a public officer shall not use any public resource to— (a) support or to campaign in support of a candidate, a political party or a referendum committee; or (b) support any organisation that is supporting or campaigning for a candidate, political party or a referendum committee. (3) A candidate who or a political party or a referendum committee which receives any campaign support referred to in subsection (I) shall, within forty-eight hours of the receipt, report such receipt and submit the contribution to the Commission. (4) A candidate who or a political party or a referendum committee which does not report receipt of support in accordance with subsection (2) shall be disqualified from contesting in that election or in the referendum, campaigning as the case may be. (5) Public resources referred to under subsection (1) shall not include public funding provided for the Political Party Fund established under the Political Parties Act (Cap. 7D). (6) A candidate who or a political party or a referendum committee which contravenes subsection (1) commits an offence. 15. Support by an organisation (1) Any person who, or an organisation which contributes to a candidate, a political party or a referendum committee shall channel such contributions through the expenditure accounts specified under sections 7, 8, 9 and 10. (2) An organisation which intends to campaign in support of a candidate, a political party or a referendum committee shall— (a) in writing, seek consent to campaign from the candidate, the political party or the referendum committee as the case may be the organisation intends to campaign in support of; (b) register with the Commission; and (c) open a campaign financing account into which the contributions shall be deposited, in the case of— (i) a candidate or a political party committee, at least eight months before the polling day; or (ii) a referendum committee, at the time of registration of that committee. (3) The money spent by an organisation to campaign in support of a candidate, a political party or a referendum committee shall be within the spending limits specified under this Act. (4) An organisation which campaigns in support of a candidate or a political party contesting in an election or a referendum committee shall, within one month after the election, submit its final report to the respective authorised person. 8",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n(3) A candidate who or a political party or a referendum committee which fails to submit the\ncontributions referred to in subsection (1) commits an offence.\n14. Prohibition on contributions\n(1) A candidate, a political party or a referendum committee shall not receive any contribution or\ndonation, in cash or in kind from the State, a State institution or agency or any other public\nresource.\n(2) A State, a state institution or a public officer shall not use any public resource to—\n(a) support or to campaign in support of a candidate, a political party or a referendum\ncommittee; or\n(b) support any organisation that is supporting or campaigning for a candidate, political party or\na referendum committee.\n(3) A candidate who or a political party or a referendum committee which receives any campaign\nsupport referred to in subsection (I) shall, within forty-eight hours of the receipt, report such\nreceipt and submit the contribution to the Commission.\n(4) A candidate who or a political party or a referendum committee which does not report receipt of\nsupport in accordance with subsection (2) shall be disqualified from contesting in that election or in\nthe referendum, campaigning as the case may be.\n(5) Public resources referred to under subsection (1) shall not include public funding provided for the\nPolitical Party Fund established under the Political Parties Act (Cap. 7D).\n(6) A candidate who or a political party or a referendum committee which contravenes subsection (1)\ncommits an offence.\n15. Support by an organisation\n(1) Any person who, or an organisation which contributes to a candidate, a political party or a\nreferendum committee shall channel such contributions through the expenditure accounts\nspecified under sections 7, 8, 9 and 10.\n(2) An organisation which intends to campaign in support of a candidate, a political party or a\nreferendum committee shall—\n(a) in writing, seek consent to campaign from the candidate, the political party or the\nreferendum committee as the case may be the organisation intends to campaign in support\nof;\n(b) register with the Commission; and\n(c) open a campaign financing account into which the contributions shall be deposited, in the\ncase of—\n(i) a candidate or a political party committee, at least eight months before the polling\nday; or\n(ii) a referendum committee, at the time of registration of that committee.\n(3) The money spent by an organisation to campaign in support of a candidate, a political party or a\nreferendum committee shall be within the spending limits specified under this Act.\n(4) An organisation which campaigns in support of a candidate or a political party contesting in an\nelection or a referendum committee shall, within one month after the election, submit its final\nreport to the respective authorised person.",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya (3) A candidate who or a political party or a referendum committee which fails to submit the contributions referred to in subsection (1) commits an offence. 14. Prohibition on contributions (1) A candidate, a political party or a referendum committee shall not receive any contribution or donation, in cash or in kind from the State, a State institution or agency or any other public resource. (2) A State, a state institution or a public officer shall not use any public resource to— (a) support or to campaign in support of a candidate, a political party or a referendum committee; or (b) support any organisation that is supporting or campaigning for a candidate, political party or a referendum committee. (3) A candidate who or a political party or a referendum committee which receives any campaign support referred to in subsection (I) shall, within forty-eight hours of the receipt, report such receipt and submit the contribution to the Commission. (4) A candidate who or a political party or a referendum committee which does not report receipt of support in accordance with subsection (2) shall be disqualified from contesting in that election or in the referendum, campaigning as the case may be. (5) Public resources referred to under subsection (1) shall not include public funding provided for the Political Party Fund established under the Political Parties Act (Cap. 7D). (6) A candidate who or a political party or a referendum committee which contravenes subsection (1) commits an offence. 15. Support by an organisation (1) Any person who, or an organisation which contributes to a candidate, a political party or a referendum committee shall channel such contributions through the expenditure accounts specified under sections 7, 8, 9 and 10. (2) An organisation which intends to campaign in support of a candidate, a political party or a referendum committee shall— (a) in writing, seek consent to campaign from the candidate, the political party or the referendum committee as the case may be the organisation intends to campaign in support of; (b) register with the Commission; and (c) open a campaign financing account into which the contributions shall be deposited, in the case of— (i) a candidate or a political party committee, at least eight months before the polling day; or (ii) a referendum committee, at the time of registration of that committee. (3) The money spent by an organisation to campaign in support of a candidate, a political party or a referendum committee shall be within the spending limits specified under this Act. (4) An organisation which campaigns in support of a candidate or a political party contesting in an election or a referendum committee shall, within one month after the election, submit its final report to the respective authorised person. 8"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n(3) A candidate who or a political party or a referendum committee which fails to submit the\ncontributions referred to in subsection (1) commits an offence.\n14. Prohibition on contributions\n(1) A candidate, a political party or a referendum committee shall not receive any contribution or\ndonation, in cash or in kind from the State, a State institution or agency or any other public\nresource.\n(2) A State, a state institution or a public officer shall not use any public resource to—\n(a) support or to campaign in support of a candidate, a political party or a referendum\ncommittee; or\n(b) support any organisation that is supporting or campaigning for a candidate, political party or\na referendum committee.\n(3) A candidate who or a political party or a referendum committee which receives any campaign\nsupport referred to in subsection (I) shall, within forty-eight hours of the receipt, report such\nreceipt and submit the contribution to the Commission.\n(4) A candidate who or a political party or a referendum committee which does not report receipt of\nsupport in accordance with subsection (2) shall be disqualified from contesting in that election or in\nthe referendum, campaigning as the case may be.\n(5) Public resources referred to under subsection (1) shall not include public funding provided for the\nPolitical Party Fund established under the Political Parties Act (Cap. 7D).\n(6) A candidate who or a political party or a referendum committee which contravenes subsection (1)\ncommits an offence.\n15. Support by an organisation\n(1) Any person who, or an organisation which contributes to a candidate, a political party or a\nreferendum committee shall channel such contributions through the expenditure accounts\nspecified under sections 7, 8, 9 and 10.\n(2) An organisation which intends to campaign in support of a candidate, a political party or a\nreferendum committee shall—\n(a) in writing, seek consent to campaign from the candidate, the political party or the\nreferendum committee as the case may be the organisation intends to campaign in support\nof;\n(b) register with the Commission; and\n(c) open a campaign financing account into which the contributions shall be deposited, in the\ncase of—\n(i) a candidate or a political party committee, at least eight months before the polling\nday; or\n(ii) a referendum committee, at the time of registration of that committee.\n(3) The money spent by an organisation to campaign in support of a candidate, a political party or a\nreferendum committee shall be within the spending limits specified under this Act.\n(4) An organisation which campaigns in support of a candidate or a political party contesting in an\nelection or a referendum committee shall, within one month after the election, submit its final\nreport to the respective authorised person."
     ],
     "figures": [],
     "tables": [],
@@ -309,24 +585,50 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
-    "keywords": [],
+    "keywords": [
+      "expenditure"
+    ],
     "page_stats": {
-      "word_count": 464,
+      "word_count": 463,
       "paragraph_count": 1,
       "sentence_count": 15,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2853,
+      "word_count": 463,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 12,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_013": {
     "page_number": 13,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya 16. Disclosure of funds (1) A candidate who, or a political party or a referendum committee which, receives contributions under this Act shall issue a receipt for any contribution exceeding twenty thousand shillings. (2) Where contributions are received from a harambee, the authorised person shall keep a record of the specific details of the harambee including the venue, date, organiser of the harambee and total contributions. (3) A candidate, political party and a referendum committee shall disclose the amount and source of contributions received for campaign for a nomination, an election or a referendum, as the case may be. (4) The disclosure of funds under this section shall, for purposes of this Act and in the absence of any other factors, be sufficient evidence that the candidate, political party or referendum committee has complied with the requirement for disclosure of funds. (5) The disclosure of funds shall be confidential and details of such funds shall not be divulged except where such information is the subject of a complaint or an investigation, or is the subject of proceedings in a court of law. (6) A candidate who, or a political party or referendum committee which fails to disclose funds or donations as required under this Act commits an offence. 17. Surplus campaign funds A candidate, political party or a referendum committee shall— (a) within three months after the date of an election or referendum, notify the Commission of any surplus campaign funds held in the expenditure committee; (b) within three months after the date of an election or referendum, submit the surplus campaign funds to — (i) in the case of a political party campaign finance committee, to the political party; (ii) in the case of a party candidate, to the political party that nominated the candidate for purposes of the activities of the youth, women and persons with disability; (iii) in the case of an independent candidate or a referendum committee, to a charitable organisation preferred by that independent candidate or referendum committee, as the case may be; (c) within three months after the date of an election or referendum, report to the Commission in respect of the action taken under this section. 18. Spending limits (1) The Commission shall, at least twelve months before an election, by notice in the Gazette, prescribe the spending limits including the total amount that a candidate, political party or referendum committee may spend during an expenditure period, including the limit for media coverage. (2) Except for contribution by a candidate into his or her own campaign financing account, any contribution from a person, organisation or any other lawful source contributed to a candidate, a political party or a referendum committee campaign financing account shall not exceed the limit of the total contribution prescribed under subsection (1). (3) The Commission may, by notice in the Gazette, vary the spending limits prescribed under subsection (1). 9",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n16. Disclosure of funds\n(1) A candidate who, or a political party or a referendum committee which, receives contributions\nunder this Act shall issue a receipt for any contribution exceeding twenty thousand shillings.\n(2) Where contributions are received from a harambee, the authorised person shall keep a record of\nthe specific details of the harambee including the venue, date, organiser of the harambee and total\ncontributions.\n(3) A candidate, political party and a referendum committee shall disclose the amount and source of\ncontributions received for campaign for a nomination, an election or a referendum, as the case may\nbe.\n(4) The disclosure of funds under this section shall, for purposes of this Act and in the absence of any\nother factors, be sufficient evidence that the candidate, political party or referendum committee has\ncomplied with the requirement for disclosure of funds.\n(5) The disclosure of funds shall be confidential and details of such funds shall not be divulged except\nwhere such information is the subject of a complaint or an investigation, or is the subject of\nproceedings in a court of law.\n(6) A candidate who, or a political party or referendum committee which fails to disclose funds or\ndonations as required under this Act commits an offence.\n17. Surplus campaign funds\nA candidate, political party or a referendum committee shall—\n(a) within three months after the date of an election or referendum, notify the Commission of any\nsurplus campaign funds held in the expenditure committee;\n(b) within three months after the date of an election or referendum, submit the surplus campaign\nfunds to —\n(i) in the case of a political party campaign finance committee, to the political party;\n(ii) in the case of a party candidate, to the political party that nominated the candidate for\npurposes of the activities of the youth, women and persons with disability;\n(iii) in the case of an independent candidate or a referendum committee, to a charitable organisation\npreferred by that independent candidate or referendum committee, as the case may be;\n(c) within three months after the date of an election or referendum, report to the Commission in\nrespect of the action taken under this section.\n18. Spending limits\n(1) The Commission shall, at least twelve months before an election, by notice in the Gazette, prescribe\nthe spending limits including the total amount that a candidate, political party or referendum\ncommittee may spend during an expenditure period, including the limit for media coverage.\n(2) Except for contribution by a candidate into his or her own campaign financing account, any\ncontribution from a person, organisation or any other lawful source contributed to a candidate, a\npolitical party or a referendum committee campaign financing account shall not exceed the limit of\nthe total contribution prescribed under subsection (1).\n(3) The Commission may, by notice in the Gazette, vary the spending limits prescribed under\nsubsection (1).",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya 16. Disclosure of funds (1) A candidate who, or a political party or a referendum committee which, receives contributions under this Act shall issue a receipt for any contribution exceeding twenty thousand shillings. (2) Where contributions are received from a harambee, the authorised person shall keep a record of the specific details of the harambee including the venue, date, organiser of the harambee and total contributions. (3) A candidate, political party and a referendum committee shall disclose the amount and source of contributions received for campaign for a nomination, an election or a referendum, as the case may be. (4) The disclosure of funds under this section shall, for purposes of this Act and in the absence of any other factors, be sufficient evidence that the candidate, political party or referendum committee has complied with the requirement for disclosure of funds. (5) The disclosure of funds shall be confidential and details of such funds shall not be divulged except where such information is the subject of a complaint or an investigation, or is the subject of proceedings in a court of law. (6) A candidate who, or a political party or referendum committee which fails to disclose funds or donations as required under this Act commits an offence. 17. Surplus campaign funds A candidate, political party or a referendum committee shall— (a) within three months after the date of an election or referendum, notify the Commission of any surplus campaign funds held in the expenditure committee; (b) within three months after the date of an election or referendum, submit the surplus campaign funds to — (i) in the case of a political party campaign finance committee, to the political party; (ii) in the case of a party candidate, to the political party that nominated the candidate for purposes of the activities of the youth, women and persons with disability; (iii) in the case of an independent candidate or a referendum committee, to a charitable organisation preferred by that independent candidate or referendum committee, as the case may be; (c) within three months after the date of an election or referendum, report to the Commission in respect of the action taken under this section. 18. Spending limits (1) The Commission shall, at least twelve months before an election, by notice in the Gazette, prescribe the spending limits including the total amount that a candidate, political party or referendum committee may spend during an expenditure period, including the limit for media coverage. (2) Except for contribution by a candidate into his or her own campaign financing account, any contribution from a person, organisation or any other lawful source contributed to a candidate, a political party or a referendum committee campaign financing account shall not exceed the limit of the total contribution prescribed under subsection (1). (3) The Commission may, by notice in the Gazette, vary the spending limits prescribed under subsection (1). 9"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n16. Disclosure of funds\n(1) A candidate who, or a political party or a referendum committee which, receives contributions\nunder this Act shall issue a receipt for any contribution exceeding twenty thousand shillings.\n(2) Where contributions are received from a harambee, the authorised person shall keep a record of\nthe specific details of the harambee including the venue, date, organiser of the harambee and total\ncontributions.\n(3) A candidate, political party and a referendum committee shall disclose the amount and source of\ncontributions received for campaign for a nomination, an election or a referendum, as the case may\nbe.\n(4) The disclosure of funds under this section shall, for purposes of this Act and in the absence of any\nother factors, be sufficient evidence that the candidate, political party or referendum committee has\ncomplied with the requirement for disclosure of funds.\n(5) The disclosure of funds shall be confidential and details of such funds shall not be divulged except\nwhere such information is the subject of a complaint or an investigation, or is the subject of\nproceedings in a court of law.\n(6) A candidate who, or a political party or referendum committee which fails to disclose funds or\ndonations as required under this Act commits an offence.\n17. Surplus campaign funds\nA candidate, political party or a referendum committee shall—\n(a) within three months after the date of an election or referendum, notify the Commission of any\nsurplus campaign funds held in the expenditure committee;\n(b) within three months after the date of an election or referendum, submit the surplus campaign\nfunds to —\n(i) in the case of a political party campaign finance committee, to the political party;\n(ii) in the case of a party candidate, to the political party that nominated the candidate for\npurposes of the activities of the youth, women and persons with disability;\n(iii) in the case of an independent candidate or a referendum committee, to a charitable organisation\npreferred by that independent candidate or referendum committee, as the case may be;\n(c) within three months after the date of an election or referendum, report to the Commission in\nrespect of the action taken under this section.\n18. Spending limits\n(1) The Commission shall, at least twelve months before an election, by notice in the Gazette, prescribe\nthe spending limits including the total amount that a candidate, political party or referendum\ncommittee may spend during an expenditure period, including the limit for media coverage.\n(2) Except for contribution by a candidate into his or her own campaign financing account, any\ncontribution from a person, organisation or any other lawful source contributed to a candidate, a\npolitical party or a referendum committee campaign financing account shall not exceed the limit of\nthe total contribution prescribed under subsection (1).\n(3) The Commission may, by notice in the Gazette, vary the spending limits prescribed under\nsubsection (1)."
     ],
     "figures": [],
     "tables": [],
@@ -334,24 +636,50 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
-    "keywords": [],
+    "keywords": [
+      "expenditure"
+    ],
     "page_stats": {
-      "word_count": 488,
+      "word_count": 487,
       "paragraph_count": 1,
       "sentence_count": 14,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 3041,
+      "word_count": 487,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 13,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_014": {
     "page_number": 14,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya (4) The Commission shall, in prescribing spending limits under subsection (1), take into consideration — (a) geographical features and urban centres; (b) the type of election; (c) the population in an electoral area; (d) the number of party members in an electoral area; and (e) the communication infrastructure in an electoral area. (5) Subsection (4)(d) shall only apply with respect to party nomination expenditure of a party candidate. (6) Where a candidate, political party or a referendum committee exceeds the spending limits prescribed under this section due to unforeseeable and extraneous circumstances, the candidate, political party or referendum committee shall file a report with the Commission specifying the reasons for exceeding the limit, with such time as the Commission may prescribe and the Commission shall determine if such spending was justifiable. (7) A candidate who, or a political party or referendum committee which, exceeds the prescribed spending limits and fails to report this fact to the Commission commits an offence. 19. Authorised expenditures The Commission shall, at least twelve months before an election, by notice in the Gazette, prescribe the nature of authorised items or activities for which campaign expenses may be incurred, including the cost of— (a) venue where campaign activities may be undertaken; (b) publicity material for campaigns; (c) advertising for the campaigns; (d) campaign personnel; (e) transportation in respect of campaign activities; and (f) any other justifiable expenses. 20. Media coverage (1) The Commission shall, after consultations with political parties, the officers responsible for the state-owned media enterprises and authorities responsible for the regulation of media in Kenya, set out the limit of media coverage of a candidate, political party or a referendum committee, which shall include — (a) paid-up advertisement; and (b) free broadcasting spots or coverage in the print media. (2) The Commission shall establish mechanisms to monitor media coverage for purposes of campaign as may be necessary to enforce the limits set out under subsection (1). (3) A candidate, political party, referendum committee or a media enterprise which breaches the limits prescribed under this section commits an offence. 10",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n(4) The Commission shall, in prescribing spending limits under subsection (1), take into consideration\n—\n(a) geographical features and urban centres;\n(b) the type of election;\n(c) the population in an electoral area;\n(d) the number of party members in an electoral area; and\n(e) the communication infrastructure in an electoral area.\n(5) Subsection (4)(d) shall only apply with respect to party nomination expenditure of a party\ncandidate.\n(6) Where a candidate, political party or a referendum committee exceeds the spending limits\nprescribed under this section due to unforeseeable and extraneous circumstances, the candidate,\npolitical party or referendum committee shall file a report with the Commission specifying\nthe reasons for exceeding the limit, with such time as the Commission may prescribe and the\nCommission shall determine if such spending was justifiable.\n(7) A candidate who, or a political party or referendum committee which, exceeds the prescribed\nspending limits and fails to report this fact to the Commission commits an offence.\n19. Authorised expenditures\nThe Commission shall, at least twelve months before an election, by notice in the Gazette, prescribe the\nnature of authorised items or activities for which campaign expenses may be incurred, including the cost\nof—\n(a) venue where campaign activities may be undertaken;\n(b) publicity material for campaigns;\n(c) advertising for the campaigns;\n(d) campaign personnel;\n(e) transportation in respect of campaign activities; and\n(f) any other justifiable expenses.\n20. Media coverage\n(1) The Commission shall, after consultations with political parties, the officers responsible for the\nstate-owned media enterprises and authorities responsible for the regulation of media in Kenya, set\nout the limit of media coverage of a candidate, political party or a referendum committee, which\nshall include —\n(a) paid-up advertisement; and\n(b) free broadcasting spots or coverage in the print media.\n(2) The Commission shall establish mechanisms to monitor media coverage for purposes of campaign\nas may be necessary to enforce the limits set out under subsection (1).\n(3) A candidate, political party, referendum committee or a media enterprise which breaches the limits\nprescribed under this section commits an offence.",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya (4) The Commission shall, in prescribing spending limits under subsection (1), take into consideration — (a) geographical features and urban centres; (b) the type of election; (c) the population in an electoral area; (d) the number of party members in an electoral area; and (e) the communication infrastructure in an electoral area. (5) Subsection (4)(d) shall only apply with respect to party nomination expenditure of a party candidate. (6) Where a candidate, political party or a referendum committee exceeds the spending limits prescribed under this section due to unforeseeable and extraneous circumstances, the candidate, political party or referendum committee shall file a report with the Commission specifying the reasons for exceeding the limit, with such time as the Commission may prescribe and the Commission shall determine if such spending was justifiable. (7) A candidate who, or a political party or referendum committee which, exceeds the prescribed spending limits and fails to report this fact to the Commission commits an offence. 19. Authorised expenditures The Commission shall, at least twelve months before an election, by notice in the Gazette, prescribe the nature of authorised items or activities for which campaign expenses may be incurred, including the cost of— (a) venue where campaign activities may be undertaken; (b) publicity material for campaigns; (c) advertising for the campaigns; (d) campaign personnel; (e) transportation in respect of campaign activities; and (f) any other justifiable expenses. 20. Media coverage (1) The Commission shall, after consultations with political parties, the officers responsible for the state-owned media enterprises and authorities responsible for the regulation of media in Kenya, set out the limit of media coverage of a candidate, political party or a referendum committee, which shall include — (a) paid-up advertisement; and (b) free broadcasting spots or coverage in the print media. (2) The Commission shall establish mechanisms to monitor media coverage for purposes of campaign as may be necessary to enforce the limits set out under subsection (1). (3) A candidate, political party, referendum committee or a media enterprise which breaches the limits prescribed under this section commits an offence. 10"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n(4) The Commission shall, in prescribing spending limits under subsection (1), take into consideration\n—\n(a) geographical features and urban centres;\n(b) the type of election;\n(c) the population in an electoral area;\n(d) the number of party members in an electoral area; and\n(e) the communication infrastructure in an electoral area.\n(5) Subsection (4)(d) shall only apply with respect to party nomination expenditure of a party\ncandidate.\n(6) Where a candidate, political party or a referendum committee exceeds the spending limits\nprescribed under this section due to unforeseeable and extraneous circumstances, the candidate,\npolitical party or referendum committee shall file a report with the Commission specifying\nthe reasons for exceeding the limit, with such time as the Commission may prescribe and the\nCommission shall determine if such spending was justifiable.\n(7) A candidate who, or a political party or referendum committee which, exceeds the prescribed\nspending limits and fails to report this fact to the Commission commits an offence.\n19. Authorised expenditures\nThe Commission shall, at least twelve months before an election, by notice in the Gazette, prescribe the\nnature of authorised items or activities for which campaign expenses may be incurred, including the cost\nof—\n(a) venue where campaign activities may be undertaken;\n(b) publicity material for campaigns;\n(c) advertising for the campaigns;\n(d) campaign personnel;\n(e) transportation in respect of campaign activities; and\n(f) any other justifiable expenses.\n20. Media coverage\n(1) The Commission shall, after consultations with political parties, the officers responsible for the\nstate-owned media enterprises and authorities responsible for the regulation of media in Kenya, set\nout the limit of media coverage of a candidate, political party or a referendum committee, which\nshall include —\n(a) paid-up advertisement; and\n(b) free broadcasting spots or coverage in the print media.\n(2) The Commission shall establish mechanisms to monitor media coverage for purposes of campaign\nas may be necessary to enforce the limits set out under subsection (1).\n(3) A candidate, political party, referendum committee or a media enterprise which breaches the limits\nprescribed under this section commits an offence."
     ],
     "figures": [],
     "tables": [],
@@ -359,24 +687,50 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
-    "keywords": [],
+    "keywords": [
+      "expenditure"
+    ],
     "page_stats": {
-      "word_count": 352,
+      "word_count": 351,
       "paragraph_count": 1,
       "sentence_count": 11,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2336,
+      "word_count": 351,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 14,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_015": {
     "page_number": 15,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya Part V – DISPUTE RESOLUTION AND OFFENCES 21. Dispute resolution (1) Any person may lodge a complaint with the Commission alleging that a breach of this Act has been committed. (2) The Commission may investigate a breach of this Act. (3) Where a complaint has been filed or a breach detected under this section, the Commission shall hear and determine that complaint— (a) within seven days, if filed before an election; or (b) within fourteen days, if filed after an election. (4) In determining a complaint, and subject to section 4, the Commission shall have the powers to— (a) request for the attendance of any person believed to have information related to the complaint; and (b) call for any information believed to be relevant in the determination of the complaint. (5) Where the Commission makes a finding that there is a breach of a provision of this Act, the Commission may make any of the following orders— (a) order the rectification of any record; (b) issue a formal warning; (c) impose a fine as may be specified under the regulations; (d) prohibit the errant candidate, political party or referendum committee from campaigning for a specified period or within a specified area; (e) prohibit media coverage of the errant candidate, political party or referendum committee within a specified period; or (f) disqualify the errant candidate, political party or referendum committee from contesting in that election or referendum, as the case may be. (6) Where the offence is discovered after an election and an order of disqualification is made, the candidate or the political party shall be disqualified from contesting in the subsequent by-election or general election. (7) Where an order of disqualification is made under this section, the order shall be— (a) registered in the High Court, in the case of presidential, parliamentary, governor elections or referendum; and (b) registered in the resident magistrate's court in the case of county assembly elections. 22. Offences A person who— (a) obstructs the Commission or any representative of the Commission from exercising powers under this Act; (b) refuses to produce books, reports and other documents when requested; (c) knowingly produces false books, reports and other documents; (d) knowingly gives false or incorrect information; 11",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\nPart V – DISPUTE RESOLUTION AND OFFENCES\n21. Dispute resolution\n(1) Any person may lodge a complaint with the Commission alleging that a breach of this Act has been\ncommitted.\n(2) The Commission may investigate a breach of this Act.\n(3) Where a complaint has been filed or a breach detected under this section, the Commission shall\nhear and determine that complaint—\n(a) within seven days, if filed before an election; or\n(b) within fourteen days, if filed after an election.\n(4) In determining a complaint, and subject to section 4, the Commission shall have the powers to—\n(a) request for the attendance of any person believed to have information related to the\ncomplaint; and\n(b) call for any information believed to be relevant in the determination of the complaint.\n(5) Where the Commission makes a finding that there is a breach of a provision of this Act, the\nCommission may make any of the following orders—\n(a) order the rectification of any record;\n(b) issue a formal warning;\n(c) impose a fine as may be specified under the regulations;\n(d) prohibit the errant candidate, political party or referendum committee from campaigning for\na specified period or within a specified area;\n(e) prohibit media coverage of the errant candidate, political party or referendum committee\nwithin a specified period; or\n(f) disqualify the errant candidate, political party or referendum committee from contesting in\nthat election or referendum, as the case may be.\n(6) Where the offence is discovered after an election and an order of disqualification is made, the\ncandidate or the political party shall be disqualified from contesting in the subsequent by-election\nor general election.\n(7) Where an order of disqualification is made under this section, the order shall be—\n(a) registered in the High Court, in the case of presidential, parliamentary, governor elections or\nreferendum; and\n(b) registered in the resident magistrate's court in the case of county assembly elections.\n22. Offences\nA person who—\n(a) obstructs the Commission or any representative of the Commission from exercising powers under\nthis Act;\n(b) refuses to produce books, reports and other documents when requested;\n(c) knowingly produces false books, reports and other documents;\n(d) knowingly gives false or incorrect information;",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya Part V – DISPUTE RESOLUTION AND OFFENCES 21. Dispute resolution (1) Any person may lodge a complaint with the Commission alleging that a breach of this Act has been committed. (2) The Commission may investigate a breach of this Act. (3) Where a complaint has been filed or a breach detected under this section, the Commission shall hear and determine that complaint— (a) within seven days, if filed before an election; or (b) within fourteen days, if filed after an election. (4) In determining a complaint, and subject to section 4, the Commission shall have the powers to— (a) request for the attendance of any person believed to have information related to the complaint; and (b) call for any information believed to be relevant in the determination of the complaint. (5) Where the Commission makes a finding that there is a breach of a provision of this Act, the Commission may make any of the following orders— (a) order the rectification of any record; (b) issue a formal warning; (c) impose a fine as may be specified under the regulations; (d) prohibit the errant candidate, political party or referendum committee from campaigning for a specified period or within a specified area; (e) prohibit media coverage of the errant candidate, political party or referendum committee within a specified period; or (f) disqualify the errant candidate, political party or referendum committee from contesting in that election or referendum, as the case may be. (6) Where the offence is discovered after an election and an order of disqualification is made, the candidate or the political party shall be disqualified from contesting in the subsequent by-election or general election. (7) Where an order of disqualification is made under this section, the order shall be— (a) registered in the High Court, in the case of presidential, parliamentary, governor elections or referendum; and (b) registered in the resident magistrate's court in the case of county assembly elections. 22. Offences A person who— (a) obstructs the Commission or any representative of the Commission from exercising powers under this Act; (b) refuses to produce books, reports and other documents when requested; (c) knowingly produces false books, reports and other documents; (d) knowingly gives false or incorrect information; 11"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\nPart V – DISPUTE RESOLUTION AND OFFENCES\n21. Dispute resolution\n(1) Any person may lodge a complaint with the Commission alleging that a breach of this Act has been\ncommitted.\n(2) The Commission may investigate a breach of this Act.\n(3) Where a complaint has been filed or a breach detected under this section, the Commission shall\nhear and determine that complaint—\n(a) within seven days, if filed before an election; or\n(b) within fourteen days, if filed after an election.\n(4) In determining a complaint, and subject to section 4, the Commission shall have the powers to—\n(a) request for the attendance of any person believed to have information related to the\ncomplaint; and\n(b) call for any information believed to be relevant in the determination of the complaint.\n(5) Where the Commission makes a finding that there is a breach of a provision of this Act, the\nCommission may make any of the following orders—\n(a) order the rectification of any record;\n(b) issue a formal warning;\n(c) impose a fine as may be specified under the regulations;\n(d) prohibit the errant candidate, political party or referendum committee from campaigning for\na specified period or within a specified area;\n(e) prohibit media coverage of the errant candidate, political party or referendum committee\nwithin a specified period; or\n(f) disqualify the errant candidate, political party or referendum committee from contesting in\nthat election or referendum, as the case may be.\n(6) Where the offence is discovered after an election and an order of disqualification is made, the\ncandidate or the political party shall be disqualified from contesting in the subsequent by-election\nor general election.\n(7) Where an order of disqualification is made under this section, the order shall be—\n(a) registered in the High Court, in the case of presidential, parliamentary, governor elections or\nreferendum; and\n(b) registered in the resident magistrate's court in the case of county assembly elections.\n22. Offences\nA person who—\n(a) obstructs the Commission or any representative of the Commission from exercising powers under\nthis Act;\n(b) refuses to produce books, reports and other documents when requested;\n(c) knowingly produces false books, reports and other documents;\n(d) knowingly gives false or incorrect information;"
     ],
     "figures": [],
     "tables": [],
@@ -384,24 +738,48 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
     "keywords": [],
     "page_stats": {
-      "word_count": 377,
+      "word_count": 376,
       "paragraph_count": 1,
       "sentence_count": 10,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2349,
+      "word_count": 376,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 15,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_016": {
     "page_number": 16,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya (e) knowingly makes false or incorrect statements in any returns or financial report required under this Act; or (f) knowingly destroys any books, records or other documents or things related to the subject matter of investigation examination or inspection under this Act, commits an offence and shall be liable on conviction to a fine not exceeding two million shillings or to imprisonment for a term not exceeding five years or to both. 23. Offences by a candidate, a political party or a referendum committee (1) A candidate who or a political party or a referendum committee which— (a) in the case of a party candidate or a political party, contravenes the party campaign expenditure rules; (b) knowingly gives false or incorrect information; (c) fails to submit the party expenditure reports to the Commission; or (d) exceeds the spending limits prescribed without reasonable explanation, commits an offence, and shall be liable on conviction to a fine not exceeding two million shillings or to imprisonment for a term not exceeding five years or to both. (2) Where a political party or a referendum committee commits an offence under this Act, every member of the governing body of that political party or the referendum committee shall be liable for the offence. (3) In addition to the penalty prescribed under subsection (1), a candidate, a political party or a referendum committee shall be disqualified from contesting in that election or that referendum, as the case may be. 24. General penalty A person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine not exceeding two million shillings or a term of imprisonment not exceeding five years or to both. Part VI – MISCELLANEOUS 25. Registration and dissolution of expenditure committees (1) The Commission shall prescribe the procedures for the registration and dissolution of expenditure committees. (2) The expenditure committees shall stand dissolved on submission of the final expenditure reports referred to in section 10. 26. Records (1) For purposes of financial accountability under this Act, a candidate, a political party, a referendum committee or an organization registered to campaign in support of a candidate, a political party or a referendum committee shall keep records of — (a) funds received for campaign expenses indicating the amount and the nature of funds received; (b) names, postal, physical and electronic addresses of contributors; (c) funds spent for nomination expenditure and campaign expenditure, as the case may be; and 12",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n(e) knowingly makes false or incorrect statements in any returns or financial report required under this\nAct; or\n(f) knowingly destroys any books, records or other documents or things related to the subject matter of\ninvestigation examination or inspection under this Act,\ncommits an offence and shall be liable on conviction to a fine not exceeding two million shillings or to\nimprisonment for a term not exceeding five years or to both.\n23. Offences by a candidate, a political party or a referendum committee\n(1) A candidate who or a political party or a referendum committee which—\n(a) in the case of a party candidate or a political party, contravenes the party campaign\nexpenditure rules;\n(b) knowingly gives false or incorrect information;\n(c) fails to submit the party expenditure reports to the Commission; or\n(d) exceeds the spending limits prescribed without reasonable explanation,\ncommits an offence, and shall be liable on conviction to a fine not exceeding two million shillings or\nto imprisonment for a term not exceeding five years or to both.\n(2) Where a political party or a referendum committee commits an offence under this Act, every\nmember of the governing body of that political party or the referendum committee shall be liable\nfor the offence.\n(3) In addition to the penalty prescribed under subsection (1), a candidate, a political party or a\nreferendum committee shall be disqualified from contesting in that election or that referendum, as\nthe case may be.\n24. General penalty\nA person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine\nnot exceeding two million shillings or a term of imprisonment not exceeding five years or to both.\nPart VI – MISCELLANEOUS\n25. Registration and dissolution of expenditure committees\n(1) The Commission shall prescribe the procedures for the registration and dissolution of expenditure\ncommittees.\n(2) The expenditure committees shall stand dissolved on submission of the final expenditure reports\nreferred to in section 10.\n26. Records\n(1) For purposes of financial accountability under this Act, a candidate, a political party, a referendum\ncommittee or an organization registered to campaign in support of a candidate, a political party or\na referendum committee shall keep records of —\n(a) funds received for campaign expenses indicating the amount and the nature of funds\nreceived;\n(b) names, postal, physical and electronic addresses of contributors;\n(c) funds spent for nomination expenditure and campaign expenditure, as the case may be; and",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya (e) knowingly makes false or incorrect statements in any returns or financial report required under this Act; or (f) knowingly destroys any books, records or other documents or things related to the subject matter of investigation examination or inspection under this Act, commits an offence and shall be liable on conviction to a fine not exceeding two million shillings or to imprisonment for a term not exceeding five years or to both. 23. Offences by a candidate, a political party or a referendum committee (1) A candidate who or a political party or a referendum committee which— (a) in the case of a party candidate or a political party, contravenes the party campaign expenditure rules; (b) knowingly gives false or incorrect information; (c) fails to submit the party expenditure reports to the Commission; or (d) exceeds the spending limits prescribed without reasonable explanation, commits an offence, and shall be liable on conviction to a fine not exceeding two million shillings or to imprisonment for a term not exceeding five years or to both. (2) Where a political party or a referendum committee commits an offence under this Act, every member of the governing body of that political party or the referendum committee shall be liable for the offence. (3) In addition to the penalty prescribed under subsection (1), a candidate, a political party or a referendum committee shall be disqualified from contesting in that election or that referendum, as the case may be. 24. General penalty A person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine not exceeding two million shillings or a term of imprisonment not exceeding five years or to both. Part VI – MISCELLANEOUS 25. Registration and dissolution of expenditure committees (1) The Commission shall prescribe the procedures for the registration and dissolution of expenditure committees. (2) The expenditure committees shall stand dissolved on submission of the final expenditure reports referred to in section 10. 26. Records (1) For purposes of financial accountability under this Act, a candidate, a political party, a referendum committee or an organization registered to campaign in support of a candidate, a political party or a referendum committee shall keep records of — (a) funds received for campaign expenses indicating the amount and the nature of funds received; (b) names, postal, physical and electronic addresses of contributors; (c) funds spent for nomination expenditure and campaign expenditure, as the case may be; and 12"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n(e) knowingly makes false or incorrect statements in any returns or financial report required under this\nAct; or\n(f) knowingly destroys any books, records or other documents or things related to the subject matter of\ninvestigation examination or inspection under this Act,\ncommits an offence and shall be liable on conviction to a fine not exceeding two million shillings or to\nimprisonment for a term not exceeding five years or to both.\n23. Offences by a candidate, a political party or a referendum committee\n(1) A candidate who or a political party or a referendum committee which—\n(a) in the case of a party candidate or a political party, contravenes the party campaign\nexpenditure rules;\n(b) knowingly gives false or incorrect information;\n(c) fails to submit the party expenditure reports to the Commission; or\n(d) exceeds the spending limits prescribed without reasonable explanation,\ncommits an offence, and shall be liable on conviction to a fine not exceeding two million shillings or\nto imprisonment for a term not exceeding five years or to both.\n(2) Where a political party or a referendum committee commits an offence under this Act, every\nmember of the governing body of that political party or the referendum committee shall be liable\nfor the offence.\n(3) In addition to the penalty prescribed under subsection (1), a candidate, a political party or a\nreferendum committee shall be disqualified from contesting in that election or that referendum, as\nthe case may be.\n24. General penalty\nA person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine\nnot exceeding two million shillings or a term of imprisonment not exceeding five years or to both.\nPart VI – MISCELLANEOUS\n25. Registration and dissolution of expenditure committees\n(1) The Commission shall prescribe the procedures for the registration and dissolution of expenditure\ncommittees.\n(2) The expenditure committees shall stand dissolved on submission of the final expenditure reports\nreferred to in section 10.\n26. Records\n(1) For purposes of financial accountability under this Act, a candidate, a political party, a referendum\ncommittee or an organization registered to campaign in support of a candidate, a political party or\na referendum committee shall keep records of —\n(a) funds received for campaign expenses indicating the amount and the nature of funds\nreceived;\n(b) names, postal, physical and electronic addresses of contributors;\n(c) funds spent for nomination expenditure and campaign expenditure, as the case may be; and"
     ],
     "figures": [],
     "tables": [],
@@ -409,26 +787,51 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
     "keywords": [
-      "accountability"
+      "accountability",
+      "expenditure"
     ],
     "page_stats": {
-      "word_count": 418,
+      "word_count": 417,
       "paragraph_count": 1,
       "sentence_count": 12,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2608,
+      "word_count": 417,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 16,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   },
   "page_017": {
     "page_number": 17,
-    "text": "Election Campaign Financing Act (Cap. 7A) Kenya (d) in case of an organization registered to campaign in support of a candidate, a political party or a referendum committee, the name of the candidate, the political party or the referendum committee that the organization supported. (2) The Commission shall on request, make available for inspection information submitted by a candidate, a political party or a referendum committee under this Act. (3) A request for information referred to under subsection (2) shall be subject to confidentiality requirements of the Commission. 27. Audit of accounts The Auditor-General may, on the request of the Commission, audit the accounts relating to the campaign expenses of a candidate, a political party or a referendum committee. 28. Claims and objections (1) A person who objects to any matter related to campaign finance expenditures submitted by a candidate, political party or a referendum committee may file a claim to the Commission in the prescribed form and manner and within the prescribed time. (2) The claim submitted under subsection (1), shall be determined within — (a) seven days, if filed before an election; or (b) fourteen days, if filed after an election. 29. Provisions on delegated powers (1) The Commission may make regulations for the better performance of its functions under this Act, and such regulations shall be laid before the National Assembly for approval before they are published in the Gazette. (2) In particular and without prejudice to the generality of the power conferred by subsection (1), the Commission may make regulations— (a) providing for spending limits for the different elections; (b) providing guidelines for expenditure rules for political parties and independent candidates; (c) prescribing the manner in which contributions may be made; (d) prescribing procedures for disclosure of the amount of contributions made to a candidate or to a party, the nature of these contributions and the intended expenditures by a candidate or a party; (e) prescribing mechanisms and procedures for reporting on and monitoring the spending limits; (f) prescribing the manner in which records shall be prepared and maintained; (g) prescribing procedures for the determination of claims and objections; and (h) prescribing anything which is required to be prescribed for purposes of this Act. 13",
+    "text": "Election Campaign Financing Act (Cap. 7A) Kenya\n(d) in case of an organization registered to campaign in support of a candidate, a political party\nor a referendum committee, the name of the candidate, the political party or the referendum\ncommittee that the organization supported.\n(2) The Commission shall on request, make available for inspection information submitted by a\ncandidate, a political party or a referendum committee under this Act.\n(3) A request for information referred to under subsection (2) shall be subject to confidentiality\nrequirements of the Commission.\n27. Audit of accounts\nThe Auditor-General may, on the request of the Commission, audit the accounts relating to the campaign\nexpenses of a candidate, a political party or a referendum committee.\n28. Claims and objections\n(1) A person who objects to any matter related to campaign finance expenditures submitted by a\ncandidate, political party or a referendum committee may file a claim to the Commission in the\nprescribed form and manner and within the prescribed time.\n(2) The claim submitted under subsection (1), shall be determined within —\n(a) seven days, if filed before an election; or\n(b) fourteen days, if filed after an election.\n29. Provisions on delegated powers\n(1) The Commission may make regulations for the better performance of its functions under this\nAct, and such regulations shall be laid before the National Assembly for approval before they are\npublished in the Gazette.\n(2) In particular and without prejudice to the generality of the power conferred by subsection (1), the\nCommission may make regulations—\n(a) providing for spending limits for the different elections;\n(b) providing guidelines for expenditure rules for political parties and independent candidates;\n(c) prescribing the manner in which contributions may be made;\n(d) prescribing procedures for disclosure of the amount of contributions made to a candidate or\nto a party, the nature of these contributions and the intended expenditures by a candidate or\na party;\n(e) prescribing mechanisms and procedures for reporting on and monitoring the spending\nlimits;\n(f) prescribing the manner in which records shall be prepared and maintained;\n(g) prescribing procedures for the determination of claims and objections; and\n(h) prescribing anything which is required to be prescribed for purposes of this Act.",
     "paragraphs": [
-      "Election Campaign Financing Act (Cap. 7A) Kenya (d) in case of an organization registered to campaign in support of a candidate, a political party or a referendum committee, the name of the candidate, the political party or the referendum committee that the organization supported. (2) The Commission shall on request, make available for inspection information submitted by a candidate, a political party or a referendum committee under this Act. (3) A request for information referred to under subsection (2) shall be subject to confidentiality requirements of the Commission. 27. Audit of accounts The Auditor-General may, on the request of the Commission, audit the accounts relating to the campaign expenses of a candidate, a political party or a referendum committee. 28. Claims and objections (1) A person who objects to any matter related to campaign finance expenditures submitted by a candidate, political party or a referendum committee may file a claim to the Commission in the prescribed form and manner and within the prescribed time. (2) The claim submitted under subsection (1), shall be determined within — (a) seven days, if filed before an election; or (b) fourteen days, if filed after an election. 29. Provisions on delegated powers (1) The Commission may make regulations for the better performance of its functions under this Act, and such regulations shall be laid before the National Assembly for approval before they are published in the Gazette. (2) In particular and without prejudice to the generality of the power conferred by subsection (1), the Commission may make regulations— (a) providing for spending limits for the different elections; (b) providing guidelines for expenditure rules for political parties and independent candidates; (c) prescribing the manner in which contributions may be made; (d) prescribing procedures for disclosure of the amount of contributions made to a candidate or to a party, the nature of these contributions and the intended expenditures by a candidate or a party; (e) prescribing mechanisms and procedures for reporting on and monitoring the spending limits; (f) prescribing the manner in which records shall be prepared and maintained; (g) prescribing procedures for the determination of claims and objections; and (h) prescribing anything which is required to be prescribed for purposes of this Act. 13"
+      "Election Campaign Financing Act (Cap. 7A) Kenya\n(d) in case of an organization registered to campaign in support of a candidate, a political party\nor a referendum committee, the name of the candidate, the political party or the referendum\ncommittee that the organization supported.\n(2) The Commission shall on request, make available for inspection information submitted by a\ncandidate, a political party or a referendum committee under this Act.\n(3) A request for information referred to under subsection (2) shall be subject to confidentiality\nrequirements of the Commission.\n27. Audit of accounts\nThe Auditor-General may, on the request of the Commission, audit the accounts relating to the campaign\nexpenses of a candidate, a political party or a referendum committee.\n28. Claims and objections\n(1) A person who objects to any matter related to campaign finance expenditures submitted by a\ncandidate, political party or a referendum committee may file a claim to the Commission in the\nprescribed form and manner and within the prescribed time.\n(2) The claim submitted under subsection (1), shall be determined within —\n(a) seven days, if filed before an election; or\n(b) fourteen days, if filed after an election.\n29. Provisions on delegated powers\n(1) The Commission may make regulations for the better performance of its functions under this\nAct, and such regulations shall be laid before the National Assembly for approval before they are\npublished in the Gazette.\n(2) In particular and without prejudice to the generality of the power conferred by subsection (1), the\nCommission may make regulations—\n(a) providing for spending limits for the different elections;\n(b) providing guidelines for expenditure rules for political parties and independent candidates;\n(c) prescribing the manner in which contributions may be made;\n(d) prescribing procedures for disclosure of the amount of contributions made to a candidate or\nto a party, the nature of these contributions and the intended expenditures by a candidate or\na party;\n(e) prescribing mechanisms and procedures for reporting on and monitoring the spending\nlimits;\n(f) prescribing the manner in which records shall be prepared and maintained;\n(g) prescribing procedures for the determination of claims and objections; and\n(h) prescribing anything which is required to be prescribed for purposes of this Act."
     ],
     "figures": [],
     "tables": [],
@@ -436,19 +839,44 @@
     "percentages": [],
     "years": [],
     "constitutional_articles": [],
-    "legal_references": [],
+    "legal_references": [
+      "Election Campaign Financing Act"
+    ],
     "institutional_references": [],
     "citations": [],
     "scandals": [],
     "keywords": [
-      "audit"
+      "audit",
+      "expenditure"
     ],
     "page_stats": {
-      "word_count": 369,
+      "word_count": 368,
       "paragraph_count": 1,
       "sentence_count": 12,
       "monetary_count": 0,
-      "article_count": 0
-    }
+      "article_count": 0,
+      "table_count": 0,
+      "figure_count": 0,
+      "image_count": 1
+    },
+    "extraction_quality": {
+      "text_length": 2368,
+      "word_count": 368,
+      "has_tables": false,
+      "has_figures": false,
+      "has_images": true,
+      "quality_score": 0.4,
+      "method_used": "pdfplumber"
+    },
+    "images": [
+      {
+        "image_number": 1,
+        "page": 17,
+        "xref": 7,
+        "width": 423,
+        "height": 459,
+        "colorspace": 0
+      }
+    ]
   }
 }

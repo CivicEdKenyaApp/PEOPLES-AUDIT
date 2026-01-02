@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\comparative_studies\\imf_governance_diagnostic_framework_2018.pdf",
   "total_pages": 12,
-  "extraction_date": "2025-12-29T15:33:58.807394",
+  "extraction_date": "2025-12-30T02:28:29.562088",
   "file_hash": "ba77711cfd7606b7c883caad15cd0413a66156219e5e1c83ced6ad61f30c926e",
-  "file_size": 323096
+  "file_size": 432180,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

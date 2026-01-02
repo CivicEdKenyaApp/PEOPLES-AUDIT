@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\comparative_studies\\sri_lanka_governance_diagnostic_2023.pdf",
   "total_pages": 139,
-  "extraction_date": "2025-12-29T15:34:06.494197",
+  "extraction_date": "2025-12-30T02:30:02.952128",
   "file_hash": "71a580154216ed41155f759860c7610691cdba968a0473fa2b6df65444486224",
-  "file_size": 1402104
+  "file_size": 1695839,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

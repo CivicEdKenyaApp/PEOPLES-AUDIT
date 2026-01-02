@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\anti_corruption_economic_crimes_act_2003.pdf",
   "total_pages": 63,
-  "extraction_date": "2025-12-29T15:35:12.631508",
+  "extraction_date": "2025-12-30T02:39:42.861490",
   "file_hash": "4ccf5c0f01f116dfc12ae627cb5862142e9a4ae834af8e4f187c5a0a9b24d4e1",
-  "file_size": 698867
+  "file_size": 2273131,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\legal_frameworks\\proceeds_of_crime_aml_act_2023.pdf",
   "total_pages": 30,
-  "extraction_date": "2025-12-29T15:37:05.229045",
+  "extraction_date": "2025-12-30T02:55:31.112281",
   "file_hash": "016c481c3622b8f5786d93faa44d8212a5047d2be912ddf8dd0851aaa9437e47",
-  "file_size": 282198
+  "file_size": 381138,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }

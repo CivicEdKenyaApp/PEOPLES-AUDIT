@@ -1,5 +1,5 @@
 {
-  "generated_date": "2025-12-29T16:25:54.601988",
+  "generated_date": "2025-12-30T08:32:07.179942",
   "pipeline_version": "1.0",
   "files": [
     {
@@ -23,8 +23,8 @@
     {
       "path": "data\\all_consolidated_data.json",
       "type": ".json",
-      "size_bytes": 1467847,
-      "size_human": "1.4 MB"
+      "size_bytes": 1539014,
+      "size_human": "1.5 MB"
     },
     {
       "path": "data\\budget_analysis.csv",
@@ -59,7 +59,7 @@
     {
       "path": "data\\Kenya_Governance_By_The_Numbers.xlsx",
       "type": ".xlsx",
-      "size_bytes": 10026,
+      "size_bytes": 10025,
       "size_human": "9.8 KB"
     },
     {
@@ -266,7 +266,7 @@
       ".pdf": 1,
       ".txt": 1
     },
-    "total_size_bytes": 1644111,
+    "total_size_bytes": 1715277,
     "total_size_human": "1.6 MB"
   }
 }

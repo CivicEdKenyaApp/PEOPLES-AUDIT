@@ -1,7 +1,15 @@
 {
   "source_file": "D:\\CEKA\\Scripts PROJECTS\\PEOPLES_AUDIT\\input\\reference_materials\\comparative_studies\\indonesia_open_contracting_case_study.pdf",
   "total_pages": 11,
-  "extraction_date": "2025-12-29T15:34:01.567755",
+  "extraction_date": "2025-12-30T02:29:02.053557",
   "file_hash": "3a4d3761d90413903d3b1caaaade187f0101688b503881d097e59bdb03bc422c",
-  "file_size": 9389374
+  "file_size": 9479865,
+  "extraction_methods": {
+    "pypdf2": true,
+    "pdfplumber": true,
+    "pymupdf": true,
+    "ocr": true,
+    "camelot": true,
+    "tabula": true
+  }
 }
